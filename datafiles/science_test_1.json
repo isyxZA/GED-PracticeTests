@@ -1,0 +1,376 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "In an acid base reaction, an acid reacts with a base to produce water and a salt. The pH scale can be used to describe the acidity of a liquid.    Which two liquids could undergo an acid base reaction?",
+			"graphic": "Science_1_1",
+			"answers": [
+				"bleach and ammonia",
+				"lye and ammonia",
+				"bleach and vinegar",
+				"blood and saliva",
+				"stomach acid and beer"
+			],
+			"answer": "bleach and vinegar"
+		},
+		{
+			"number": 2,
+			"question": "According to Newton's laws of motion, an object set in motion remains in motion unless a force acts on it. If you suspend an object from a string and make it swing, the object will swing for a while, then slow down and stop. Why does the suspended object stop swinging?",
+			"graphic": "noone",
+			"answers": [
+				"because an object at rest remains at rest unless a force acts upon it",
+				"because the mass of the object is too small to maintain the motion",
+				"because energy is the ability to do work",
+				"because gravity is pulling it toward the Earth",
+				"because energy of motion is converted to heat through friction with air"
+			],
+			"answer": "because energy of motion is converted to heat through friction with air"
+		},
+		{
+			"number": 3,
+			"question": "In an exothermic process, heat is released by the process to the surroundings. An example of an exothermic process is burning wood. An endothermic process requires the input of heat from the surroundings. An example of an endothermic process is boiling water. Which of the following is an endothermic process?",
+			"graphic": "noone",
+			"answers": [
+				"detonation of an explosive",
+				"melting ice",
+				"burning paper",
+				"the formation of helium on the sun",
+				"freezing water"
+			],
+			"answer": "melting ice"
+		},
+		{
+			"number": 4,
+			"question": "Ice floats on water because",
+			"graphic": "noone",
+			"answers": [
+				"ice is less dense than water.",
+				"water conducts heat better than ice.",
+				"ice has a lower temperature.",
+				"heat from the Earth's core travels upward, cooling the bottom first.",
+				"it needs energy from the sun to melt."
+			],
+			"answer": "ice is less dense than water."
+		},
+		{
+			"number": 5,
+			"question": "Which of the following is NOT true about gravity?",
+			"graphic": "noone",
+			"answers": [
+				"The more massive two objects are, the greater the gravitational force between them.",
+				"Gravitational force between two objects depends only on the mass of the larger object.",
+				"Gravitational force between two objects depends on the distance between them.",
+				"People can jump higher on the moon than on Earth because the gravitational force\n between a person and the moon is lower than the gravitational force between a person and the Earth.",
+				"A gravitational force exists between the moon and the sun."
+			],
+			"answer": "Gravitational force between two objects depends only on the mass of the larger object."
+		},
+		{
+			"number": 6,
+			"question": "Change of phase is a process whereby matter changes form (solid, liquid, gas). Which one of the following constitutes a phase change?",
+			"graphic": "noone",
+			"answers": [
+				"condensation of water vapor",
+				"photosynthesis",
+				"digestion of food",
+				"dry-cleaning",
+				"exhaling"
+			],
+			"answer": "condensation of water vapor"
+		},
+		{
+			"number": 7,
+			"question": "Two negatively charged spheres",
+			"graphic": "noone",
+			"answers": [
+				"repel each other.",
+				"attract each other.",
+				"neither attract nor repel each other.",
+				"can either attract or repel each other depending on their position.",
+				"attract each other only when the distance between them is small."
+			],
+			"answer": "repel each other."
+		},
+		{
+			"number": 8,
+			"question": "Which statement about energy and/or matter is incorrect?",
+			"graphic": "noone",
+			"answers": [
+				"Matter and energy can't be destroyed.",
+				"Matter and energy can't be created.",
+				"All matter tends toward more disordered states.",
+				"Energy can be stored and transferred.",
+				"Heat energy is composed of heat atoms."
+			],
+			"answer": "Heat energy is composed of heat atoms."
+		},
+		{
+			"number": 9,
+			"question": "The boiling point in hydrocarbons (molecules containing H and C) increases with increasing molecular weight due to larger intermolecular forces. Which of these hydrocarbons would you expect to have the highest boiling point?",
+			"graphic": "noone",
+			"answers": ["CH4", "C2H6", "C3H8", "CH2", "C3H11"],
+			"answer": "C3H11"
+		},
+		{
+			"number": 10,
+			"question": "People wear woolen gloves in the winter because gloves",
+			"graphic": "noone",
+			"answers": [
+				"generate heat energy through radiation.",
+				"increase the temperature of cold air through convection.",
+				"decrease the loss of body heat to surroundings through insulation.",
+				"increase the amount of heat energy generated by the body through conduction.",
+				"transform cold wind energy into thermal energy."
+			],
+			"answer": "decrease the loss of body heat to surroundings through insulation."
+		},
+		{
+			"number": 11,
+			"question": "Different colors of light correspond to different wavelengths. Wavelengths are often quoted in nanometers (nm). The wavelengths of the visible part of the spectrum are shown in the diagram below. According to the diagram, blue-green light would most likely have a wavelength of",
+			"graphic": "Science_1_3",
+			"answers": ["670 nm.", "550nm.", "350nm.", "470nm.", "700nm."],
+			"answer": "470nm."
+		},
+		{
+			"number": 12,
+			"question": "What always stays the same when a chemical reaction takes place?",
+			"graphic": "noone",
+			"answers": [
+				"The number of atoms.",
+				"The number of molecules.",
+				"The amount of gas.",
+				"The amount of solid matter.",
+				"The amount of disorder."
+			],
+			"answer": "The number of atoms."
+		},
+		{
+			"number": 13,
+			"question": "Which of the following is NOT true about sunlight?",
+			"graphic": "noone",
+			"answers": [
+				"It is a form of radiation.",
+				"It is used as an energy source in solar-powered calculators.",
+				"It contains the colors of the rainbow.",
+				"Its speed is infinite.",
+				"It can be absorbed by plants."
+			],
+			"answer": "Its speed is infinite."
+		},
+		{
+			"number": 14,
+			"question": "In order to protect themselves from being eaten, animals resort to camouflage and chemical defense. Animals camouflage by mimicking the appearance of their environment. Animals that have chemical defenses contain chemicals noxious to predators. Which of these is NOT an example of camouflage or chemical defense?",
+			"graphic": "noone",
+			"answers": [
+				"A walking stick insect looks just like a twig.",
+				"A skunk has an awful smell.",
+				"Feathers of the pitohui bird in New Guinea contain a deadly toxin.",
+				"Roses have thorns.",
+				"A harlequin crab looks just like the sea cucumber it lives on."
+			],
+			"answer": "Roses have thorns."
+		},
+		{
+			"number": 15,
+			"question": "Osmosis is the movement of water across a selectively permeable membrane in order to equalize the concentration (the amount of protein per milliliter of water) on two sides of the membrane. Consider the diagram below. The container is divided into two compartments, A and B, by a selectively permeable membrane. Each circle represents 100 protein molecules that can't pass through the membrane. The amount of water on two sides of the membrane is initially equal. What will happen as a result of osmosis?",
+			"graphic": "Science_1_2",
+			"answers": [
+				"Protein will flow from compartment B to compartment A.",
+				"Protein will flow from compartment A to compartment B.",
+				"Water will flow from compartment B to compartment A.",
+				"Water will flow from compartment A to compartment B.",
+				"Both water and protein will flow from compartment B to compartment A."
+			],
+			"answer": "Water will flow from compartment A to compartment B."
+		},
+		{
+			"number": 16,
+			"question": "Which of the following statements about human genetics is true?",
+			"graphic": "noone",
+			"answers": [
+				"Half the chromosomes in a human are inherited from the mother, and half from the father.",
+				"A human looks 50% like the father, and 50% like the mother.",
+				"Fraternal twins are genetically more similar than siblings who are not twins.",
+				"Exposure to X-rays can have no effect on a human's chromosomes.",
+				"Genes are particles found in the nucleus of DNA atom."
+			],
+			"answer": "Half the chromosomes in a human are inherited from the mother, and half from the father."
+		},
+		{
+			"number": 17,
+			"question": "Identical twins have exactly the same genes. Identical twins result when",
+			"graphic": "noone",
+			"answers": [
+				"an egg fertilized by one sperm divides in two.",
+				"two eggs are fertilized with two sperm cells.",
+				"one egg divides in two and is fertilized by two sperm cells.",
+				"the same sperm cell fertilizes two eggs.",
+				"the same egg is fertilized by two sperm cells."
+			],
+			"answer": "an egg fertilized by one sperm divides in two."
+		},
+		{
+			"number": 18,
+			"question": "In peas, the gene for green color is dominant over the gene for yellow color. We will specify the gene for yellow peas as y, and the gene for green peas as Y. Each pea has two genes for color (one from each parent) and donates only one gene for color to its offspring. Yellow peas have the genotype yy. Any other genotype leads to green peas. Considering the following Punnett square, the offspring of these two parents",
+			"graphic": "Science_1_4",
+			"answers": [
+				"could never be yellow.",
+				"could never be green.",
+				"could be either green or yellow.",
+				"could be yellow-green.",
+				"could be yellow, but could never have yellow offspring."
+			],
+			"answer": "could be either green or yellow."
+		},
+		{
+			"number": 19,
+			"question": "Which of the following is NOT true?",
+			"graphic": "noone",
+			"answers": [
+				"All organisms are made of atoms.",
+				"All organisms are made of molecules.",
+				"All organisms are made of one or more cells.",
+				"All organisms have genetic material.",
+				"All organisms have a cell wall."
+			],
+			"answer": "All organisms have a cell wall."
+		},
+		{
+			"number": 20,
+			"question": "In humans, a pair of chromosomes (one from each parent) determines the sex of the baby. Females have two X chromosomes, while males have an X and a Y chromosome. The baby always gets an X chromosome from the mother, so in humans, the father determines the sex of the baby by supplying it with either an X chromosome to make it female, or a Y chromosome to make it male. In birds, like in humans, a pair of chromosomes determines the sex. Birds with two W chromosomes are male. Birds with a W chromosome and a Z chromosome are female. Which statement is true about birds?",
+			"graphic": "noone",
+			"answers": [
+				"The male bird determines the sex of the offspring by supplying it with the W or the Z chromosome.",
+				"The male bird determines the sex of the offspring by supplying it with one of its W chromosomes.",
+				"The male bird determines the sex of the offspring by supplying it with the X or the Y chromosome.",
+				"The female bird determines the sex of the offspring by supplying it with the X or the Y chromosome.",
+				"The female bird determines the sex of the offspring by supplying it with the W or the Z chromosome."
+			],
+			"answer": "The female bird determines the sex of the offspring by supplying it with the W or the Z chromosome."
+		},
+		{
+			"number": 21,
+			"question": "A species may live in association with another species. Such an arrangement is called symbiosis. Symbiosis in which both species benefit is called mutualism. If the symbiosis is beneficial to one species and neither beneficial nor harmful to the other, it is called commensalism. If one species benefits at the expense of the other, the relationship is called parasitism. A tick that attaches to the skin of a human or animal and feeds on its blood is an example of",
+			"graphic": "noone",
+			"answers": [
+				"commensalisms.",
+				"parasitism.",
+				"competition.",
+				"coevolution.",
+				"mutualism."
+			],
+			"answer": "parasitism."
+		},
+		{
+			"number": 22,
+			"question": "Questions 22 through 24 are based on the following passage. An island in the Adriatic Sea was overpopulated with snakes. Sailors who came to the island brought and let loose mongoose, animals that feed on snakes. The population of snakes started decreasing since the mongooses were eating them. The mongoose population started increasing since there was ample food around. The mongooses were not native to the island and there was no predator on the island to keep the mongoose population in check. At some point, there were hardly any snakes left on the island, and people started populating it. The mongoose, facing a shortage of snakes, started eating chickens that people kept for their eggs and meat. However, people caught on and protected the chickens from getting eaten. The mongoose population decreased. Some remain on the island, but their number is now at equilibrium, kept in check by the availability of food. The passage illustrates",
+			"graphic": "noone",
+			"answers": [
+				"the interdependence of organisms.",
+				"the fragility of an ecosystem.",
+				"the ability of humans to change an ecosystem.",
+				"the relationship between the population of predator and prey.",
+				"all of the above."
+			],
+			"answer": "all of the above."
+		},
+		{
+			"number": 23,
+			"question": "Questions 22 through 24 are based on the following passage. An island in the Adriatic Sea was overpopulated with snakes. Sailors who came to the island brought and let loose mongoose, animals that feed on snakes. The population of snakes started decreasing since the mongooses were eating them. The mongoose population started increasing since there was ample food around. The mongooses were not native to the island and there was no predator on the island to keep the mongoose population in check. At some point, there were hardly any snakes left on the island, and people started populating it. The mongoose, facing a shortage of snakes, started eating chickens that people kept for their eggs and meat. However, people caught on and protected the chickens from getting eaten. The mongoose population decreased. Some remain on the island, but their number is now at equilibrium, kept in check by the availability of food. There were hardly any snakes left on the island because",
+			"graphic": "noone",
+			"answers": [
+				"mongooses had eaten them.",
+				"people had killed them.",
+				"there was no predator for the mongooses.",
+				"sailors brought them prey",
+				"the chickens didn't taste as good to the mongooses."
+			],
+			"answer": "mongooses had eaten them."
+		},
+		{
+			"number": 24,
+			"question": "Questions 22 through 24 are based on the following passage. An island in the Adriatic Sea was overpopulated with snakes. Sailors who came to the island brought and let loose mongoose, animals that feed on snakes. The population of snakes started decreasing since the mongooses were eating them. The mongoose population started increasing since there was ample food around. The mongooses were not native to the island and there was no predator on the island to keep the mongoose population in check. At some point, there were hardly any snakes left on the island, and people started populating it. The mongoose, facing a shortage of snakes, started eating chickens that people kept for their eggs and meat. However, people caught on and protected the chickens from getting eaten. The mongoose population decreased. Some remain on the island, but their number is now at equilibrium, kept in check by the availability of food. Which statement best describes the change in the population of mongooses on the island?",
+			"graphic": "noone",
+			"answers": [
+				"The population was zero before sailors brought a few. The few then multiplied,\n and the number of mongooses on the island is still steadily growing.",
+				"The population was zero before sailors brought a few. The few then multiplied, increasing the number\n of mongooses. When the snakes were almost gone, the mongoose population started decreasing.",
+				"The population was small before sailors brought more mongooses, increasing the gene pool. The number of\n mongooses kept growing until the people started protecting the chickens.",
+				"The population was small before sailors brought more snakes, increasing the food supply for the mongoose. The number\n of mongooses kept growing until the snake population was almost gone. The mongooses died out since they ran out of food.",
+				"The population was initially large, but when a predator was brought by sailors, the number of mongooses decreased."
+			],
+			"answer": "The population was zero before sailors brought a few. The few then multiplied, increasing the number\n of mongooses. When the snakes were almost gone, the mongoose population started decreasing."
+		},
+		{
+			"number": 25,
+			"question": "There are four blood types in humans: A, B, AB, and O. An individual with blood type A has antibodies for B, so he or she can't receive type B blood. Similarly, a person with blood type B has antibodies for type A and can't receive type A blood. A person with AB blood type has no antibodies and can receive blood from anyone. A person with type O blood has both A and B antibodies and can receive blood only from someone else with type O blood. Based on this information, someone with type B blood can donate to",
+			"graphic": "noone",
+			"answers": [
+				"blood groups B and O",
+				"blood groups B and AB",
+				"only blood group B",
+				"only blood group AB",
+				"only blood group O"
+			],
+			"answer": "blood groups B and AB"
+		},
+		{
+			"number": 26,
+			"question": "Two main chemicals are responsible for the communication of the brain with the organs you have no conscious control over (heart, digestive system, endocrine system). The chemical norepinephrine helps your body get ready for a fightor-flight action by stirring up energy stores. In contrast, the chemical acetylcholine helps conserve energy by slowing the heart and increasing intestinal absorption. Which of the following situations is least likely to lead to increased levels of norepinephrine?",
+			"graphic": "noone",
+			"answers": [
+				"Being chased by a flesh-eating animal.",
+				"Running away from someone holding a knife.",
+				"Petting a rabbit.",
+				"Taking an important exam.",
+				"Going on a first date with someone."
+			],
+			"answer": "Petting a rabbit."
+		},
+		{
+			"number": 27,
+			"question": "Most bacteria cannot grow in high concentrations of salt. As a result,",
+			"graphic": "noone",
+			"answers": [
+				"salt acts as a preservative in ham, beef jerky, and other salty foods.",
+				"people who don't eat enough salt become anemic.",
+				"Utah's great Salt Lake is filled with bacteria.",
+				"most antibiotics are sweet.",
+				"there are no bacteria in fresh water."
+			],
+			"answer": "salt acts as a preservative in ham, beef jerky, and other salty foods."
+		},
+		{
+			"number": 28,
+			"question": "the early 19th century, almost all peppered moths collected by biologists in the U.K. were pale and mottled. Only rarely was a collector able to find a dark-peppered moth. After the Industrial Revolution, when furnaces filled the air with dark soot, the light-peppered moth became rare and the dark-peppered moth was most common in industrial cities. A reasonable explanation for this change is that the dark moth was less likely to be seen and eaten by birds against the dark background. This explanation illustrates the principle of",
+			"graphic": "noone",
+			"answers": [
+				"conservation of energy.",
+				"natural selection.",
+				"gene flow.",
+				"male competition.",
+				"acquired traits."
+			],
+			"answer": "natural selection."
+		},
+		{
+			"number": 29,
+			"question": "All of the following are mammals EXCEPT",
+			"graphic": "noone",
+			"answers": ["humans.", "rabbits.", "whales.", "penguins.", "rats."],
+			"answer": "penguins."
+		},
+		{
+			"number": 30,
+			"question": "All of the following are primates EXCEPT",
+			"graphic": "noone",
+			"answers": [
+				"humans.",
+				"gorillas.",
+				"whales.",
+				"chimpanzees.",
+				"orangutans"
+			],
+			"answer": "whales."
+		}
+	]
+}

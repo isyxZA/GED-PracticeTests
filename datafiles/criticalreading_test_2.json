@@ -1,0 +1,160 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "From the details of the passage, it can be learned or inferred that \n\nI. Dorothea and Celia are sisters. \nII. Dorothea and Celia may be orphans. \nIII. Dorothea and Celia are temperamentally very alike.",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"III only",
+				"I and II only",
+				"I and III only",
+				"II and III only",
+				"I, II, and, III"
+			],
+			"answer": "I and II only"
+		},
+		{
+			"number": 2,
+			"question": "The first paragraph of the passage refers to the 'infant school' and 'plan for some buildings' in order to suggest that Dorothea is",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"prying and interfering.",
+				"rich and idle.",
+				"self-centered and ambitious.",
+				"active and unselfish.",
+				"philanthropic and ineffectual."
+			],
+			"answer": "active and unselfish."
+		},
+		{
+			"number": 3,
+			"question": "In lines 22-23, Dorothea asks Celia whether it is 'six calendar or six lunar months' because she",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"wants to know exactly how many days have passed.",
+				"is good-humoredly teasing Celia.",
+				"had hoped to keep the jewels from Celia.",
+				"wants to demonstrate the scientific precision of her mind.",
+				"has forgotten what the current month is."
+			],
+			"answer": "is good-humoredly teasing Celia."
+		},
+		{
+			"number": 4,
+			"question": "In line 36, the phrase 'wanting in respect' can be best understood to mean",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"obliged to be more deferential.",
+				"desirous to esteem.",
+				"lewd in regard.",
+				"deficient in regard.",
+				"eager for consideration."
+			],
+			"answer": "deficient in regard."
+		},
+		{
+			"number": 5,
+			"question": "The 'argument' to which Celia has 'really applied herself' (line 46) is intended to convince Dorothea to",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"show greater respect for their dead mother.",
+				"give all the jewels to her.",
+				"give the most valuable of the jewels to her.",
+				"agree to sharing and wearing the jewels.",
+				"examine the jewels and lock them up again."
+			],
+			"answer": "agree to sharing and wearing the jewels."
+		},
+		{
+			"number": 6,
+			"question": "Although in lines 30-31 Dorothea has said, 'we should never wear them, you know', she changes her opinion because she",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"is moved by Celia's appeal to the memory of their mother.",
+				"is convinced by Celia's reference to Madame Poincon.",
+				"realizes that Celia wants to wear the jewels.",
+				"sees how becoming the jewels are to Celia.",
+				"can appear superior to Celia by refusing to wear them herself."
+			],
+			"answer": "realizes that Celia wants to wear the jewels."
+		},
+		{
+			"number": 7,
+			"question": "In line 77, the word 'deprecation' means",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"protest.",
+				"lessening.",
+				"indifference.",
+				"removal.",
+				"agreement."
+			],
+			"answer": "protest."
+		},
+		{
+			"number": 8,
+			"question": "The word 'trying' in line 98 means",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"irksome.",
+				"attempting.",
+				"effortful.",
+				"experimental.",
+				"determining."
+			],
+			"answer": "irksome."
+		},
+		{
+			"number": 9,
+			"question": "In lines 97-98, 'Puritanic toleration' is a reference to",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"Celia's awe of Dorothea.",
+				"Celia's acceptance of Dorothea's foibles.",
+				"Celia's love of jewels and finery.",
+				"Dorothea's hypocritical indifference to finery.",
+				"Dorothea's self-denial and generosity."
+			],
+			"answer": "Dorothea's self-denial and generosity."
+		},
+		{
+			"number": 10,
+			"question": "In the last sentence of the passage, the word 'unenthusiastic' refers to",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"Dorothea's refusal to wear jewels.",
+				"Dorothea's giving her permission for Celia to wear jewels.",
+				"Celia's attitude toward self-denial.",
+				"Celia's attitude toward wearing jewels.",
+				"the author's attitude toward Dorothea."
+			],
+			"answer": "Celia's attitude toward self-denial."
+		},
+		{
+			"number": 11,
+			"question": "The inconsistency in Dorothea's reasoning that the passage reveals is her",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"forgetting about when the jewels were given to her.",
+				"losing the keys to the cabinet holding the jewels.",
+				"insistence that Christians cannot wear jewels.",
+				"wanting Celia to wear jewels but refusing to wear them herself.",
+				"deceitful claim that she honors the memory of her mother."
+			],
+			"answer": "wanting Celia to wear jewels but refusing to wear them herself."
+		},
+		{
+			"number": 12,
+			"question": "The purpose of the passage as a whole is to",
+			"graphic": "Critical_2_1",
+			"answers": [
+				"reveal the likeness of Celia and Dorothea.",
+				"expose the submerged ill feelings between Celia and Dorothea.",
+				"reveal the differences in the natures of Celia and Dorothea.",
+				"demonstrate the dangers of materialism.",
+				"satirize the hypocrisy of the two young women."
+			],
+			"answer": "reveal the differences in the natures of Celia and Dorothea."
+		}
+	]
+}

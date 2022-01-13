@@ -1,0 +1,227 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Understanding the ________ that separate us from each other can also enable us to ________ the complex fabric of our society.",
+			"graphic": "noone",
+			"answers": [
+				"differences . . . appreciate",
+				"truths . . . combat",
+				"traditions . . . resolve",
+				"similarities . . . enrich",
+				"fears . . . complete"
+			],
+			"answer": "differences . . . appreciate"
+		},
+		{
+			"number": 2,
+			"question": "What is most needed in a discussion of immigration are solid facts, not wishful thinking; realities, not ________.",
+			"graphic": "noone",
+			"answers": ["explanations", "reasons", "ideas", "fears", "myths"],
+			"answer": "myths"
+		},
+		{
+			"number": 3,
+			"question": "South Korea's industrial production fell 6 percent last year, the largest annual ________ since 1980, fueling fears that the ________ economy is slipping deeper into recession.",
+			"graphic": "noone",
+			"answers": [
+				"figure . . . flourishing",
+				"decrease . . . steady",
+				"decline . . . sagging",
+				"change . . . lethargic",
+				"drop . . . booming"
+			],
+			"answer": "decline . . . sagging"
+		},
+		{
+			"number": 4,
+			"question": "By gradually winning the support of both liberals and conservatives, both rich and poor, the governor has demonstrated that her remarkable________ skills go side by side with her willingness to speak openly and ________ on controversial issues.",
+			"graphic": "noone",
+			"answers": [
+				"interpersonal . . . equivocally",
+				"diplomatic . . . frankly",
+				"organizational . . . covertly",
+				"personal . . . deceptively",
+				"intimidating . . . obscurely"
+			],
+			"answer": "diplomatic . . . frankly"
+		},
+		{
+			"number": 5,
+			"question": "Slander and libel laws stand as a protection of an individual's reputation against the ________ dissemination of falsehoods.",
+			"graphic": "noone",
+			"answers": [
+				"unintentional",
+				"inevitable",
+				"inferential",
+				"irresponsible",
+				"incontestable"
+			],
+			"answer": "irresponsible"
+		},
+		{
+			"number": 6,
+			"question": "Presenting love as foolish, compromised, or dangerous, his love songs are frankly ________.",
+			"graphic": "noone",
+			"answers": [
+				"lyrical",
+				"antiromantic",
+				"conventional",
+				"melodic",
+				"sentimental"
+			],
+			"answer": "antiromantic"
+		},
+		{
+			"number": 7,
+			"question": "By showing that the trainer's voice ________ gave commands to the horse, he was able to ________ the clever ruse which contended that an animal could add and subtract.",
+			"graphic": "noone",
+			"answers": [
+				"ostensibly . . . confirm",
+				"never . . . debunk",
+				"covertly . . . unmask",
+				"unwittingly . . . prove",
+				"potentially . . . defend"
+			],
+			"answer": "covertly . . . unmask"
+		},
+		{
+			"number": 8,
+			"question": "For an actor so changeable and unpredictable, even the word ________ seems inadequate.",
+			"graphic": "noone",
+			"answers": ["immutable", "mercurial", "stoical", "placid", "obstinate"],
+			"answer": "mercurial"
+		},
+		{
+			"number": 9,
+			"question": "A ________ is distrustful of human goodness and sincerity, and a ________ has a hatred of people in general.",
+			"graphic": "noone",
+			"answers": [
+				"pessimist . . . ingrate",
+				"siren . . . tyrant",
+				"altruist . . . anarchist",
+				"cynic . . . misanthrope",
+				"philanthropist . . . misogynist"
+			],
+			"answer": "cynic . . . misanthrope"
+		},
+		{
+			"number": 10,
+			"question": "With the benefit of ________, it is easy to see the mistakes we made last week or last year.",
+			"graphic": "noone",
+			"answers": [
+				"hindsight",
+				"prophecy",
+				"insight",
+				"tactfulness",
+				"nostalgia"
+			],
+			"answer": "hindsight"
+		},
+		{
+			"number": 11,
+			"question": "The pamphlet argues that imagination is not a gift ________ to poets, but something everyone possesses.",
+			"graphic": "noone",
+			"answers": [
+				"relevant",
+				"inimical",
+				"unique",
+				"unrestricted",
+				"conducive"
+			],
+			"answer": "unique"
+		},
+		{
+			"number": 12,
+			"question": "That 'less is more' is a(n) ________upon which all of the governor's conservation program is based.",
+			"graphic": "noone",
+			"answers": ["hope", "question", "enigma", "image", "paradox"],
+			"answer": "paradox"
+		},
+		{
+			"number": 13,
+			"question": "Though McCarthy tried to provoke a ________, Eisenhower ignored all the senator's ________ as if he had not heard them.",
+			"graphic": "noone",
+			"answers": [
+				"fight . . . avocations",
+				"compromise . . . overtures",
+				"confrontation . . . accusations",
+				"condemnation . . . motives",
+				"consensus . . . implications"
+			],
+			"answer": "confrontation . . . accusations"
+		},
+		{
+			"number": 14,
+			"question": "Again and again, out of indifference or sheer stupidity, we have ________ our resources, assuming that there was no end to the earth's ________ to recover from our mistakes.",
+			"graphic": "noone",
+			"answers": [
+				"invested . . . resolve",
+				"expanded . . . ability",
+				"wasted . . . failure",
+				"husbanded . . . inability",
+				"squandered . . . capacity"
+			],
+			"answer": "squandered . . . capacity"
+		},
+		{
+			"number": 15,
+			"question": "Despite ________ reports of freewheeling spending on political candidates by large corporations, most business contributions are ________divided between the two major parties.",
+			"graphic": "noone",
+			"answers": [
+				"lurid . . . equitably",
+				"shocking . . . unfairly",
+				"unfair . . . secretly",
+				"favorable . . . evenly",
+				"encouraging . . . carefully"
+			],
+			"answer": "lurid . . . equitably"
+		},
+		{
+			"number": 16,
+			"question": "With characteristic understatement, Webster called his client's embezzlement of 4 million dollars a regretted ________.",
+			"graphic": "noone",
+			"answers": ["peccadillo", "crime", "atrocity", "theft", "enormity"],
+			"answer": "peccadillo"
+		},
+		{
+			"number": 17,
+			"question": "Keynes's theory that unemployment is caused by a(n) ________ disposition to save cannot explain the high unemployment in ________ countries that have no savings at all.",
+			"graphic": "noone",
+			"answers": [
+				"simple . . . wealthy",
+				"bizarre . . . prosperous",
+				"orderly . . . rich",
+				"individualistic . . . successful",
+				"excessive . . . indigent"
+			],
+			"answer": "excessive . . . indigent"
+		},
+		{
+			"number": 18,
+			"question": "His biographer believed that Pierce's ________ was caused by his ________ to travel and his refusal to read about any position different from his own.",
+			"graphic": "noone",
+			"answers": [
+				"parochialism . . . reluctance",
+				"insularity . . . readiness",
+				"bigotry . . . zeal",
+				"narrow-mindedness . . . eagerness",
+				"magnanimity . . . failure"
+			],
+			"answer": "parochialism . . . reluctance"
+		},
+		{
+			"number": 19,
+			"question": "Though she was ________ by the medical establishment, Dr. Sandstrom bravely continued her work until other doctors could no longer deny the ________ of her theories.",
+			"graphic": "noone",
+			"answers": [
+				"ignored . . . conviction",
+				"vilified . . . probability",
+				"encouraged . . . originality",
+				"supported.. credibility",
+				"attacked . . . tenets"
+			],
+			"answer": "vilified . . . probability"
+		}
+	]
+}

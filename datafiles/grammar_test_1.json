@@ -1,0 +1,215 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Loved and hated by thousands, Dr. Lucy Bertram may well be the most __________ physician ever to become surgeon general.",
+			"graphic": "noone",
+			"answers": [
+				"controversial",
+				"popular",
+				"successful",
+				"well-trained",
+				"professional"
+			],
+			"answer": "controversial"
+		},
+		{
+			"number": 2,
+			"question": "Over thousands of years, organisms have __________ many strategies to conserve water.",
+			"graphic": "noone",
+			"answers": [
+				"administered",
+				"evolved",
+				"organized",
+				"questioned",
+				"considered"
+			],
+			"answer": "evolved"
+		},
+		{
+			"number": 3,
+			"question": "My cat is a creature of contradictions: __________ yet affectionate, __________ yet alert.",
+			"graphic": "noone",
+			"answers": [
+				"aloof . . . dreamy",
+				"cruel . . . shrewd",
+				"quiet . . . lively",
+				"selfish . . . nimble",
+				"loving . . . sly"
+			],
+			"answer": "aloof . . . dreamy"
+		},
+		{
+			"number": 4,
+			"question": "__________ for talking too much, the teacher __________ his reputation by keeping the class 30 minutes longer than the scheduled class time.",
+			"graphic": "noone",
+			"answers": [
+				"Famous . . . evinced",
+				"Renowned . . . overturned",
+				"Notorious . . . verified",
+				"Illustrious . . . rebutted",
+				"Eminent . . . established"
+			],
+			"answer": "Notorious . . . verified"
+		},
+		{
+			"number": 5,
+			"question": "If Senator Montana runs for reelection next year, she will have the moneyraising advantage of the __________.",
+			"graphic": "noone",
+			"answers": [
+				"campaigner",
+				"favorite",
+				"underdog",
+				"incumbent",
+				"candidate"
+			],
+			"answer": "incumbent"
+		},
+		{
+			"number": 6,
+			"question": "Using his own home as ______, Marlowe obtained a private loan that enabled him to _____ his financial obligations to the other partners and emerge free of debt.",
+			"graphic": "noone",
+			"answers": [
+				"pledge . . . increase",
+				"surety . . . augment",
+				"collateral . . . discharge",
+				"profit . . . eliminate",
+				"deposit . . . endorse"
+			],
+			"answer": "collateral . . . discharge"
+		},
+		{
+			"number": 7,
+			"question": "The absurdist as opposed to the heroic treatment of war reached maturity in Catch-22, and the Vietnam War made this approach, which seemed so __________ and shocking, the only way to write about that conflict.",
+			"graphic": "noone",
+			"answers": ["banal", "radical", "plausible", "cozy", "familiar"],
+			"answer": "radical"
+		},
+		{
+			"number": 8,
+			"question": "Because the issue is so insignificant, it was surprising that the disagreement among city council members was so ____.",
+			"graphic": "noone",
+			"answers": ["tepid", "slovenly", "trivial", "acrimonious", "genial"],
+			"answer": "acrimonious"
+		},
+		{
+			"number": 9,
+			"question": "Many thought Billy Eckstine's band _______ because its musicians were young, avant-garde jazzmen, while itslead singer crooned _______ popular ballads.",
+			"graphic": "noone",
+			"answers": [
+				"progressive . . . romantic",
+				"old-fashioned . . . unique",
+				"inconsistent . . . conservative",
+				"unmusical . . . familiar",
+				"predictable . . . melodic"
+			],
+			"answer": "inconsistent . . . conservative"
+		},
+		{
+			"number": 10,
+			"question": "It is ________ to assume that if aspirin can prevent second heart attacks, it can also ______ an attack in the first place.",
+			"graphic": "noone",
+			"answers": [
+				"fanciful . . . elimina",
+				"logical . . . ward off",
+				"sensible . . . encourage",
+				"reasonable . . . foment",
+				"idle . . . defend against"
+			],
+			"answer": "logical . . . ward off"
+		},
+		{
+			"number": 11,
+			"question": "Cigars are not a safe ________ to cigarettes because, though cigar smokers do not inhale, they are still ________ higher rates of lung and mouth cancers than nonsmoker",
+			"graphic": "noone",
+			"answers": [
+				"answer . . . responsible for",
+				"preference . . . free from",
+				"alternative . . . subject to",
+				"rejoinder . . . involved in",
+				"accent . . . victimized by"
+			],
+			"answer": "alternative . . . subject to"
+		},
+		{
+			"number": 12,
+			"question": "Justices Marshall and Brennan opposed the death penalty on the grounds that it failed to __________ crimes, since all the available evidence made it clear that far more murders per capita were committed in states or countries with capital punishment than in those without it.",
+			"graphic": "noone",
+			"answers": ["explain", "augment", "foster", "deter", "exculpate"],
+			"answer": "deter"
+		},
+		{
+			"number": 13,
+			"question": "After the smoke and __________ of the city, Mr. Fitzgerald was glad to return to the __________ air and peace of the mountains.",
+			"graphic": "noone",
+			"answers": [
+				"hubbub . . . turbid",
+				"grime . . . murky",
+				"tranquility . . . effulgent",
+				"composure . . . brisk",
+				"hustle-bustle . . . exhilarating"
+			],
+			"answer": "hustle-bustle . . . exhilarating"
+		},
+		{
+			"number": 14,
+			"question": "A strike by Ford workers in Mexico poses a(n) __________ for the ruling party, which must choose between alienating its union ally or undermining its fight against inflation.",
+			"graphic": "noone",
+			"answers": ["enigma", "dilemma", "problem", "option", "riddle"],
+			"answer": "dilemma"
+		},
+		{
+			"number": 15,
+			"question": "By combining an American cartoon character with Japanese traditions, the popular comic by Stan Sakai presents as a hero a samurai rabbit, a unique __________ of East and West.",
+			"graphic": "noone",
+			"answers": ["fusion", "division", "rejection", "exclusion", "query"],
+			"answer": "fusion"
+		},
+		{
+			"number": 16,
+			"question": "A _________ that allowed voters to decide on the legality of casino gambling was passed by a(n) _______ 9-to-1 margin.",
+			"graphic": "noone",
+			"answers": [
+				"statute . . . meager",
+				"referendum . . . overwhelming",
+				"prohibition . . . huge",
+				"bill . . . narrow",
+				"ban . . . sizable"
+			],
+			"answer": "referendum . . . overwhelming"
+		},
+		{
+			"number": 17,
+			"question": "The __________ upon which this fine novel is developed with great __________ and intelligence is that nomales live beyond the age of 18.",
+			"graphic": "noone",
+			"answers": [
+				"theory . . . fatuity",
+				"plot . . . understanding",
+				"idea . . . recalcitrance",
+				"premise . . . subtlety",
+				"solution . . . cleverness"
+			],
+			"answer": "premise . . . subtlety"
+		},
+		{
+			"number": 18,
+			"question": "The __________ use of washing machines and automobiles in the Middle Ages is part of the comedy of this high-spirited film.",
+			"graphic": "noone",
+			"answers": [
+				"untimely",
+				"anachronistic",
+				"unconvincing",
+				"archaic",
+				"supposed"
+			],
+			"answer": "anachronistic"
+		},
+		{
+			"number": 19,
+			"question": "Hoping to escape detection, Minnie __________ placed an ace in her sleeve while Rance shuffled the cards.",
+			"graphic": "noone",
+			"answers": ["brazenly", "overtly", "furtively", "hopefully", "eagerly"],
+			"answer": "furtively"
+		}
+	]
+}

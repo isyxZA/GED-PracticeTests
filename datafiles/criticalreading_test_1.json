@@ -1,0 +1,199 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "In lines 15-16, the word 'correspondence' means",
+			"graphic": "Critical_1_1",
+			"answers": [
+				"correlation.",
+				"agreement.",
+				"conformity.",
+				"similarity.",
+				"letters."
+			],
+			"answer": "letters."
+		},
+		{
+			"number": 2,
+			"question": "Gauguin found the faces of Tahitian women beautiful because of their",
+			"graphic": "Critical_1_1",
+			"answers": [
+				"elegant coloration.",
+				"unusual proportions.",
+				"refusal to wear makeup.",
+				"dark hair covering the forehead.",
+				"openness and innocence."
+			],
+			"answer": "unusual proportions."
+		},
+		{
+			"number": 3,
+			"question": "The passage suggests that a painter depicting a Tahitian in a period sometime before Gauguin would probably",
+			"graphic": "Critical_1_1",
+			"answers": [
+				"rely on photographs for models.",
+				"make an image that was not in accord with European ideals of female beauty.",
+				"paint a picture that employed a symbolic landscape as background.",
+				"fail to differentiate a Tahitian from the inhabitants of Asian countries.",
+				"paint only models who were fully clothed in Western-style costume."
+			],
+			"answer": "fail to differentiate a Tahitian from the inhabitants of Asian countries."
+		},
+		{
+			"number": 4,
+			"question": "It can be inferred that the author would like to see the lost paintings of Charles Giraud in order to",
+			"graphic": "Critical_1_1",
+			"answers": [
+				"determine whether they presented the Tahitians realistically.",
+				"determine whether they were better paintings than Gauguin's.",
+				"determine whether they deserve their high reputation.",
+				"compare the symbolism of these paintings with that of Gauguin's.",
+				"discover what subjects Giraud chose to paint."
+			],
+			"answer": "determine whether they presented the Tahitians realistically."
+		},
+		{
+			"number": 5,
+			"question": "Of the following phrases, which does the author use to refer to the aspect of Gauguin's art that attempts to depict the real world accurately?\n\nI. 'the image is a relatively straightforward one' (lines 38-39) \nII. 'desire to portray the Tahitian physiognomy naturalistically' (lines 55-56) \nIII. 'a way of painting Tahiti that would accord with his Symbolist aspirations' (lines 64-66)",
+			"graphic": "Critical_1_1",
+			"answers": [
+				"II only",
+				"III only",
+				"I and II only",
+				"I and III only",
+				"I, II, and III"
+			],
+			"answer": "I and II only"
+		},
+		{
+			"number": 6,
+			"question": "The passage suggests that an important problem Gauguin would have to deal with in his paintings of Tahiti was how to",
+			"graphic": "Critical_1_1",
+			"answers": [
+				"reconcile his naturalistic and symbolistic impulses.",
+				"make Europeans understand the beauty of Tahiti.",
+				"find the necessary supplies in a remote location.",
+				"earn enough money to support himself by selling his paintings in Paris.",
+				"make artistic use of the new advances in photography."
+			],
+			"answer": "reconcile his naturalistic and symbolistic impulses."
+		},
+		{
+			"number": 7,
+			"question": "The purpose of the first paragraph (lines 1-23) of the passage is to",
+			"graphic": "Critical_1_2",
+			"answers": [
+				"argue for the reduction of greenhouse gases in the atmosphere.",
+				"defend on economic grounds the reduction of greenhouse gases.",
+				"present two opposing positions on the subject of the earth's rising temperature.",
+				"lessen the concern of the public about the alleged buildup of greenhouse gases.",
+				"introduce the two most important spokesmen for and against ecological reforms."
+			],
+			"answer": "present two opposing positions on the subject of the earth's rising temperature."
+		},
+		{
+			"number": 8,
+			"question": "In the first paragraph in line 13, the word 'pits' means",
+			"graphic": "Critical_1_2",
+			"answers": [
+				"removes the core of.",
+				"sets in competition.",
+				"depresses.",
+				"marks with small scars.",
+				"hardens."
+			],
+			"answer": "sets in competition."
+		},
+		{
+			"number": 9,
+			"question": "From the information in the second paragraph of the passage, you can infer that a planet",
+			"graphic": "Critical_1_2",
+			"answers": [
+				"whose atmosphere was made up entirely of oxygen would be warmer than a planet equally distant\n from the sun with an atmosphere made up entirely of nitrogen.",
+				"whose atmosphere was made up entirely of nitrogen would be warmer than a planet equally distant\n from the sun with an atmosphere made up entirely of oxygen.",
+				"with a larger amount of carbon dioxide in its atmosphere, other factors being equal, will be warmer\n than a planet with less carbon dioxide.",
+				"with a small amount of carbon dioxide in its atmosphere cannot increase this amount.",
+				"with little infrared radiation escaping from its surface is likely to be extremely cold."
+			],
+			"answer": "with a larger amount of carbon dioxide in its atmosphere, other factors being equal, will be warmer\n than a planet with less carbon dioxide."
+		},
+		{
+			"number": 10,
+			"question": "The passage implies that a greenhouse gas is one that \n\nI. forms a large part of the earth's atmosphere. \nII. absorbs heat escaping from the earth's surface. \nIII. can be formed by the clearing and burning of forests.",
+			"graphic": "Critical_1_2",
+			"answers": [
+				"III only",
+				"I and II only",
+				"I and III only",
+				"II and III only",
+				"I, II, and III"
+			],
+			"answer": "II and III only"
+		},
+		{
+			"number": 11,
+			"question": "From the passage, it can be inferred that all the following are greenhouse gases EXCEPT",
+			"graphic": "Critical_1_2",
+			"answers": [
+				"nitrogen.",
+				"carbon dioxide.",
+				"methane.",
+				"chlorofluorocarbons.",
+				"nitrous oxide."
+			],
+			"answer": "nitrogen."
+		},
+		{
+			"number": 12,
+			"question": "Which of the following, if true, would call into question the argument of the Marshall report? \n\nI. Since the earth's climate did not grow colder in the five hundred years since 1400 when the amount of greenhouse gases released by humans was small, there is no reason to expect a decrease in temperature when the amounts of gas released are now much larger. \nII. The radical reduction of the emission of greenhouse gases will result in massive unemployment throughout the industrial world. \nIII. Some scientific studies have shown that the temperature of the earth is unaffected by the presence of oxygen in the atmosphere.",
+			"graphic": "Critical_1_2",
+			"answers": [
+				"I only",
+				"II only",
+				"I and II only",
+				"I and III only",
+				"I, II, and III"
+			],
+			"answer": "I only"
+		},
+		{
+			"number": 13,
+			"question": "The word 'skeptics' in line 59 most nearly means",
+			"graphic": "Critical_1_2",
+			"answers": [
+				"scientists.",
+				"ecologists.",
+				"opponents.",
+				"doubters.",
+				"politicians."
+			],
+			"answer": "doubters."
+		},
+		{
+			"number": 14,
+			"question": "Stephen Schneider probably referred to Sununu's 'brandishing the [Marshall] report as if he were holding a crucifix to repel a vampire' in order to \n\nI. amuse his audience. \nII. suggest that Sununu's claims are melodramatic. \nIII. imply that the idea that greenhouse gases are dangerous is as imaginary as a vampire.",
+			"graphic": "Critical_1_2",
+			"answers": [
+				"III only",
+				"I and II only",
+				"I and III only",
+				"II and III only",
+				"I, II, and III"
+			],
+			"answer": "I and II only"
+		},
+		{
+			"number": 15,
+			"question": "The effect of the final paragraph of the passage is to",
+			"graphic": "Critical_1_2",
+			"answers": [
+				"stress the superiority of Jim Hansen's case.",
+				"undermine Sununu's argument.",
+				"support the conclusions of the Marshall report.",
+				"call Arrhenius's theories into question.",
+				"leave the debate about global warming unresolved."
+			],
+			"answer": "leave the debate about global warming unresolved."
+		}
+	]
+}

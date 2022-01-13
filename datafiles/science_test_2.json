@@ -1,0 +1,435 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "A solar eclipse occurs when the moon blocks our view of the sun. Select the diagram that best represents the position of the sun, the Earth, and the moon during a solar eclipse, as well as the correct orbits",
+			"graphic": "Science_2_1",
+			"answers": ["A", "B", "C", "D", "E"],
+			"answer": "A"
+		},
+		{
+			"number": 2,
+			"question": "Convection currents of molten rock within the Earth mantle cause all the following EXCEPT",
+			"graphic": "noone",
+			"answers": [
+				"sunlight.",
+				"movement of plates on Earth's crust.",
+				"volcanic eruptions.",
+				"earthquakes.",
+				"flow of molten rock from cracks along the bottom of the ocean."
+			],
+			"answer": "sunlight."
+		},
+		{
+			"number": 3,
+			"question": "Which of the following does NOT cause changes in the Earth's surface, such as the formation of mountains and valleys?",
+			"graphic": "noone",
+			"answers": [
+				"collision of plates",
+				"moving apart of plates",
+				"volcanic eruptions",
+				"erosion",
+				"ozone"
+			],
+			"answer": "ozone"
+		},
+		{
+			"number": 4,
+			"question": "The United States is in the Northern Hemisphere. Which statement(s) about the Southern Hemisphere is true? \nI. It is always warm in the Southern Hemisphere. \nII. When it's summer in the Northern Hemisphere, it is winter in the Southern Hemisphere. III. In the Southern Hemisphere, the sun sets in the east. \nIV. When it's winter in the Northern Hemisphere, it is summer in the SouthernHemisphere.",
+			"graphic": "noone",
+			"answers": [
+				"statement I only",
+				"statement II only",
+				"statements II, III, and IV",
+				"statements II and IV",
+				"statements I, II, and IV"
+			],
+			"answer": "statements II and IV"
+		},
+		{
+			"number": 5,
+			"question": "Humidity is a measure of",
+			"graphic": "noone",
+			"answers": [
+				"air temperature.",
+				"the amount of water vapor in air.",
+				"air pressure.",
+				"cloudiness.",
+				"air resistance."
+			],
+			"answer": "the amount of water vapor in air."
+		},
+		{
+			"number": 6,
+			"question": "The Milky Way is estimated to be about 100,000 light-years across its larger diameter. A light-year is a measure of",
+			"graphic": "noone",
+			"answers": [
+				"time since the Big Bang.",
+				"distance.",
+				"brightness.",
+				"the number of stars in a galaxy.",
+				"speed of light."
+			],
+			"answer": "distance."
+		},
+		{
+			"number": 7,
+			"question": "According to scientists, the sun has existed for 4.6 billion years. The sun produces energy by a nuclear conversion of hydrogen into helium. When hydrogen runs out, according to this theory, the sun will expand, engulfing Earth and other planets. Not to worry-the expansion will not affect us, since the sun has enough hydrogen for another 4.6 billion years. When it expands, the sun will become what is called a red giant star. In another 500 million years, the sun will shrink to the current size of the Earth and will be called a white dwarf, cooling down for several billion years. \nAccording to the passage, the sun will eventually",
+			"graphic": "noone",
+			"answers": [
+				"expand and then shrink.",
+				"shrink and then expand.",
+				"shrink and then run out of helium.",
+				"expand because it ran out of helium.",
+				"shrink because it ran out of hydrogen."
+			],
+			"answer": "expand and then shrink."
+		},
+		{
+			"number": 8,
+			"question": "According to scientists, the sun has existed for 4.6 billion years. The sun produces energy by a nuclear conversion of hydrogen into helium. When hydrogen runs out, according to this theory, the sun will expand, engulfing Earth and other planets. Not to worry-the expansion will not affect us, since the sun has enough hydrogen for another 4.6 billion years. When it expands, the sun will become what is called a red giant star. In another 500 million years, the sun will shrink to the current size of the Earth and will be called a white dwarf, cooling down for several billion years. \nBased on this theory, the sun will, at some point, be a",
+			"graphic": "noone",
+			"answers": [
+				"blue star.",
+				"red dwarf star.",
+				"white dwarf star.",
+				"asteroid.",
+				"galaxy."
+			],
+			"answer": "white dwarf star."
+		},
+		{
+			"number": 9,
+			"question": "Webbed feet enable ducks to swim better by",
+			"graphic": "noone",
+			"answers": [
+				"making the ducks aerodynamic.",
+				"increasing the surface area with which ducks propel water.",
+				"preventing particles from being stuck between the duck's toes.",
+				"making the duck less dense.",
+				"increasing the rate of heat loss, so that ducks can cool down faster."
+			],
+			"answer": "increasing the surface area with which ducks propel water."
+		},
+		{
+			"number": 10,
+			"question": "Determine how much water is in the graduated cylinder drawn below by reading the bottom of the meniscus (surface of water).",
+			"graphic": "Science_2_2",
+			"answers": ["3.0ml", "5.5ml", "6.5ml", "7.5ml", "10.0ml"],
+			"answer": "7.5ml"
+		},
+		{
+			"number": 11,
+			"question": "In addition to magnifying the image of an object, a microscope inverts the image left to right. The image of the object observed through the microscope is also upside down. Looking through the eyepiece, you would therefore see the upside-down mirror image of the object under the microscope lens. What would the object below look like if observed through the microscope?",
+			"graphic": "Science_2_3",
+			"answers": ["A", "B", "C", "D", "E"],
+			"answer": "B"
+		},
+		{
+			"number": 12,
+			"question": "Which one of the following statements is an opinion, rather than a fact?",
+			"graphic": "noone",
+			"answers": [
+				"All organisms are made of one or more cells.",
+				"It's wrong to kill any organism.",
+				"All organisms need energy",
+				"Some organisms reproduce asexually.",
+				"Some organisms can breathe underwater."
+			],
+			"answer": "It's wrong to kill any organism."
+		},
+		{
+			"number": 13,
+			"question": "Here are a few experimental observations and known facts:\nI. A scummy substance often forms in solutions of an amino acid in water. \nII. When the water is purified and exposed to UV radiation, the scummy substance does not form in the amino acid solution. \nIII. UV radiation kills bacteria. \nWhat would be a valid hypothesis based on I, II and III?",
+			"graphic": "noone",
+			"answers": [
+				"The scummy substance is a form of the amino acid.",
+				"The scummy substance would not appear if water were treated by a method, other than UV radiation, that kills bacteria.",
+				"The scummy substance is caused by organisms that humans are unable to detect.",
+				"The amino acid would not form the scummy substance in another galaxy.",
+				"UV light contributes to global warming."
+			],
+			"answer": "The scummy substance would not appear if water were treated by a method, other than UV radiation, that kills bacteria."
+		},
+		{
+			"number": 14,
+			"question": "Hypertension, or high blood pressure, is a condition that can lead to heart attack and stroke. A scientist graphed the following data collected from a study on hypertension. What is a logical conclusion based on the data?",
+			"graphic": "Science_2_4",
+			"answers": [
+				"The prevalence of hypertension is higher than average in the 35-44 age group.",
+				"The prevalence of hypertension is highest in the 45-54 age group.",
+				"The prevalence of hypertension increases with age.",
+				"No teenager suffers from hypertension.",
+				"All senior citizens suffer from hypertension."
+			],
+			"answer": "The prevalence of hypertension increases with age."
+		},
+		{
+			"number": 15,
+			"question": "The following pie chart illustrates the relative productivity (new plant material produced in one year) of different biomes. Based on the chart, which biome has the largest effect on the overall productivity?",
+			"graphic": "Science_2_5",
+			"answers": [
+				"chaparral",
+				"savanna",
+				"tropical rain forest",
+				"desert",
+				"temperate deciduous forest"
+			],
+			"answer": "tropical rain forest"
+		},
+		{
+			"number": 16,
+			"question": "Which trophic level suffered the greatest net loss (number of species) in diversity sfter pesticide use?",
+			"graphic": "Science_2_6",
+			"answers": [
+				"herbivores",
+				"scavengers",
+				"detrivores",
+				"wood borers",
+				"ants"
+			],
+			"answer": "ants"
+		},
+		{
+			"number": 17,
+			"question": "An atom will become an ion with the",
+			"graphic": "noone",
+			"answers": [
+				"gain or loss of a proton.",
+				"gain or loss of an electron.",
+				"gain or loss of a neutron.",
+				"gain or loss of a nucleus",
+				"gain or loss of mass"
+			],
+			"answer": "gain or loss of an electron."
+		},
+		{
+			"number": 18,
+			"question": "Which of the following is a physical change?",
+			"graphic": "noone",
+			"answers": [
+				"carbon dioxide freezes to form dry ice",
+				"water is broken down into hydrogen and oxygen gas",
+				"an animal gets fatter from eating",
+				"milk is left outside and sours",
+				"vinegar dissolved into water"
+			],
+			"answer": "carbon dioxide freezes to form dry ice"
+		},
+		{
+			"number": 19,
+			"question": "The following graph shows how the concentration (amount per unit volume) changes with time. What information can be obtained from the data?",
+			"graphic": "Science_2_7",
+			"answers": [
+				"The amount of reactant does not change with time.",
+				"The amount of product is decreasing.",
+				"The amount of reactant first decreases and then stays constant.",
+				"After 500 seconds, all of the reactant is used.",
+				"At 300 seconds, the concentration of the reactant is at maximum."
+			],
+			"answer": "The amount of reactant first decreases and then stays constant."
+		},
+		{
+			"number": 20,
+			"question": "Based on perturbations in Neptune's orbit, the search for a ninth planet was conducted and Pluto was discovered in 1930. Pluto orbits the sun just like the other eight planets, and it has a moon, Charon, and a stable orbit. Based on its distance from the sun, Pluto should be grouped with the planets known as gas giants. In addition, Pluto, like the planet Mercury, has little or no atmosphere. Pluto is definitely not a comet because it does not have a tail like a comet when it is near the sun. Pluto is also not an asteroid, although its density is closer to an asteroid than to any of the other planets. Pluto is a planet because it has been classified as one for more than sixty years since its discovery. \nWhich argument supporting the classification of Pluto as a planet is the weakest?",
+			"graphic": "noone",
+			"answers": [
+				"Pluto orbits the sun just like the other eight planets.",
+				"Pluto has a moon.",
+				"Pluto has a stable orbit.",
+				"Pluto, like the planet Mercury, has little or no atmosphere.",
+				"Pluto has been classified as a planet for more than sixty years since the discovery."
+			],
+			"answer": "Pluto has been classified as a planet for more than sixty years since the discovery."
+		},
+		{
+			"number": 21,
+			"question": "Based on perturbations in Neptune's orbit, the search for a ninth planet was conducted and Pluto was discovered in 1930. Pluto orbits the sun just like the other eight planets, and it has a moon, Charon, and a stable orbit. Based on its distance from the sun, Pluto should be grouped with the planets known as gas giants. In addition, Pluto, like the planet Mercury, has little or no atmosphere. Pluto is definitely not a comet because it does not have a tail like a comet when it is near the sun. Pluto is also not an asteroid, although its density is closer to an asteroid than to any of the other planets. Pluto is a planet because it has been classified as one for more than sixty years since its discovery. \nWhich one of the following statements is NOT backed with an explanation?",
+			"graphic": "noone",
+			"answers": [
+				"Pluto is like a planet.",
+				"Pluto should be grouped with planets known as gas giants.",
+				"Pluto is like Mercury.",
+				"Pluto is not a comet.",
+				"Pluto is not an asteroid."
+			],
+			"answer": "Pluto is not an asteroid."
+		},
+		{
+			"number": 22,
+			"question": "The instrument shown in this picture can be used to study",
+			"graphic": "Science_2_8",
+			"answers": [
+				"cell organelles.",
+				"the flight pattern of birds.",
+				"the movement of stars in other galaxies.",
+				"old manuscripts.",
+				"human vision defects."
+			],
+			"answer": "the flight pattern of birds."
+		},
+		{
+			"number": 23,
+			"question": "A large surface area results in a high rate of cooling. This is why we tend to curl up when we sleep in a cold room and spread our limbs out when we sleep in a very hot room. Which of the following is an example where this principle is used in technology?",
+			"graphic": "noone",
+			"answers": [
+				"Refrigerators can be used to cool containers of milk with large surface areas.",
+				"Fans that cool computers are often ribbed to increase the surface area for cooling.",
+				"Airplanes are shaped to minimize heat loss in the cabin.",
+				"Heat packs are designed to have a large surface area.",
+				"Microwave ovens are designed to completely close during food preparation."
+			],
+			"answer": "Fans that cool computers are often ribbed to increase the surface area for cooling."
+		},
+		{
+			"number": 24,
+			"question": "The amount of dissolved gas in a liquid solution depends on the pressure of the gas. Under a high pressure, greater amounts of gas can be dissolved. The pressure is used to increase the solubility of carbon dioxide gas in",
+			"graphic": "noone",
+			"answers": [
+				"fish ponds.",
+				"cereals.",
+				"carbonated drinks.",
+				"milk.",
+				"gasoline."
+			],
+			"answer": "carbonated drinks."
+		},
+		{
+			"number": 25,
+			"question": "This instrument is used to",
+			"graphic": "Science_2_9",
+			"answers": [
+				"determine the direction of the wind.",
+				"determine the directions of the world.",
+				"find the nearest piece of land when navigating the seas.",
+				"find underground waters.",
+				"determine the direction of water flow."
+			],
+			"answer": "determine the directions of the world."
+		},
+		{
+			"number": 26,
+			"question": "This instrument works because",
+			"graphic": "Science_2_9",
+			"answers": [
+				"it has an internal clock.",
+				"the needle points to the direction of minimum pressure.",
+				"the needle changes position depending on the position of the sun.",
+				"the Earth has two magnetic poles.",
+				"he temperatures on Earth's poles are very low."
+			],
+			"answer": "the Earth has two magnetic poles."
+		},
+		{
+			"number": 27,
+			"question": "Radiation from radioisotopes can be used to kill cancer cells. Chemist Marie Curie received two Nobel Prizes for her work with radioisotopes. Her work led to the discovery of the neutron and synthesis of artificial radioactive elements. She died of leukemia at 67, caused by extensive exposure to radiation. Curie never believed that radium and other materials she worked with were a health hazard. In World War I, glowing radium was used on watch dials to help soldiers read their watches in the dark and to synchronize their attacks. Unfortunately, women who worked in factories were drawing their radium stained brushes to fine points by putting them between their lips. As a result, their teeth would glow in the dark. But this was an amusement for children more than a cause of worry. About ten years later, the women developed cancer in their jaws and mouths and had problems making blood cells. This exposed the dangers of radiation. \nBased on the information in the passage, which statement about radioisotopes is false?",
+			"graphic": "noone",
+			"answers": [
+				"Radioisotopes can kill cancer cells.",
+				"Radioisotopes can cause cancer.",
+				"A radioisotope can glow in the dark.",
+				"Einstein received the Nobel Prize for working with isotopes.",
+				"A radioisotope was used in watch dials."
+			],
+			"answer": "Einstein received the Nobel Prize for working with isotopes."
+		},
+		{
+			"number": 28,
+			"question": "In the past, people thought that the Earth was flat and that a ship that sailed too far would fall off the edge of the world. The Earth appears flat because the Earth is too large for humans on Earth to see its curvature. Several events helped shed the misconceptions. For one, during a lunar eclipse, the Earth is positioned between the sun and the moon. It eclipses the moon by casting a shadow on it. The shadow the Earth casts is round. When Magellan circumnavigated the Earth, he proved that one could not fall off the edge of the Earth, because the Earth was round and had no edges. Finally, space missions provided us with images of our round Earth from far away and showed us how beautiful our planet looks, even from a distance. \nWith which misconception about the Earth is the passage concerned?",
+			"graphic": "noone",
+			"answers": [
+				"That the Earth turned.",
+				"That the Earth was in the center of the solar system.",
+				"That the Earth was flat.",
+				"That the Earth was created at the same time as the sun.",
+				"That the Earth could be eclipsed by the sun."
+			],
+			"answer": "That the Earth was flat."
+		},
+		{
+			"number": 29,
+			"question": "Minerals are an important component of the human diet. Some minerals are needed in relatively large amounts. These include calcium, phosphorus, potassium, sulfur, chlorine, and magnesium. Others, including iron, manganese, and iodine, are needed in smaller amounts. Humans need 26 minerals all together, but some of them are only required in tiny amounts. Some minerals, such as lead and selenium, are harmful in large quantities. Dietary supplements can decrease the chance of mineral deficiencies listed in the table below, but should be taken with great care, since overdose can lead to poisoning. \nTaking several iron supplements per day can",
+			"graphic": "noone",
+			"answers": [
+				"decrease the chance of bone loss.",
+				"make you stronger.",
+				"help relieve PMS symptoms.",
+				"cause poisoning.",
+				"make up for an unbalanced diet."
+			],
+			"answer": "cause poisoning."
+		},
+		{
+			"number": 30,
+			"question": "Which of the minerals listed in the table are you most likely lacking if you experience irregular heartbeat?",
+			"graphic": "Science_2_10",
+			"answers": ["sodium", "potassium", "calcium", "phosphorous", "magnesium"],
+			"answer": "potassium"
+		},
+		{
+			"number": 31,
+			"question": "Which two minerals are necessary for formation of healthy bones and teeth?",
+			"graphic": "Science_2_10",
+			"answers": [
+				"calcium and magnesium",
+				"calcium and phosphorous",
+				"calcium and potassium",
+				"calcium and sodium",
+				"sodium and magnesium"
+			],
+			"answer": "calcium and phosphorous"
+		},
+		{
+			"number": 32,
+			"question": "Which of the following is the most common result of prolonged excessive alcohol consumption?",
+			"graphic": "noone",
+			"answers": [
+				"heart attack",
+				"brain tumor",
+				"lung cancer",
+				"liver damage",
+				"cataracts"
+			],
+			"answer": "liver damage"
+		},
+		{
+			"number": 33,
+			"question": "Which of the following could be transmitted through kissing?",
+			"graphic": "noone",
+			"answers": [
+				"lung cancer",
+				"brain tumor",
+				"flu",
+				"diabetes",
+				"Down's syndrome"
+			],
+			"answer": "flu"
+		},
+		{
+			"number": 34,
+			"question": "Through friction, energy of motion is converted to heat. You use this in your favor when you",
+			"graphic": "noone",
+			"answers": [
+				"Wear gloves to make your hands warm.",
+				"Rub your hands together to make them warm.",
+				"Soak your hands with hot water to make them warm.",
+				"Place your hands near a fireplace to make them warm.",
+				"Hold a cup of tea to make your hands warm."
+			],
+			"answer": "Rub your hands together to make them warm."
+		},
+		{
+			"number": 35,
+			"question": "The boiling point of water decreases with increasing pressure. At high altitudes, the atmospheric pressure is lower than at sea level. Where would you expect to find the highest boiling point temperature of water?",
+			"graphic": "noone",
+			"answers": [
+				"In the Grand Canyon Valley.",
+				"At sea level.",
+				"At the base of Mount Everest.",
+				"At the top of Mount Everest.",
+				"At the top of a small hill."
+			],
+			"answer": "At the top of Mount Everest."
+		}
+	]
+}

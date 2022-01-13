@@ -1,0 +1,297 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "If 1 dollar is worth x French francs, what is the value, in dollars, of y French francs?",
+			"graphic": "noone",
+			"answers": ["xy", "x/y", "y/x", "1/yx", "x+y"],
+			"answer": "y/x"
+		},
+		{
+			"number": 2,
+			"question": "Evaluate y^2(4x - y) if y = -2 and x = 8.",
+			"graphic": "noone",
+			"answers": ["-18", "8", "86", "96", "136"],
+			"answer": "136"
+		},
+		{
+			"number": 3,
+			"question": "On a road map, 1/4 inch represents 8 miles of actual road distance. The towns of Alton and Waverly are represented by points 2 (1/8) inches apart on the map. What is the actual distance, in miles, between Alton and Waverly?",
+			"graphic": "noone",
+			"answers": ["17", "32", "40", "60", "68"],
+			"answer": "68"
+		},
+		{
+			"number": 4,
+			"question": "What is the area, in square graph units, of the triangle?",
+			"graphic": "Math_2_1",
+			"answers": ["8", "10", "16", "32", "48"],
+			"answer": "16"
+		},
+		{
+			"number": 5,
+			"question": "At a certain time of day, a man 6 feet tall casts a shadow 4 feet in length. At the same time, a church steeple casts a shadow 28 feet in length. How high, in feet, is the church steeple?",
+			"graphic": "noone",
+			"answers": ["30", "32", "42", "48", "56"],
+			"answer": "42"
+		},
+		{
+			"number": 6,
+			"question": "A 3-foot-wide walkway is built around a swimming pool that is 20 feet by 30 feet, as shown in the following figure.\nIn order to determine how much flagstone to buy, the homeowner needs to know the total area, in square feet, of the walkway. Which of the following expressions represents this area?",
+			"graphic": "Math_2_2",
+			"answers": [
+				"(23)(33)",
+				"(26)(36)",
+				"(23)(33) - (20)(30)",
+				"(26)(36) - (20)(30)",
+				"(26)(36) - (23)(33)"
+			],
+			"answer": "(26)(36) - (20)(30)"
+		},
+		{
+			"number": 7,
+			"question": "A 3-foot-wide walkway is built around a swimming pool that is 20 feet by 30 feet, as shown in the following figure.\nIf the depth of the pool is 6 feet, what volume of water, in cubic feet, is needed to fill the pool?",
+			"graphic": "Math_2_2",
+			"answers": ["56", "300", "600", "560", "3600"],
+			"answer": "3600"
+		},
+		{
+			"number": 8,
+			"question": "A 3-foot-wide walkway is built around a swimming pool that is 20 feet by 30 feet, as shown in the following figure.\nWhat is the total area, in square feet, of the pool and the walkway?",
+			"graphic": "Math_2_2",
+			"answers": ["50", "62", "759", "936", "1236"],
+			"answer": "936"
+		},
+		{
+			"number": 9,
+			"question": "Evaluate (6 x 10^5) / (4 x 10^3).",
+			"graphic": "noone",
+			"answers": ["20", "100", "150", "1500", "2000"],
+			"answer": "150"
+		},
+		{
+			"number": 10,
+			"question": "A house and a lot cost $120,000. If the house cost three times as much as the lot, how much did the house cost?",
+			"graphic": "noone",
+			"answers": ["$30,000", "$40,000", "$60,000", "$90,000", "$120,000"],
+			"answer": "$90,000"
+		},
+		{
+			"number": 11,
+			"question": "Joan borrowed $1,300 to buy tools for her job as an auto mechanic. The loan is for one year and six months at 9% simple interest. Which of the following expressions could be used to find the amount she will pay back at the end of the loan period?",
+			"graphic": "noone",
+			"answers": [
+				"$1,300 x 1.5 x 0.09",
+				"$1,300 x 1.6 x 0.09",
+				"$1,300 x 1.5 x 9",
+				"$1,300 + ($1,300 x 9 x 1.5)",
+				"$1,300 + ($1,300 x 0.09 x 1.5)"
+			],
+			"answer": "$1,300 + ($1,300 x 0.09 x 1.5)"
+		},
+		{
+			"number": 12,
+			"question": "Norm borrows $8,000 for five years to make improvements to his home office. If the simple interest rate is 13%, how much will he pay in interest?",
+			"graphic": "noone",
+			"answers": ["$5,200", "$4,000", "$1,040", "$420", "$400"],
+			"answer": "$5,200"
+		},
+		{
+			"number": 13,
+			"question": "The solution x = -5 makes which of the following equations true?",
+			"graphic": "noone",
+			"answers": [
+				"14 - x = 9",
+				"x + 3 = 8",
+				"12x = -60",
+				"2x = 20",
+				"2x + 12 = 9"
+			],
+			"answer": "12x = -60"
+		},
+		{
+			"number": 14,
+			"question": "Marc had $572.18 in his checking account. After writing a check, he had $434.68. Which of the following equations could be used to find the amount of the check (c)?",
+			"graphic": "noone",
+			"answers": [
+				"$572.18 + c = $434.68",
+				"$572.18 - c = $434.68",
+				"$572.18c = $434.68",
+				"$572.18 - 2c = $434.68",
+				"$434.68 + c = $572.18"
+			],
+			"answer": "$572.18 - c = $434.68"
+		},
+		{
+			"number": 15,
+			"question": "Ken earned x dollars at his part-time job on Friday. His wife earned $12 more than twice Ken's pay (2x + 12). Together, they earned $174. How much did Ken earn on Friday?",
+			"graphic": "noone",
+			"answers": ["$54", "$87", "$108", "$120", "$162"],
+			"answer": "$54"
+		},
+		{
+			"number": 16,
+			"question": "Two adults and four children pay $48 to get into the fair. A child's ticket is $6 less than an adult's ticket. What is the cost of an adult's ticket?",
+			"graphic": "noone",
+			"answers": ["$18", "$15", "$12", "$9", "$6"],
+			"answer": "$12"
+		},
+		{
+			"number": 17,
+			"question": "What is the median value of $268, $1,258, $654, $1,258, $900, $1,558, and $852?",
+			"graphic": "noone",
+			"answers": ["$1,258", "$960", "$900", "$913", "$852"],
+			"answer": "$900"
+		},
+		{
+			"number": 18,
+			"question": "What is the mode of the following: 14, 17, 14, 12, 13, 15, 22, and 11?",
+			"graphic": "noone",
+			"answers": [
+				"13.5",
+				"14",
+				"14.75",
+				"16.5",
+				"Not enough information is given."
+			],
+			"answer": "14"
+		},
+		{
+			"number": 19,
+			"question": "Charlie borrowed $1,500 from his aunt. He plans to pay his aunt back in nine months. If he pays 4% interest on the loan, what is the total amount he will pay back in nine months?",
+			"graphic": "noone",
+			"answers": ["$540", "$1,455", "$1,545", "$1,560", "$2,040"],
+			"answer": "$1,545"
+		},
+		{
+			"number": 20,
+			"question": "Max needs to ship six identical packages, each weighing 3lb. 12oz. What is the total weight of the shipment?",
+			"graphic": "noone",
+			"answers": [
+				"19lb. 2oz.",
+				"22lb. 5oz.",
+				"22lb. 8oz.",
+				"24lb. 12oz.",
+				"25lb. 2oz."
+			],
+			"answer": "22lb. 8oz."
+		},
+		{
+			"number": 21,
+			"question": "In a theater audience of 650 people, 80% were adults. How many children were in the audience?",
+			"graphic": "noone",
+			"answers": ["130", "150", "450", "500", "520"],
+			"answer": "130"
+		},
+		{
+			"number": 22,
+			"question": "On a certain map, 1 inch represents 60 miles. If two towns are 255 miles apart, what is the distance, in inches, between the towns on the map?",
+			"graphic": "noone",
+			"answers": ["4", "4(1/4)", "4(1/2)", "4(5/6)", "4(7/4)"],
+			"answer": "4(1/4)"
+		},
+		{
+			"number": 23,
+			"question": "A carpenter has a board 4 feet 3 inches in length. He cuts off a piece 2 feet 8 inches in length. The length of the piece that is left is",
+			"graphic": "noone",
+			"answers": [
+				"1ft. 5in.",
+				"1ft 7in.",
+				"2ft. 7in.",
+				"2ft. 5in.",
+				"2ft. 3in."
+			],
+			"answer": "1ft 7in."
+		},
+		{
+			"number": 24,
+			"question": "A cardboard crate is 5 feet long, 3 feet wide, and 2 feet tall. What is its holding capacity?",
+			"graphic": "noone",
+			"answers": ["45ft.^3", "37ft.^3", "9ft.^3", "30ft.^3", "10ft.^3"],
+			"answer": "30ft.^3"
+		},
+		{
+			"number": 25,
+			"question": "How many gallons of paint were sold on Wednesday?",
+			"graphic": "Math_2_3",
+			"answers": ["3", "4", "5", "6", "9"],
+			"answer": "6"
+		},
+		{
+			"number": 26,
+			"question": "How much more paint was sold on Saturday than on Monday?",
+			"graphic": "Math_2_3",
+			"answers": [
+				"6 gallons",
+				"8 gallons",
+				"10 gallons",
+				"11 gallons",
+				"12 gallons"
+			],
+			"answer": "12 gallons"
+		},
+		{
+			"number": 27,
+			"question": "What was the total amount, in gallons, of paint sold by the store that week?",
+			"graphic": "Math_2_3",
+			"answers": ["20", "25", "30", "60", "Not enough information is given."],
+			"answer": "60"
+		},
+		{
+			"number": 28,
+			"question": "O is the center of the circle, and the measure of O is 70. What is the measure of OAB?",
+			"graphic": "Math_2_4",
+			"answers": ["55", "60", "70", "75", "95"],
+			"answer": "55"
+		},
+		{
+			"number": 29,
+			"question": "A bookcase has 3 large shelves and 4 small shelves. Each large shelf contains 8 more books than each small shelf. If the bookcase contains 297 books, how many books does each small shelf hold?",
+			"graphic": "noone",
+			"answers": ["29", "31", "32", "35", "39"],
+			"answer": "39"
+		},
+		{
+			"number": 30,
+			"question": "Ms. Kraus buys 40 feet of wool to use for scarves. How many scarves of 3 feet 4 inches each in length can she cut from this material, assuming each scarf is as wide as the original piece of fabric?",
+			"graphic": "noone",
+			"answers": ["12", "15", "16", "18", "120"],
+			"answer": "12"
+		},
+		{
+			"number": 31,
+			"question": "Customers of Rico's Beauty Supply can make purchases online, from a catalog, or in the store. About how much more did the company make from catalog sales than from online sales in March?",
+			"graphic": "Math_2_5",
+			"answers": ["$35,000", "$65,000", "$130,000", "$195,000", "$650,000"],
+			"answer": "$65,000"
+		},
+		{
+			"number": 32,
+			"question": "Approximately what fraction of the company's total sales came from in-store sales?",
+			"graphic": "Math_2_5",
+			"answers": ["2/3", "1/3", "1/2", "1/4", "1/6"],
+			"answer": "1/3"
+		},
+		{
+			"number": 33,
+			"question": "Josh needs to replace the boards on a 22-foot section of his fence. If the boards are 5 (1/2) inches wide, how many boards should he buy to cover the distance?",
+			"graphic": "noone",
+			"answers": ["4", "33", "48", "66", "121"],
+			"answer": "48"
+		},
+		{
+			"number": 34,
+			"question": "What is the slope of the line that passes through points A and B on the coordinate graph?",
+			"graphic": "Math_2_6",
+			"answers": ["6/2", "1/3", "1/6", "0", "Not enough information is given."],
+			"answer": "1/3"
+		},
+		{
+			"number": 35,
+			"question": "What is the value of the expression 3(2x - y) + (3 + x)2, when x = 4 and y = 5?",
+			"graphic": "noone",
+			"answers": ["58", "64", "32", "120", "200"],
+			"answer": "58"
+		}
+	]
+}

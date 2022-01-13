@@ -1,0 +1,147 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Find the value of 5 + 4 . 3 ÷ 6 - 1",
+			"graphic": "noone",
+			"answers": ["7/2", "5/9", "6", "0", "-8"],
+			"answer": "6"
+		},
+		{
+			"number": 2,
+			"question": "Simplify",
+			"graphic": "Equations_1_1",
+			"answers": ["-(13/25)", "-(7/17)", "-(13/3)", "-(5/4)", "-(13/25)"],
+			"answer": "-(13/25)"
+		},
+		{
+			"number": 3,
+			"question": "Evaluate 2b(4a - c^2) if: \n\na = 5 \nb = 3/2 \nc = 11",
+			"graphic": "noone",
+			"answers": ["-303", "509", "1", "870", "-109"],
+			"answer": "-303"
+		},
+		{
+			"number": 4,
+			"question": "Evaluate m + (n - 1)^2 if: \n\nm = 3 /nn = -4",
+			"graphic": "noone",
+			"answers": ["-2", "5", "20", "28", "-35"],
+			"answer": "28"
+		},
+		{
+			"number": 5,
+			"question": "The formula for the surface area of a sphere is A = 4(pi)r^2, where r is the length of the radius. Find the surface area of a sphere with a radius of 14 feet.",
+			"graphic": "noone",
+			"answers": [
+				"249 square feet",
+				"1024 square feet",
+				"2464 square feet",
+				"7645 square feet",
+				"9856 square feet"
+			],
+			"answer": "2464 square feet"
+		},
+		{
+			"number": 6,
+			"question": "Find the area of the trapezoid shown below.",
+			"graphic": "Equations_1_2",
+			"answers": [
+				"16 square inches",
+				"130 square inches",
+				"340 square inches",
+				"940 square inches",
+				"1120 square inches"
+			],
+			"answer": "340 square inches"
+		},
+		{
+			"number": 7,
+			"question": "One side of a triangle is four centimeters longer than the shortest side. The third side of the triangle is twice as long as the shortest side. Find the length of the longest side of the triangle if its perimeter is 40 centimeters.",
+			"graphic": "noone",
+			"answers": ["3 cm", "6 cm", "9 cm", "18 cm", "30 cm"],
+			"answer": "18 cm"
+		},
+		{
+			"number": 8,
+			"question": "Evaluate -(-10)^3",
+			"graphic": "noone",
+			"answers": ["-10", "0", "1", "100", "1000"],
+			"answer": "1000"
+		},
+		{
+			"number": 9,
+			"question": "Which expression below represents the amount of change someone would receive from a $50 bill if they purchased 2 children's tickets at $4.25 each and 3 adult tickets at $7 each at a movie theater.",
+			"graphic": "noone",
+			"answers": [
+				"50 - 2 x 4.25 + 3 x 7",
+				"50 - (2 x 4.25 + 3 x 7)",
+				"(50 - 2 x 4.25) + 3 x 7",
+				"(50 - 2 x 4.25) - (3 x 7)",
+				"50 - (2 x 4.25) + (3 x 7)"
+			],
+			"answer": "50 - (2 x 4.25 + 3 x 7)"
+		},
+		{
+			"number": 10,
+			"question": "Identify the graph of the solution set of -2.3 < 4 + 0.9y",
+			"graphic": "Equation_1_3",
+			"answers": ["A", "B", "C", "D"],
+			"answer": "A"
+		},
+		{
+			"number": 11,
+			"question": "One number is four times a second number. If you take one-half of the second number and increase it by the first number, the result is at least 45. Find the least possible value for the second number.",
+			"graphic": "noone",
+			"answers": ["5", "10", "15", "20", "25"],
+			"answer": "10"
+		},
+		{
+			"number": 12,
+			"question": "Suppose a patient must take a blood pressure medication that is dispensed in 125-milligram tablets. The dosage is 15 milligrams per kilogram of body weight and is given every 8 hours. If the patient weighs 25 kilograms, how many tablets would be needed for a 30-day supply?",
+			"graphic": "noone",
+			"answers": ["7", "10", "15", "20", "30"],
+			"answer": "30"
+		},
+		{
+			"number": 13,
+			"question": "In 1950, the average price of a car was about $2000. This may sound inexpensive, but the average income in 1950 was much less than it is now. Buying a car for $2000 in 1950 was like buying a car for how much money in 2000?",
+			"graphic": "noone",
+			"answers": ["$5369.05", "$8266.03", "$9642.08", "$4368.50", "$10215.36"],
+			"answer": ""
+		},
+		{
+			"number": 14,
+			"question": "You count 5 seconds between seeing the light and hearing the sound of the firework display. You estimate the viewing angle is about 4 degrees. Using the information at the left, estimate the width of the firework display.",
+			"graphic": "noone",
+			"answers": ["100 ft", "150 ft", "200 ft", "250 ft", "400 ft"],
+			"answer": "400 ft"
+		},
+		{
+			"number": 15,
+			"question": "Find the value of 1 + 3(5 - 17) / 2 x 6",
+			"graphic": "noone",
+			"answers": ["-4", "-104", "109", "7", "-107"],
+			"answer": "-107"
+		},
+		{
+			"number": 16,
+			"question": "The following are the dimensions of four rectangles. Which rectangle has the same area as the triangle at the right?",
+			"graphic": "Equations_1_4",
+			"answers": [
+				"1.6 ft by 25 ft",
+				"5 ft by 16 ft",
+				"3.5 ft by 4 ft",
+				"0.4 ft by 50 ft",
+				"-4 ft by 20 ft"
+			],
+			"answer": "0.4 ft by 50 ft"
+		},
+		{
+			"number": 17,
+			"question": "Find the value of this expression 12 - (20 - 2(6^2 / 3 x 2^2))",
+			"graphic": "noone",
+			"answers": ["0", "1", "-8", "-44", "88"],
+			"answer": "88"
+		}
+	]
+}
