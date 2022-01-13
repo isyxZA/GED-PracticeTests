@@ -80,6 +80,22 @@ function load_test(_testID){
 				questionData = json_parse(_string)
 			}
 			break
+		case "Expressions 1":
+			if file_exists("expressions_test_1.json") {
+				var _buffer = buffer_load("expressions_test_1.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Equations 1":
+			if file_exists("equations_test_1.json") {
+				var _buffer = buffer_load("equations_test_1.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
 		case "Social Studies 1":
 			if file_exists("socialstudies_test_1.json") {
 				var _buffer = buffer_load("socialstudies_test_1.json")
@@ -409,8 +425,10 @@ function load_ui(_layout) {
 			with oButtonRadio { instance_destroy() }
 			with oButtonUI { instance_destroy() }
 			// Spawn new buttons
-			spawn_button_menu(default_width * 0.5, default_height * 0.45, sButton, 1.25, 1, "Math 1")
-			spawn_button_menu(default_width * 0.5, default_height * 0.55, sButton, 1.25, 1, "Math 2")
+			spawn_button_menu(default_width * 0.75, default_height * 0.45, sButton, 1.25, 1, "Math 1")
+			spawn_button_menu(default_width * 0.75, default_height * 0.55, sButton, 1.25, 1, "Math 2")
+			spawn_button_menu(default_width * 0.25, default_height * 0.45, sButton, 1.25, 1, "Equations 1")
+			spawn_button_menu(default_width * 0.25, default_height * 0.55, sButton, 1.25, 1, "Expressions 1")
 			// Turn on can click
 			oControl.alarm[0] = room_speed * 0.5
 			break
@@ -686,6 +704,16 @@ function find_graphic(_indentifier) {
 			return sCritical_1_2
 		case "Critical_2_1":
 			return sCritical_2_1
+		case "Equations_1_1":
+			return sEquations_1_1
+		case "Equations_1_2":
+			return sEquations_1_2
+		case "Equations_1_3":
+			return sEquations_1_3
+		case "Equations_1_4":
+			return sEquations_1_4
+		case "Expressions_1_1":
+			return sExpressions_1_1
 		default:
 			return sGraphic_Blank
 	}

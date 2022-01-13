@@ -122,6 +122,38 @@ if global.canClick {
 						}
 					}
                     break
+				case "Expressions 1":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Expressions 1"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Equations 1":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Equations 1"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
 				case "Social Studies 1":
                     global.canClick = false
 					with oControl {

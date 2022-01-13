@@ -51,11 +51,11 @@ switch uiState {
 					for (i = 0; i < array_length(userData.user); i ++) {
 						draw_set_color(c_lightning_yellow)
 						draw_set_font(fntButtons)
-						draw_text(default_width * 0.05, 128 + (i * 64), string(userData.user[i].test))
+						draw_text(default_width * 0.05, 64 + (i * 64), string(userData.user[i].test))
 						draw_set_color(c_tropical_blue)
 						draw_set_font(fntAnswers)
 						for(ii = 0; ii < 3; ii ++) {
-							draw_text((default_width * 0.25) + (ii * 475 ), 128 + (i * 64), 
+							draw_text((default_width * 0.25) + (ii * 475 ), 64 + (i * 64), 
 								"Date: " + string(userData.user[i].dates[ii]) + "   " + 
 								"Score: " + string(userData.user[i].scores[ii]) + "%"
 							)

@@ -21,6 +21,16 @@
 			"scores": [0, 0, 0]
 		},
 		{
+			"test": "Equations 1",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Expressions 1",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
 			"test": "Social Studies 1",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
