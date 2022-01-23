@@ -62,6 +62,15 @@ if global.canClick
 						// spawn OK button and exit test button
 					}
 					break
+				case "Back": // Back to main
+                    global.canClick = false
+					with oControl {
+						cameraY = 0
+						camera_set_view_pos(camera, 0, cameraY)
+						uiState = uiLayout.main
+						load_ui(uiState)
+					}
+                    break
 				case "End":
 					global.canClick = false
 					with oControl {

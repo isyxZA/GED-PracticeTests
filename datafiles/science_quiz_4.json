@@ -1,0 +1,104 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Humans can breed plants and animals to have useful traits. By selecting which animals are allowed to reproduce, humans can influence an organism's genotype. What name did Darwin give to this kind of change in organisms?",
+			"graphic": "noone",
+			"answers": [
+				"natural selection",
+				"artificial selection",
+				"survival of the fittest",
+				"hybridism"
+			],
+			"answer": "artificial selection"
+		},
+		{
+			"number": 2,
+			"question": "Which of the following is true about the frog?",
+			"graphic": "Science_Quiz_4_1",
+			"answers": [
+				"It is a member of the salmandridae family.",
+				"It is a type of amphibian.",
+				"It is a non-vertebrate.",
+				"It is closer to most tetrapods than most newts."
+			],
+			"answer": "It is a type of amphibian."
+		},
+		{
+			"number": 3,
+			"question": "Which statement can be inferred about amphibians?",
+			"graphic": "Science_Quiz_4_1",
+			"answers": [
+				"All amphibians are salamandridae, but not all salamandridae are amphibians.",
+				"Some amphibians are vertebrates, but not all amphibians are vertebrates.",
+				"Some salamandridae are anphibians, but not all amphibians are tetrapods.",
+				"All amphibians are vertebrates, but not all vertebrates are amphibians."
+			],
+			"answer": "All amphibians are vertebrates, but not all vertebrates are amphibians."
+		},
+		{
+			"number": 4,
+			"question": "What is the median time, in seconds, of the 6 bicycle racers?",
+			"graphic": "Science_Quiz_4_2",
+			"answers": ["114", "115", "116", "118.5"],
+			"answer": "115"
+		},
+		{
+			"number": 5,
+			"question": "What process is illustrated in the diagram above?",
+			"graphic": "Science_Quiz_4_3",
+			"answers": ["codification", "mutation", "mitosis", "meiosis"],
+			"answer": "meiosis"
+		},
+		{
+			"number": 6,
+			"question": "Which sentence from the paragraph supports the idea that species in the same genus can have unique characteristics?",
+			"graphic": "Science_Quiz_4_4",
+			"answers": [
+				"In July, 1957, members of a field party from the University of Kansas Natural History Museum, under the direction of Sydney Anderson, \nspent 12 days collecting vertebrates in the vicinity of Creel in southwestern Chihuahua.",
+				"Among the specimens were two snakes representing an undescribed species of the genus Geophis.",
+				"The discovery of a new Geophis species in southern Chihuahua increased the number of species in the genus known to occur in Mexico \n to 21 and extended the range of the genus by over 500 miles.",
+				"Geophis aquilonaris is different from all other Mexican representatives of the genus because it has numerous, alternating pale and \ndark bands on the body and tail."
+			],
+			"answer": "Geophis aquilonaris is different from all other Mexican representatives of the genus because it has numerous, alternating pale and \ndark bands on the body and tail."
+		},
+		{
+			"number": 7,
+			"question": "What can be inferred from this passage about the differences between Neptune and Saturn?",
+			"graphic": "Science_Quiz_4_5",
+			"answers": [
+				"Saturn is smaller than Neptune.",
+				"Saturn is rockier than Neptune.",
+				"Neptune is icier than Saturn.",
+				"Neptune has more moons than Saturn."
+			],
+			"answer": "Neptune is icier than Saturn."
+		},
+		{
+			"number": 8,
+			"question": "What percentage of total energy consumption is produced by biofuels?",
+			"graphic": "Science_Quiz_4_6",
+			"answers": ["1.89%", "2.1%", "18.9%", "21%"],
+			"answer": "1.89%"
+		},
+		{
+			"number": 9,
+			"question": "Which statement is supported by the data in this table?",
+			"graphic": "Science_Quiz_4_7",
+			"answers": [
+				"There is more potassium in ocean water than magnesium.",
+				"If bromine was more highly concentrated, then it could be extracted for use in disinfectants.",
+				"There is more chlorine in ocean water than sodium and sulfur combined.",
+				"Carbon plays a small, but important role in the ecosystem of the ocean."
+			],
+			"answer": "There is more chlorine in ocean water than sodium and sulfur combined."
+		},
+		{
+			"number": 10,
+			"question": "What is the name describing the relationship between the birds and the deer?",
+			"graphic": "Science_Quiz_4_8",
+			"answers": ["Symbiosis", "Adaption", "Competition", "Homeostasis"],
+			"answer": "Symbiosis"
+		}
+	]
+}

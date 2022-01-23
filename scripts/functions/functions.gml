@@ -64,6 +64,38 @@ function load_test(_testID){
 				questionData = json_parse(_string)
 			}
 			break
+		case "Science Quiz 1":
+			if file_exists("science_quiz_1.json") {
+				var _buffer = buffer_load("science_quiz_1.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Science Quiz 2":
+			if file_exists("science_quiz_2.json") {
+				var _buffer = buffer_load("science_quiz_2.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Science Quiz 3":
+			if file_exists("science_quiz_3.json") {
+				var _buffer = buffer_load("science_quiz_3.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Science Quiz 4":
+			if file_exists("science_quiz_4.json") {
+				var _buffer = buffer_load("science_quiz_4.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
 		case "Math 1":
 			if file_exists("math_test_1.json") {
 				var _buffer = buffer_load("math_test_1.json")
@@ -414,8 +446,12 @@ function load_ui(_layout) {
 			with oButtonRadio { instance_destroy() }
 			with oButtonUI { instance_destroy() }
 			// Spawn new buttons
-			spawn_button_menu(default_width * 0.5, default_height * 0.45, sButton, 1.25, 1, "Science 1")
-			spawn_button_menu(default_width * 0.5, default_height * 0.55, sButton, 1.25, 1, "Science 2")
+			spawn_button_menu(default_width * 0.75, default_height * 0.45, sButton, 1.25, 1, "Science Test 1")
+			spawn_button_menu(default_width * 0.75, default_height * 0.55, sButton, 1.25, 1, "Science Test 2")
+			spawn_button_menu(default_width * 0.25, default_height * 0.35, sButton, 1.25, 1, "Science Quiz 1")
+			spawn_button_menu(default_width * 0.25, default_height * 0.45, sButton, 1.25, 1, "Science Quiz 2")
+			spawn_button_menu(default_width * 0.25, default_height * 0.55, sButton, 1.25, 1, "Science Quiz 3")
+			spawn_button_menu(default_width * 0.25, default_height * 0.65, sButton, 1.25, 1, "Science Quiz 4")
 			// Turn on can click
 			oControl.alarm[0] = room_speed * 0.5
 			break
@@ -425,8 +461,8 @@ function load_ui(_layout) {
 			with oButtonRadio { instance_destroy() }
 			with oButtonUI { instance_destroy() }
 			// Spawn new buttons
-			spawn_button_menu(default_width * 0.75, default_height * 0.45, sButton, 1.25, 1, "Math 1")
-			spawn_button_menu(default_width * 0.75, default_height * 0.55, sButton, 1.25, 1, "Math 2")
+			spawn_button_menu(default_width * 0.75, default_height * 0.45, sButton, 1.25, 1, "Math Test 1")
+			spawn_button_menu(default_width * 0.75, default_height * 0.55, sButton, 1.25, 1, "Math Test 2")
 			spawn_button_menu(default_width * 0.25, default_height * 0.45, sButton, 1.25, 1, "Equations 1")
 			spawn_button_menu(default_width * 0.25, default_height * 0.55, sButton, 1.25, 1, "Expressions 1")
 			// Turn on can click
@@ -462,7 +498,7 @@ function load_ui(_layout) {
 			// Clear current buttons
 			with oButton { instance_destroy() }
 			// Spawn new buttons
-			spawn_button_menu(default_width * 0.5, default_height * 0.9, sButton, 1.25, 1, "Back")
+			spawn_button_ui(default_width * 0.9, default_height * 0.1, sButton, 0.8, 0.8, "Back")
 			// Turn on can click
 			oControl.alarm[0] = room_speed * 0.5
 			break
@@ -712,8 +748,88 @@ function find_graphic(_indentifier) {
 			return sEquations_1_3
 		case "Equations_1_4":
 			return sEquations_1_4
+		case "Equations_1_5":
+			return sEquations_1_5
+		case "Equations_1_6":
+			return sEquations_1_6
+		case "Equations_1_7":
+			return sEquations_1_7
+		case "Equations_1_8":
+			return sEquations_1_8
+		case "Equations_1_9":
+			return sEquations_1_9
 		case "Expressions_1_1":
 			return sExpressions_1_1
+		case "Expressions_1_2":
+			return sExpressions_1_2
+		case "Expressions_1_3":
+			return sExpressions_1_3
+		case "Expressions_1_4":
+			return sExpressions_1_4
+		case "Expressions_1_5":
+			return sExpressions_1_5
+		case "Expressions_1_6":
+			return sExpressions_1_6
+		case "Expressions_1_7":
+			return sExpressions_1_7
+		case "Expressions_1_8":
+			return sExpressions_1_8
+		case "Science_Quiz_1_1":
+			return sScienceQuiz_1_1
+		case "Science_Quiz_1_2":
+			return sScienceQuiz_1_2
+		case "Science_Quiz_1_3":
+			return sScienceQuiz_1_3
+		case "Science_Quiz_1_4":
+			return sScienceQuiz_1_4
+		case "Science_Quiz_1_5":
+			return sScienceQuiz_1_5
+		case "Science_Quiz_1_6":
+			return sScienceQuiz_1_6
+		case "Science_Quiz_2_1":
+			return sScienceQuiz_2_1
+		case "Science_Quiz_2_2":
+			return sScienceQuiz_2_2
+		case "Science_Quiz_2_3":
+			return sScienceQuiz_2_3
+		case "Science_Quiz_2_4":
+			return sScienceQuiz_2_4
+		case "Science_Quiz_2_5":
+			return sScienceQuiz_2_5
+		case "Science_Quiz_2_6":
+			return sScienceQuiz_2_6
+		case "Science_Quiz_2_7":
+			return sScienceQuiz_2_7
+		case "Science_Quiz_2_8":
+			return sScienceQuiz_2_8
+		case "Science_Quiz_3_1":
+			return sScienceQuiz_3_1
+		case "Science_Quiz_3_2":
+			return sScienceQuiz_3_2
+		case "Science_Quiz_3_3":
+			return sScienceQuiz_3_3
+		case "Science_Quiz_3_4":
+			return sScienceQuiz_3_4
+		case "Science_Quiz_3_5":
+			return sScienceQuiz_3_5
+		case "Science_Quiz_3_6":
+			return sScienceQuiz_3_6
+		case "Science_Quiz_4_1":
+			return sScienceQuiz_4_1
+		case "Science_Quiz_4_2":
+			return sScienceQuiz_4_2
+		case "Science_Quiz_4_3":
+			return sScienceQuiz_4_3
+		case "Science_Quiz_4_4":
+			return sScienceQuiz_4_4
+		case "Science_Quiz_4_5":
+			return sScienceQuiz_4_5
+		case "Science_Quiz_4_6":
+			return sScienceQuiz_4_6
+		case "Science_Quiz_4_7":
+			return sScienceQuiz_4_7
+		case "Science_Quiz_4_8":
+			return sScienceQuiz_4_8
 		default:
 			return sGraphic_Blank
 	}

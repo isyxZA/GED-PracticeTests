@@ -62,6 +62,5 @@ uiState = uiLayout.main
 load_ui(uiState)
 
 // display size
-window_set_fullscreen(false)
-window_set_size(1360, 765)
-
+//window_set_fullscreen(false)
+//window_set_size(1360, 765)

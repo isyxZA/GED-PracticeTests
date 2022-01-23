@@ -1,22 +1,42 @@
 {
 	"user": [
 		{
-			"test": "Science 1",
+			"test": "Science Test 1",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
 		},
 		{
-			"test": "Science 2",
+			"test": "Science Test 2",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
 		},
 		{
-			"test": "Math 1",
+			"test": "Science Quiz 1",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
 		},
 		{
-			"test": "Math 2",
+			"test": "Science Quiz 2",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Science Quiz 3",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Science Quiz 4",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Math Test 1",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Math Test 2",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
 		},

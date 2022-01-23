@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 371,
+  "bbox_right": 499,
   "bbox_top": 0,
-  "bbox_bottom": 161,
+  "bbox_bottom": 289,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 372,
-  "height": 162,
+  "width": 500,
+  "height": 290,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"140e8bc7-40b4-4167-b59a-2fd91bb8c787","path":"sprites/sEquations_1_2/sEquations_1_2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"140e8bc7-40b4-4167-b59a-2fd91bb8c787","path":"sprites/sEquations_1_2/sEquations_1_2.yy",},"LayerId":{"name":"feecad67-b67c-477a-bd0f-e4c11333cc12","path":"sprites/sEquations_1_2/sEquations_1_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sEquations_1_2","path":"sprites/sEquations_1_2/sEquations_1_2.yy",},"resourceVersion":"1.0","name":"140e8bc7-40b4-4167-b59a-2fd91bb8c787","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b342f3b7-0046-40f4-8c97-854e45cec23b","path":"sprites/sEquations_1_2/sEquations_1_2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b342f3b7-0046-40f4-8c97-854e45cec23b","path":"sprites/sEquations_1_2/sEquations_1_2.yy",},"LayerId":{"name":"7dee88ca-8d28-49bb-83e7-7a9d8399cd1a","path":"sprites/sEquations_1_2/sEquations_1_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sEquations_1_2","path":"sprites/sEquations_1_2/sEquations_1_2.yy",},"resourceVersion":"1.0","name":"b342f3b7-0046-40f4-8c97-854e45cec23b","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sEquations_1_2","path":"sprites/sEquations_1_2/sEquations_1_2.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"6d7f3dae-9fd7-4512-a51b-44f6fa217fe0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"140e8bc7-40b4-4167-b59a-2fd91bb8c787","path":"sprites/sEquations_1_2/sEquations_1_2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7a428e18-deb8-4bf2-89a5-beb2c9d08b31","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b342f3b7-0046-40f4-8c97-854e45cec23b","path":"sprites/sEquations_1_2/sEquations_1_2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -54,7 +54,7 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 186,
+    "xorigin": 250,
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"feecad67-b67c-477a-bd0f-e4c11333cc12","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7dee88ca-8d28-49bb-83e7-7a9d8399cd1a","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

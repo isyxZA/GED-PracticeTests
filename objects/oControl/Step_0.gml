@@ -61,6 +61,49 @@ switch uiState {
 			
 		}
 		break
+	case uiLayout.userscores:
+		// Scroll the question page up/down
+		if keyboard_check_direct(vk_up) {
+			if cameraY - scrollSpeed >= 0 { 
+				cameraY -= scrollSpeed
+				camera_set_view_pos(camera, 0, cameraY)
+				with oButtonUI {
+					y -= oControl.scrollSpeed
+				}
+			}
+	
+		}
+		else if mouse_wheel_up() {
+			if cameraY - scrollSpeed >= 0 { 
+				cameraY -= (scrollSpeed * 4)
+				camera_set_view_pos(camera, 0, cameraY)
+				with oButtonUI {
+					y -= (oControl.scrollSpeed * 4)
+				}
+			}
+	
+		}
+		else if keyboard_check_direct(vk_down) {
+			if cameraY + default_height + scrollSpeed <= maxHeight {
+				cameraY += scrollSpeed
+				camera_set_view_pos(camera, 0, cameraY)
+				with oButtonUI {
+					y += oControl.scrollSpeed
+				}
+			}
+			
+		}
+		else if mouse_wheel_down() {
+			if cameraY + default_height + scrollSpeed <= maxHeight {
+				cameraY += (scrollSpeed * 4)
+				camera_set_view_pos(camera, 0, cameraY)
+				with oButtonUI {
+					y += (oControl.scrollSpeed * 4)
+				}
+			}
+			
+		}
+		break
 	default:
 		break
 }

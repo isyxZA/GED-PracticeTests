@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Science",
-    "path": "folders/Sprites/Science.yy",
+    "name": "Tests",
+    "path": "folders/Sprites/Science/Tests.yy",
   },
   "resourceVersion": "1.0",
   "name": "sScience_2_8",

@@ -1,0 +1,104 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Based on the passage above, what are the environmental trade-offs of hybrid electric vehicles?",
+			"graphic": "Science_Quiz_3_1",
+			"answers": [
+				"There is only enough lanthanum available in the world to meet the demand of the Toyota Prius.",
+				"While hybrid cars may reduce our dependance on fossil fuels, they may also increase our \n dependance on metals that are extracted from the ground in a destructive manner.",
+				"Water near surface mining operations is highly acidic, sometimes with a pH of 2.5 or lower.",
+				"Toyota obtains its lanthanum from China."
+			],
+			"answer": "While hybrid cars may reduce our dependance on fossil fuels, they may also increase our \n dependance on metals that are extracted from the ground in a destructive manner."
+		},
+		{
+			"number": 2,
+			"question": "Which sentence from the passage above best supports the idea that driving a hybrid electric vehicle burns gasoline?",
+			"graphic": "Science_Quiz_3_1",
+			"answers": [
+				"'Many individuals concerned with their carbon footprint are excited about the availability of hybrid electric vehicles.'",
+				"'These cars are much more effficient in their use of fossil fuels than similarly sized internal combustion automobiles.'",
+				"'However, hybrid electric vehicles do come with an environmental price tag.'",
+				"'Such extraction processes are a type of surface mining, which have severe environmental impacts such as erosion, \n acid mine drainage, water pollution, and disruption of habit.'"
+			],
+			"answer": "'These cars are much more effficient in their use of fossil fuels than similarly sized internal combustion automobiles.'"
+		},
+		{
+			"number": 3,
+			"question": "According to the formula, which of the following will result in a lower BMR?",
+			"graphic": "Science_Quiz_3_2",
+			"answers": [
+				"Greater weight",
+				"Greater height",
+				"Greater age",
+				"None of the above"
+			],
+			"answer": "Greater age"
+		},
+		{
+			"number": 4,
+			"question": "Convert this height measurement into meters:",
+			"graphic": "Science_Quiz_3_3",
+			"answers": [
+				"1.73 meters",
+				"0.173 meters",
+				"0.0173 meters",
+				"0.00173 meters"
+			],
+			"answer": "0.0173 meters"
+		},
+		{
+			"number": 5,
+			"question": "A crowbar can be used to remove a nail from a board. If the crowbar has a mechanical advantage of 8, and the a force of 40 Newtons is applied to it, what will be the output force?",
+			"graphic": "Science_Quiz_3_4",
+			"answers": ["5 Newtons", "320 Newtons", "0.2 Newtons", "32 Newtons"],
+			"answer": "320 Newtons"
+		},
+		{
+			"number": 6,
+			"question": "In a lab experiment designed to test the rate at which plants grow under artificial light, the kind of light used is which type of variable?",
+			"graphic": "noone",
+			"answers": ["Dependent", "Independent", "Random", "Responding"],
+			"answer": "Independent"
+		},
+		{
+			"number": 7,
+			"question": "After analyzing the data, what is the most appropriate conclusion about the effects of caffeine on the heart rate of healthy 20-year-old women?",
+			"graphic": "Science_Quiz_3_5",
+			"answers": [
+				"Caffeine increases the pulse rates of women",
+				"Caffeine decreases the pulse rates of women",
+				"Caffiene is safe to consume",
+				"Regular coffee is healthier than decaffeinated coffee"
+			],
+			"answer": "Caffeine increases the pulse rates of women"
+		},
+		{
+			"number": 8,
+			"question": "A student hypothesizes that eating a teaspoon of raw honey will prevent sneezing in people who are allergic to pollen. She runs an experiment to test her hypothesis. What is the dependent variable?",
+			"graphic": "noone",
+			"answers": ["Eating", "Raw Honey", "Sneezing", "Pollen"],
+			"answer": "Sneezing"
+		},
+		{
+			"number": 9,
+			"question": "Which of the following changes would decrease network latency?",
+			"graphic": "Science_Quiz_3_6",
+			"answers": [
+				"Increase distance",
+				"Decrease speed",
+				"Decrease packet size",
+				"Decrease transmission rate"
+			],
+			"answer": "Decrease packet size"
+		},
+		{
+			"number": 10,
+			"question": "Purple flowers, yellow seeds and inflated seed pods are all dominant traits in pea plants. The recessive traits being white flowers, green seeds and constricted seed pods. If a plant that is homozygous dominant for flower color is crossed with a plant that is heterozygous for flower color, what percentage of the offspring will have yellow flowers?",
+			"graphic": "noone",
+			"answers": ["100%", "75%", "25%", "0%"],
+			"answer": "0%"
+		}
+	]
+}

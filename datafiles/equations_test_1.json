@@ -11,27 +11,27 @@
 			"number": 2,
 			"question": "Simplify",
 			"graphic": "Equations_1_1",
-			"answers": ["-(13/25)", "-(7/17)", "-(13/3)", "-(5/4)", "-(13/25)"],
+			"answers": ["(13/25)", "-(7/17)", "-(13/3)", "-(5/4)", "-(13/25)"],
 			"answer": "-(13/25)"
 		},
 		{
 			"number": 3,
-			"question": "Evaluate 2b(4a - (c^2)) if: \n\na = 5 \nb = 3/2 \nc = 11",
-			"graphic": "noone",
+			"question": "Select your answer.",
+			"graphic": "Equations_1_2",
 			"answers": ["-303", "509", "1", "870", "-109"],
 			"answer": "-303"
 		},
 		{
 			"number": 4,
-			"question": "Evaluate m + (n - 1)^2 if: \n\nm = 3 \nn = -4",
-			"graphic": "noone",
+			"question": "Select your answer.",
+			"graphic": "Equations_1_3",
 			"answers": ["-2", "5", "20", "28", "-35"],
 			"answer": "28"
 		},
 		{
 			"number": 5,
-			"question": "The formula for the surface area of a sphere is A = 4(pi)(r^2), where r is the length of the radius. Find the surface area of a sphere with a radius of 14 feet.",
-			"graphic": "noone",
+			"question": "Select your answer.",
+			"graphic": "Equations_1_4",
 			"answers": [
 				"249 square feet",
 				"1024 square feet",
@@ -44,7 +44,7 @@
 		{
 			"number": 6,
 			"question": "Find the area of the trapezoid shown below.",
-			"graphic": "Equations_1_2",
+			"graphic": "Equations_1_5",
 			"answers": [
 				"16 square inches",
 				"130 square inches",
@@ -63,8 +63,8 @@
 		},
 		{
 			"number": 8,
-			"question": "Evaluate -(-10)^3",
-			"graphic": "noone",
+			"question": "Select your answer.",
+			"graphic": "Equations_1_6",
 			"answers": ["-10", "0", "1", "100", "1000"],
 			"answer": "1000"
 		},
@@ -73,18 +73,18 @@
 			"question": "Which expression below represents the amount of change someone would receive from a $50 bill if they purchased 2 children's tickets at $4.25 each and 3 adult tickets at $7 each at a movie theater.",
 			"graphic": "noone",
 			"answers": [
-				"50 - 2 x 4.25 + 3 x 7",
-				"50 - (2 x 4.25 + 3 x 7)",
-				"(50 - 2 x 4.25) + 3 x 7",
-				"(50 - 2 x 4.25) - (3 x 7)",
-				"50 - (2 x 4.25) + (3 x 7)"
+				"50 - 2 * 4.25 + 3 * 7",
+				"50 - (2 * 4.25 + 3 * 7)",
+				"(50 - 2 * 4.25) + 3 * 7",
+				"(50 - 2 * 4.25) - (3 * 7)",
+				"50 - (2 * 4.25) + (3 * 7)"
 			],
-			"answer": "50 - (2 x 4.25 + 3 x 7)"
+			"answer": "50 - (2 * 4.25 + 3 * 7)"
 		},
 		{
 			"number": 10,
 			"question": "Identify the graph of the solution set of -2.3 < 4 + 0.9y",
-			"graphic": "Equations_1_3",
+			"graphic": "Equations_1_7",
 			"answers": ["A", "B", "C", "D", "E"],
 			"answer": "A"
 		},
@@ -104,42 +104,28 @@
 		},
 		{
 			"number": 13,
-			"question": "In 1950, the average price of a car was about $2000. This may sound inexpensive, but the average income in 1950 was much less than it is now. Buying a car for $2000 in 1950 was like buying a car for how much money in 2000?",
-			"graphic": "noone",
-			"answers": ["$5369.05", "$8266.03", "$9642.08", "$4368.50", "$10215.36"],
-			"answer": "$8266.03"
-		},
-		{
-			"number": 14,
-			"question": "You count 5 seconds between seeing the light and hearing the sound of the firework display. You estimate the viewing angle is about 4 degrees. Using the information at the left, estimate the width of the firework display.",
-			"graphic": "noone",
-			"answers": ["100 ft", "150 ft", "200 ft", "250 ft", "400 ft"],
-			"answer": "400 ft"
-		},
-		{
-			"number": 15,
-			"question": "Find the value of 1 + 3(5 - 17) / 2 x 6",
+			"question": "Find the value of 1 + 3(5 - 17) / 2 * 6",
 			"graphic": "noone",
 			"answers": ["-4", "-104", "109", "7", "-107"],
 			"answer": "-107"
 		},
 		{
-			"number": 16,
+			"number": 14,
 			"question": "The following are the dimensions of four rectangles. Which rectangle has the same area as the triangle at the right?",
-			"graphic": "Equations_1_4",
+			"graphic": "Equations_1_8",
 			"answers": [
-				"1.6 ft by 25 ft",
-				"5 ft by 16 ft",
-				"3.5 ft by 4 ft",
-				"0.4 ft by 50 ft",
-				"-4 ft by 20 ft"
+				"1.6ft by 25ft",
+				"5ft by 16ft",
+				"3.5ft by 4ft",
+				"0.4ft by 50ft",
+				"-4ft by 20ft"
 			],
-			"answer": "0.4 ft by 50 ft"
+			"answer": "0.4ft by 50ft"
 		},
 		{
-			"number": 17,
-			"question": "Find the value of this expression 12 - (20 - 2((6^2) / 3 x (2^2)))",
-			"graphic": "noone",
+			"number": 15,
+			"question": "Select your answer.",
+			"graphic": "Equations_1_9",
 			"answers": ["0", "1", "-8", "-44", "88"],
 			"answer": "88"
 		}

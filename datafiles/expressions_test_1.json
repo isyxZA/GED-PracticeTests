@@ -2,82 +2,70 @@
 	"test": [
 		{
 			"number": 1,
-			"question": "The coefficient of xy in 3(x^2)zy + 7xyz - 2(z^2)x is",
-			"graphic": "noone",
+			"question": "Select your answer.",
+			"graphic": "Expressions_1_1",
 			"answers": ["-5z", "3.5z", "-2", "7z", "5yz"],
 			"answer": "7z"
 		},
 		{
 			"number": 2,
-			"question": "The factors of the term -x(y^2) are",
-			"graphic": "noone",
+			"question": "Select your answer.",
+			"graphic": "Expressions_1_2",
 			"answers": [
-				"(x)(y)(y)",
-				"(-1)(y)(y)",
-				"(-1)(x)(y)",
-				"(-1)(x)(y)(y)",
-				"(1)(x)(y)"
+				"x * y * y",
+				"-1 * y * y",
+				"-1 * x * y",
+				"-1 * x * y * y",
+				"1 * x * y"
 			],
-			"answer": "(-1)(x)(y)(y)"
+			"answer": "-1 * x * y * y"
 		},
 		{
 			"number": 3,
-			"question": "Simplify the expression 7(x^3) - 3(x^2)y + x(y^2) + (x^2)y - (y^3)",
-			"graphic": "noone",
-			"answers": [
-				"7(x^3) - 2(x^2)y + x(y^2) - (y^3)",
-				"7(x^3) - 2(x^2)y + x(y^2)",
-				"7(x^3) - 2(x^3)y",
-				"7(x^3) - 2x(y^3)",
-				"17xy"
-			],
-			"answer": "7(x^3) - 2(x^2)y + x(y^2) - (y^3)"
+			"question": "Select your answer.",
+			"graphic": "Expressions_1_3",
+			"answers": ["A", "B", "C", "D", "E"],
+			"answer": "A"
 		},
 		{
 			"number": 4,
-			"question": "Find the value of the following expressions if a = 1 and b = -2: \n(a^3) + (a^2)b + a(b^2) + (b^3) ",
-			"graphic": "noone",
+			"question": "Select your answer.",
+			"graphic": "Expressions_1_4",
 			"answers": ["1", "0", "10", "-5", "-1"],
 			"answer": "-5"
 		},
 		{
 			"number": 5,
-			"question": "Find each side of an equilateral triangle given below, if it's perimeter is 240cm.",
-			"graphic": "Expressions_1_1",
+			"question": "Find each side of the given equilateral triangle, if it's perimeter is 240cm.",
+			"graphic": "Expressions_1_5",
 			"answers": ["38.5cm", "65.5cm", "77cm", "80cm", "90.5cm"],
 			"answer": "80cm"
 		},
 		{
 			"number": 6,
-			"question": "Number of terms in the expression 3(x^2)y - 2(y^2)z - (z^2)x + 5 is",
-			"graphic": "noone",
+			"question": "Select your answer.",
+			"graphic": "Expressions_1_6",
 			"answers": ["-1", "0", "2", "4", "-2"],
 			"answer": "4"
 		},
 		{
 			"number": 7,
-			"question": "Which of the following is a pair of like terms?",
-			"graphic": "noone",
-			"answers": [
-				"-7x(y^2)z, -7(x^2)yz",
-				"-10xy(z^2), 3xy(z^2)",
-				"3xyz, 3(x^2)(y^2)(z^2)",
-				"4xy(z^2), 4(x^2)yz",
-				"-2xy(z^2), 2(x^2)yz"
-			],
-			"answer": "-10xy(z^2), 3xy(z^2)"
+			"question": "Select your answer.",
+			"graphic": "Expressions_1_7",
+			"answers": ["A", "B", "C", "D", "E"],
+			"answer": "B"
 		},
 		{
 			"number": 8,
-			"question": "The side length of the top of square table is x. The expression for perimeter is:",
+			"question": "The side length of a square table is x. The expression for the perimeter of the table is:",
 			"graphic": "noone",
 			"answers": ["4 + x", "2x", "4x", "8x", "16x"],
 			"answer": "4x"
 		},
 		{
 			"number": 9,
-			"question": "The value of 3(x^2) - 5x + 3 when x = 1 is",
-			"graphic": "noone",
+			"question": "Select your answer.",
+			"graphic": "Expressions_1_8",
 			"answers": ["1", "-1", "0", "11", "-1.5"],
 			"answer": "1"
 		},

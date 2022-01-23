@@ -1,0 +1,101 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Genetically modified crops and livestock offer the possibility of greater yield and food quality, reductions in pesticide use, and higher profits for agricultural businesses. They are viewed by some as a way to help reduce world hunger by increasing food production and reducing losses to pests and varying environmental conditions. Each year, industrial agriculture relies more heavily on genetically modified crops. There are some concerns about our increasing use of genetically modified crops and livestock, including their safety for human consumption and their effects on the environment. \n\nBased on the passage above, if genetically modified crops were to be banned, what could be the largest negative impact to humans?",
+			"graphic": "noone",
+			"answers": [
+				"Introduction of new allergens into the food supply",
+				"Loss of genetic diversity in food crops",
+				"Decrease in food production worldwide",
+				"Increase in the amount of beneficial insects"
+			],
+			"answer": "Decrease in food production worldwide"
+		},
+		{
+			"number": 2,
+			"question": "It could be argued that this experiment was not set up using proper experimental protocol. What would need to change in the experiment for the results to be valid?",
+			"graphic": "Science_Quiz_1_1",
+			"answers": [
+				"The batteries should have all been either name brand or generic",
+				"Only two groups should have been tested at a time",
+				"The same battery should have been used in each flashlight",
+				"The same flashlight should have been used to test each battery"
+			],
+			"answer": "The same flashlight should have been used to test each battery"
+		},
+		{
+			"number": 3,
+			"question": "The square above is based on the eye color of two parents. One of the parents has brown eyes and carries the recessive gene for green eyes (a). What is the probability that a biological child of these parents will have brown eyes?",
+			"graphic": "Science_Quiz_1_2",
+			"answers": ["0%", "25%", "50%", "100%"],
+			"answer": "50%"
+		},
+		{
+			"number": 4,
+			"question": "Above is the chemical equation for photosynthesis. Which of the following statements about photosynthesis is correct?",
+			"graphic": "Science_Quiz_1_3",
+			"answers": [
+				"When 6 molecules of carbon dioxide are used, 1 molecule of oxygen is produced",
+				"When 1 molecule of water is used, 1 molecule of glucose is produced",
+				"When 6 molecules of water are used, 1 molecule of glucose is produced",
+				"When 1 molecule of glucose is produced, 12 molecules of oxygen are used"
+			],
+			"answer": "When 6 molecules of water are used, 1 molecule of glucose is produced"
+		},
+		{
+			"number": 5,
+			"question": "If you were reading a scientific report, and it referred to a wavelength of 455 nm, which color would it be referring to?",
+			"graphic": "Science_Quiz_1_4",
+			"answers": ["Violet", "Ultraviolet", "Blue", "Green"],
+			"answer": "Blue"
+		},
+		{
+			"number": 6,
+			"question": "What is the median of number of hurricanes per decade?",
+			"graphic": "Science_Quiz_1_5",
+			"answers": ["15.29", "15.5", "15", "17"],
+			"answer": "15"
+		},
+		{
+			"number": 7,
+			"question": "What is the mode of this data set?",
+			"graphic": "Science_Quiz_1_5",
+			"answers": ["15", "11", "16", "17"],
+			"answer": "15"
+		},
+		{
+			"number": 8,
+			"question": "What is the range of this data set?",
+			"graphic": "Science_Quiz_1_5",
+			"answers": ["15", "11", "20", "9"],
+			"answer": "11"
+		},
+		{
+			"number": 9,
+			"question": "Which of the following organisms fill more than one role in this ecosystem?",
+			"graphic": "Science_Quiz_1_6",
+			"answers": ["Giraffe", "Hyena", "Cheetah", "Dung-rolling Beetle"],
+			"answer": "Hyena"
+		},
+		{
+			"number": 10,
+			"question": "If additional cheetahs were introduced into this ecosystem, shortly thereafter we would expect a decrease in the:",
+			"graphic": "Science_Quiz_1_6",
+			"answers": [
+				"lion population",
+				"hyena population",
+				"dung-rolling beetle population",
+				"hare population"
+			],
+			"answer": "hare population"
+		},
+		{
+			"number": 11,
+			"question": "As part of a chemistry experiment, 1025 milliliters of water is mixed into a beaker that contains 175 milliliters of motor oil. \n(1 liter = 1000 milliliters) \nAfter adding the water, how many liters of liquid are in the beaker?",
+			"graphic": "noone",
+			"answers": ["1,200", "1,200,000", "1.2", "0.12"],
+			"answer": "1.2"
+		}
+	]
+}

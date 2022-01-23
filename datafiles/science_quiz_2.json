@@ -1,0 +1,104 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Animals that feed exclusively on plants are called:",
+			"graphic": "noone",
+			"answers": [
+				"Primary consumers",
+				"Secondary consumers",
+				"Tertiary consumers",
+				"Primary producers"
+			],
+			"answer": "Primary consumers"
+		},
+		{
+			"number": 2,
+			"question": "What is the island's approximate carrying capacity for fur seals?",
+			"graphic": "Science_Quiz_2_1",
+			"answers": ["6,000", "10,500", "11,500", "1,500"],
+			"answer": "10,500"
+		},
+		{
+			"number": 3,
+			"question": "If the couple has another child, what is the probability that this child will have brown hair?",
+			"graphic": "Science_Quiz_2_2",
+			"answers": ["0%", "25%", "50%", "75%"],
+			"answer": "50%"
+		},
+		{
+			"number": 4,
+			"question": "Which additional information would be the most useful in helping her design this experiment?",
+			"graphic": "Science_Quiz_2_3",
+			"answers": [
+				"The types of pesticides that are used in Napa Valley",
+				"The types of parasites that are present in Napa Valley",
+				"The types of pathogens that are present in Napa Valley",
+				"The types of pesticides that the USDA evaluated"
+			],
+			"answer": "The types of pesticides that are used in Napa Valley"
+		},
+		{
+			"number": 5,
+			"question": "A measure of 70 degrees F is equal to which of the following in Celsius? You may use your calculator.",
+			"graphic": "Science_Quiz_2_4",
+			"answers": ["6.9 degrees", "21.1 degrees", "38.9 degrees", "158 degrees"],
+			"answer": "21.1 degrees"
+		},
+		{
+			"number": 6,
+			"question": "What are the independent and dependent variables in this experiment?",
+			"graphic": "Science_Quiz_2_5",
+			"answers": [
+				"The independant variable is the duration of exposure to Vanacomycin; the dependent variable is bacterial colony size.",
+				"The independant variable is the bacterial colony size; the dependent variable is the duration of exposure to Vanacomycin.",
+				"The independant variable is the bacterial colony size; the dependent variable is the type of bacteria .",
+				"The independant variable is the duration of exposure to Vanacomycin; the dependent variable is the type of bacteria."
+			],
+			"answer": "The independant variable is the duration of exposure to Vanacomycin; the dependent variable is bacterial colony size."
+		},
+		{
+			"number": 7,
+			"question": "Based on these results, Vancomycin is most effective against:",
+			"graphic": "Science_Quiz_2_5",
+			"answers": [
+				"Enterococcus",
+				"Staphylococcus",
+				"Streptococcus",
+				"It is equally effective against Staphylococcus and Streptococcus"
+			],
+			"answer": "Streptococcus"
+		},
+		{
+			"number": 8,
+			"question": "Based on the information in this cladogram, which of these statements is true?",
+			"graphic": "Science_Quiz_2_6",
+			"answers": [
+				"Primates evolved from sharks.",
+				"The original ancestor of all the species on the cladogram had a bony skeleton.",
+				"Dinosaurs are more closely related to crocodiles than they are to amphibians.",
+				"Ray-finned fish have an amniotic egg."
+			],
+			"answer": "Dinosaurs are more closely related to crocodiles than they are to amphibians."
+		},
+		{
+			"number": 9,
+			"question": "The laboratory has published findings in which they claim that the new flu vaccine can prevent the influenza virus. However, a competing lab has criticized the findings, claiming that there is an error in the way the groups were setup. What changes to the test setup would eliminate the source of the error?",
+			"graphic": "Science_Quiz_2_7",
+			"answers": [
+				"Test a fifth group at a higher dosage than 200mg.",
+				"Only use two groups instead of four groups so that the data is easier to compare.",
+				"Make the difference in the dosage amount between the groups much larger.",
+				"Add a fifth group to the study and set the dosage to 0mg/day."
+			],
+			"answer": "Add a fifth group to the study and set the dosage to 0mg/day."
+		},
+		{
+			"number": 10,
+			"question": "What is the mean time, in seconds, for all of the bicycle racers?",
+			"graphic": "Science_Quiz_2_8",
+			"answers": ["116", "714", "119", "144"],
+			"answer": "119"
+		}
+	]
+}
