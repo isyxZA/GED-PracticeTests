@@ -1,0 +1,71 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Why does the author include the phrase, 'watching until it was nothing more than a tiny speck' in paragraph 1?",
+			"graphic": "Critical_4_1",
+			"answers": [
+				"To show Jamie's emotional state at the moment",
+				"To reveal how his best friend left town",
+				"To emphasize the length of the street",
+				"To describe Jamie's inner monologue"
+			],
+			"answer": "To show Jamie's emotional state at the moment"
+		},
+		{
+			"number": 2,
+			"question": "Read the following sentences from the passage. \n\nHe trudged home begrudgingly. Then before even stepping on his front porch, Jamie yelled to his mother. 'Mom!' he called. 'He's officially gone. There went the best friend I'll ever have.' He slammed the door and stood before her. \n\nWhat inference can be made about Jamie?",
+			"graphic": "Critical_4_1",
+			"answers": [
+				"He does not have a good relationship with his mother.",
+				"His mother did not approve of his best friend.",
+				"He is unhappy about moving to a new city.",
+				"He is upset about something beyond his control."
+			],
+			"answer": "He is upset about something beyond his control."
+		},
+		{
+			"number": 3,
+			"question": "Which fact from the passage supports the idea that Bobby moved into Jamie's neighborhood?",
+			"graphic": "Critical_4_1",
+			"answers": [
+				"Jamie and Bobby attend the same school.",
+				"Jamie wants Bobby to play on his baseball team.",
+				"Jamie wants to throw balls with Bobby after school.",
+				"Jamie can see Bobby's driveway from his front yard."
+			],
+			"answer": "Jamie can see Bobby's driveway from his front yard."
+		},
+		{
+			"number": 4,
+			"question": "Why does the author choose to end the passage with the sentence 'Jamie grinned'?",
+			"graphic": "Critical_4_1",
+			"answers": [
+				"to show that Jamie cares more about Bobby than he did Ben",
+				"to explain that Bobby's father owns the moving truck",
+				"to hint that Jamie and Bobby might become close friends",
+				"to describe how Jamie's mother invited Bobby over"
+			],
+			"answer": "to hint that Jamie and Bobby might become close friends"
+		},
+		{
+			"number": 5,
+			"question": "What word best describes the mother's behavior in paragraph 7?",
+			"graphic": "Critical_4_1",
+			"answers": ["condescending", "elated", "diplomatic", "strict"],
+			"answer": "diplomatic"
+		},
+		{
+			"number": 6,
+			"question": "Which fact can the reader infer about Bobby?",
+			"graphic": "Critical_4_1",
+			"answers": [
+				"He cannot see well and requires a seat in the front of the classroom.",
+				"He ran to the ball field ahead of Jamie because he doesn't want to be his friend.",
+				"He is deaf and only understands Jamie when he faces him so that he can read his lips.",
+				"He didn't respond to Jamie about throwing balls because he really doesn't like to play baseball."
+			],
+			"answer": "He is deaf and only understands Jamie when he faces him so that he can read his lips."
+		}
+	]
+}

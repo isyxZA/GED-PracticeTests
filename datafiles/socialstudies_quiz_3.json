@@ -1,0 +1,124 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Which branch of the federal government can veto legislation?",
+			"graphic": "noone",
+			"answers": [
+				"The President",
+				"The US House of Representatives",
+				"The US Senate",
+				"The US Supreme Court"
+			],
+			"answer": "The President"
+		},
+		{
+			"number": 2,
+			"question": "Review the statement below: \n\n'On D-Day, June 6, 1944, Allied forces sustained more than 10,000 casualties.' \n\nThis statement is best classified as:",
+			"graphic": "noone",
+			"answers": [
+				"An opinion",
+				"A scientific conclusion",
+				"A fact",
+				"An inference"
+			],
+			"answer": "A fact"
+		},
+		{
+			"number": 3,
+			"question": "Based on this excerpt, what was Washington's opinion of foreign alliances?",
+			"graphic": "Social_Quiz_3_1",
+			"answers": [
+				"Permanent alliances are appropriate for emergency situations.",
+				"No new agreements should be made, and existing agreements should not be honored.",
+				"No permanent foreign alliances should be made.",
+				"Agreements should be extended only if they will promote freedom and democracy abroad."
+			],
+			"answer": "No permanent foreign alliances should be made."
+		},
+		{
+			"number": 4,
+			"question": "Which of the following programs was designed to help people of all income levels?",
+			"graphic": "Social_Quiz_3_2",
+			"answers": [
+				"Housing and Urban Development Act",
+				"Higher Education Act",
+				"Medicare",
+				"Medicaid"
+			],
+			"answer": "Medicare"
+		},
+		{
+			"number": 5,
+			"question": "According to the excerpt, a proposal for amending the Constitution is considered valid when it is:",
+			"graphic": "Social_Quiz_3_3",
+			"answers": [
+				"proposed by 2/3 of the Senate.",
+				"proposed by 2/3 of each chamber of Congress.",
+				"proposed by 3/4 of the state legislatures.",
+				"proposed by 3/4 of each chamber of Congress."
+			],
+			"answer": "proposed by 2/3 of each chamber of Congress."
+		},
+		{
+			"number": 6,
+			"question": "Which of the following statements is NOT true about this graph?",
+			"graphic": "Social_Quiz_3_4",
+			"answers": [
+				"The equilibrium price is less than 3.",
+				"The quantity demanded will increase with lower prices.",
+				"A surplus will occur if 20 units are supplied at a price of 4.50.",
+				"The quantity supplied will increase with lower prices."
+			],
+			"answer": "The quantity supplied will increase with lower prices."
+		},
+		{
+			"number": 7,
+			"question": "Which of the following best describes the philosophy of the Libertarian political party?",
+			"graphic": "noone",
+			"answers": [
+				"Ecological wisdom, social justice, grassroots democracy, and peace.",
+				"Fiscal conservatism and social liberalism.",
+				"Principles found in the U.S. Declaration of Independence, and social policies taken from the Bible.",
+				"Economic liberalism, fiscal conservatism, and social conservatism."
+			],
+			"answer": "Fiscal conservatism and social liberalism."
+		},
+		{
+			"number": 8,
+			"question": "Which of these conclusions is supported by this graph?",
+			"graphic": "Social_Quiz_3_5",
+			"answers": [
+				"The statutory debt limit helps reduce debt.",
+				"Total debt will exceed $18 Trillion in a few years.",
+				"Total debt has increased during the terms of the last 5 presidents.",
+				"Current levels of debt are not sustainable."
+			],
+			"answer": "Total debt has increased during the terms of the last 5 presidents."
+		},
+		{
+			"number": 9,
+			"question": "Based on this excerpt, the Supreme Court found all of the following faults with segregation in schools EXCEPT:",
+			"graphic": "Social_Quiz_3_6",
+			"answers": [
+				"Slows mental development.",
+				"Reduces motivation to learn.",
+				"Denotes inferiority.",
+				"Provides fewer resources to minority schools."
+			],
+			"answer": "Provides fewer resources to minority schools."
+		},
+		{
+			"number": 10,
+			"question": "Based on this excerpt, what you can you infer about Susan B. Anthony?",
+			"graphic": "Social_Quiz_3_7",
+			"answers": [
+				"She worked closely with Elizabeth Cady Stanton.",
+				"She was not found guilty of any crime.",
+				"She was a Constitutional lawyer.",
+				"She was arrested for voting because of her gender."
+			],
+			"answer": "She was arrested for voting because of her gender."
+		}
+	]
+}

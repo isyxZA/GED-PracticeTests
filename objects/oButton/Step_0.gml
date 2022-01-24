@@ -282,6 +282,38 @@ if global.canClick {
 						}
 					}
                     break
+				case "Reading 3":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Reading 3"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Reading 4":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Reading 4"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
 				case "Critical Reading 1":
                     global.canClick = false
 					with oControl {
@@ -314,6 +346,38 @@ if global.canClick {
 						}
 					}
                     break
+				case "Critical Reading 3":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Critical Reading 3"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Critical Reading 4":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Critical Reading 4"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
 				case "Grammar 1":
                     global.canClick = false
 					with oControl {
@@ -335,6 +399,38 @@ if global.canClick {
 					with oControl {
 						clear_test()
 						currentTest = "Grammar 2"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Grammar 3":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Grammar 3"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Grammar 4":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Grammar 4"
 						currentQuestionIndex = 0
 						currentQuestionText = ""
 						currentQuestionGraphic = noone

@@ -1,0 +1,88 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Which sentence from the passage supports the idea that the modern creation and use of floor cloths to protect floors is a revival of an old custom?",
+			"graphic": "Critical_3_1",
+			"answers": [
+				"A floor cloth that is painted on canvas will last years with little visible wear.",
+				"As it was in the early years of the floor cloth's use, the ultimate goal for today's \nfloor cloth is to provide an attractive rug that protects the floor.",
+				"Floor cloths were used in the 18th century to protect wood floors from moisture \nin areas near an outside door, around the tub, or under the family table.",
+				"Linoleum floors eventually replaced floor cloths in prevalence, but many people \nmake floor cloths for their homes today or commission artists to create personalized floor cloths for them."
+			],
+			"answer": "As it was in the early years of the floor cloth's use, the ultimate goal for today's \nfloor cloth is to provide an attractive rug that protects the floor."
+		},
+		{
+			"number": 2,
+			"question": "Which definition best matches the use of the word support in paragraph 3?",
+			"graphic": "Critical_3_1",
+			"answers": [
+				"painting surface",
+				"show of approval",
+				"financial assistance",
+				"weight-bearing foundation"
+			],
+			"answer": "painting surface"
+		},
+		{
+			"number": 3,
+			"question": "How does the author's use of the words 'most artists' in paragraph 4 function in the story?",
+			"graphic": "Critical_3_1",
+			"answers": [
+				"It provides a criticism for a select group of artists.",
+				"It reveals the author's point of view that two coats are better than one coat.",
+				"It points out that it is not standard for artists to use paint sealant on their floor cloths.",
+				"It indicates there is some sort of general standard procedure for applying sealant and paint."
+			],
+			"answer": "It indicates there is some sort of general standard procedure for applying sealant and paint."
+		},
+		{
+			"number": 4,
+			"question": "Which fact can the reader infer about making a floor cloth?",
+			"graphic": "Critical_3_1",
+			"answers": [
+				"Making a floor cloth is too hard for most people to attempt.",
+				"Proper drying time is important to the administration of paints and sealants.",
+				"Sealing with polyurethane or varnish does not make a difference in the final pliability of the finished floor cloth.",
+				"In keeping with tradition, artists must paint scenes such as landscapes, animals, or floral arrangements on the \nfloor cloths they make."
+			],
+			"answer": "Proper drying time is important to the administration of paints and sealants."
+		},
+		{
+			"number": 5,
+			"question": "Based on the article, what is NOT a step in preparing a floor cloth?",
+			"graphic": "Critical_3_1",
+			"answers": [
+				"Painting a support base",
+				"Adding water-based or oil-based sealant",
+				"Drawing a background",
+				"Replacing linoleum floors"
+			],
+			"answer": "Replacing linoleum floors"
+		},
+		{
+			"number": 6,
+			"question": "Read the following sentence from the passage.\n\n'Complete drying is essential before adding the sealant so that the paint doesnt smear.'\n\nReplacing the word 'essential' with the word 'beneficial' changes the meaning of the sentence to suggest that",
+			"graphic": "Critical_3_1",
+			"answers": [
+				"it is imperative that paint be dry prior to sealant being added",
+				"the order in which paint and sealant is added is not important",
+				"it's possible that sealant can be successfully added before drying is finished",
+				"sealant might not be necessary at all"
+			],
+			"answer": "it's possible that sealant can be successfully added before drying is finished"
+		},
+		{
+			"number": 7,
+			"question": "How does paragraph 5 relate to paragraph 4?",
+			"graphic": "Critical_3_1",
+			"answers": [
+				"It continues to outline the steps in a procedure.",
+				"It contradicts the information that preceded it.",
+				"It switches to a new topic.",
+				"It elaborates on details mentioned in the previous paragraph."
+			],
+			"answer": "It continues to outline the steps in a procedure."
+		}
+	]
+}

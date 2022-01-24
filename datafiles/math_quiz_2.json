@@ -1,0 +1,89 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "In Kingsport School, 46% of students are female. If the total number of students is 1250, then how many male students are attending this high school?",
+			"graphic": "noone",
+			"answers": ["698", "692", "687", "675"],
+			"answer": "675"
+		},
+		{
+			"number": 2,
+			"question": "Erin's incomes and expenditures for the first five months of the year 2012 are given in the table above. \n\nIn which two months were her savings the highest?",
+			"graphic": "Math_Quiz_2_1",
+			"answers": [
+				"January and February",
+				"February and March",
+				"March and May",
+				"January and March"
+			],
+			"answer": "March and May"
+		},
+		{
+			"number": 3,
+			"question": "The following data set is given: 122, 130,  145,  154,  165,  178 \n\nAdding which number to the set will increase its mean?",
+			"graphic": "noone",
+			"answers": ["140", "148", "149", "150"],
+			"answer": "150"
+		},
+		{
+			"number": 4,
+			"question": "Each side of the figure above is 12 in. long. What is the area of this shape?",
+			"graphic": "Math_Quiz_2_2",
+			"answers": [
+				"5 feet squared",
+				"6 feet squared",
+				"12 feet squared",
+				"36 feet squared"
+			],
+			"answer": "5 feet squared"
+		},
+		{
+			"number": 5,
+			"question": "Select your answer.",
+			"graphic": "Math_Quiz_2_3",
+			"answers": ["A", "B", "C", "D"],
+			"answer": "C"
+		},
+		{
+			"number": 6,
+			"question": "A toy manufacturer makes 15,000 toys a year. The company randomly selects 300 of the toys to sample for inspection. The company discovers that there are 5 faulty toys in the sample. Based on the sample, how many of the 15,000 total toys are likely to be faulty?",
+			"graphic": "noone",
+			"answers": ["25", "250", "300", "600"],
+			"answer": "250"
+		},
+		{
+			"number": 7,
+			"question": "Lisa earns $8.10 an hour and worked 40 hours. Jamie earns $10.80 an hour. How many hours would Jamie need to work to equal Lisa's earnings over 40 hours?",
+			"graphic": "noone",
+			"answers": ["15", "25", "27", "30"],
+			"answer": "30"
+		},
+		{
+			"number": 8,
+			"question": "If the sides of this cube are 4 inches long, what is the cube's volume?",
+			"graphic": "Math_Quiz_2_4",
+			"answers": [
+				"64 inches cubed",
+				"48 inches cubed",
+				"32 inches cubed",
+				"24 inches cubed"
+			],
+			"answer": "64 inches cubed"
+		},
+		{
+			"number": 9,
+			"question": "Jenny is taking a vacation to Florida. She travels 70 kilometers per hour for 2 hours, and 63 kilometers per hour for 5 hours. Over the 7 hour time period what was Jenny's average speed?",
+			"graphic": "noone",
+			"answers": ["64 km/h", "65 km/h", "66 km/h", "67km/h"],
+			"answer": "65 km/h"
+		},
+		{
+			"number": 10,
+			"question": "Melody needs to calculate her monthly water bill. Her family used 18,900 gallons at a rate of $1.12 per hundred gallons. There is also a monthly account fee of $5.90 per household. What is her total bill?",
+			"graphic": "noone",
+			"answers": ["$205.90", "$205.78", "$211.68", "$217.58"],
+			"answer": "$217.58"
+		}
+	]
+}

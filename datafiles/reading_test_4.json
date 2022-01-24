@@ -1,0 +1,100 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "What is the purpose of including the phrase, 'which allow residents to vote in elections even if they are going to be out of town on election day' in the first paragraph of Johannsen's article?",
+			"graphic": "Reading_4_1",
+			"answers": [
+				"It's important for the readers to know what absentee ballots are in order to understand the article.",
+				"The county clerk has explained absentee ballots incorrectly and the writer wants to provide the correct information.",
+				"According to the article, most residents of Portage County don't know what absentee ballots are.",
+				"The writer is sarcastically suggesting that Portage County shouldn't allow absentee ballots."
+			],
+			"answer": "It's important for the readers to know what absentee ballots are in order to understand the article."
+		},
+		{
+			"number": 2,
+			"question": "What is the purpose of including information about the legal penalties associated with voter fraud in the news article?",
+			"graphic": "Reading_4_1",
+			"answers": [
+				"To show residents that the penalty for voter fraud is not very severe, so Gustavson's, warning isn't really worth listening to.",
+				"To let residents know that Gustavson is telling truth about legal consequences.",
+				"To point out to residents that voter fraud is not a real problem in Portage County.",
+				"So that residents who want to commit voter fraud know how they will be punished."
+			],
+			"answer": "To let residents know that Gustavson is telling truth about legal consequences."
+		},
+		{
+			"number": 3,
+			"question": "What implication is Johannsen making in the opening sentence of his 4th paragraph?",
+			"graphic": "Reading_4_1",
+			"answers": [
+				"Voter fraud is a big problem in Portage County.",
+				"People who fill out absentee ballots are voting illegally.",
+				"The county clerk has been motivated by Republican leadership, who assert that voter fraud is a big problem.",
+				"The county clerk is not doing her job properly and needs to be investigated."
+			],
+			"answer": "The county clerk has been motivated by Republican leadership, who assert that voter fraud is a big problem."
+		},
+		{
+			"number": 4,
+			"question": "Which detail in the letter from Ines Mendina supports the idea that the county clerk's warnings are 'thoughtless'?",
+			"graphic": "Reading_4_1",
+			"answers": [
+				"...could motivate voters to call for a ban on all absentee votes.",
+				"I was very upset to read your press release about potential voter fraud...",
+				"Republicans in Congress and the Oval Office are screaming about voter fraud...",
+				"I find it hard to believe that you're intentionally providing misinformation..."
+			],
+			"answer": "...could motivate voters to call for a ban on all absentee votes."
+		},
+		{
+			"number": 5,
+			"question": "Which of the following words or phrases helps to express Medina's disappointment with 'Republican Leaders'?",
+			"graphic": "Reading_4_1",
+			"answers": [
+				"'carelessness'",
+				"'thoughtless'",
+				"'screaming'",
+				"'fuel to the fire'"
+			],
+			"answer": "'screaming'"
+		},
+		{
+			"number": 6,
+			"question": "What purpose does the following sentence serve in the letter: 'I find it hard to believe that you're intentionally providing misinformation to our residents in order to sow distrust in the voting process, but whether it was intentional or not, that's what you have done'?",
+			"graphic": "Reading_4_1",
+			"answers": [
+				"To directly accuse the county clerk of lying to residents of Portage County.",
+				"It supports the writer's assertion that the county clerk didn't do anything wrong.",
+				"It serves as an accusation that the county clerk is working to support Republican leadership.",
+				"It is meant to make the county clerk feel guilty for how her press release has potentially affected residents of Portage County."
+			],
+			"answer": "It is meant to make the county clerk feel guilty for how her press release has potentially affected residents of Portage County."
+		},
+		{
+			"number": 7,
+			"question": "Based on the news article and the letter, Johannsen and Mendina share which perspective?",
+			"graphic": "Reading_4_1",
+			"answers": [
+				"Samantha Gustavson, the County Clerk, is misleading Portage County residents.",
+				"Voter fraud is a big problem in Portage County.",
+				"Republican leadership instructed Gustavson, either directly or indirectly, to make \na press release about fraudulent absentee ballots.",
+				"Voter fraud is not a problem in Portage County."
+			],
+			"answer": "Voter fraud is not a problem in Portage County."
+		},
+		{
+			"number": 8,
+			"question": "How do the views expressed in Johannsen and Mendina's passages differ?",
+			"graphic": "Reading_4_1",
+			"answers": [
+				"Mendina's passage is an unbiased, while Johannsen's passage is very opinionated.",
+				"Johannsen believes Gustavson is willfully lying to Portage County, while Mendina \nthinks that Gustavson just doesn't understand the consequences of her actions.",
+				"Johannsen's passage is an unbiased, while Mendina's passage is very opinionated.",
+				"Mendina believes Gustavson is willfully lying to Portage County, while Johannsen \nthinks that Gustavson just doesn't understand the consequences of her actions."
+			],
+			"answer": "Johannsen's passage is an unbiased, while Mendina's passage is very opinionated."
+		}
+	]
+}

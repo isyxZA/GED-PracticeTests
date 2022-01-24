@@ -1,0 +1,119 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "The monetary value of all the finished goods and services that are produced within a country's borders in a specific time period is the:",
+			"graphic": "noone",
+			"answers": [
+				"Money Supply",
+				"Gross Domestic Product",
+				"Balance of Trade",
+				"Aggregate Demand"
+			],
+			"answer": "Gross Domestic Product"
+		},
+		{
+			"number": 2,
+			"question": "Based on this primary source excerpt, what can we conclude about Reagan's views on self-rule?",
+			"graphic": "Social_Quiz_4_1",
+			"answers": [
+				"Government by an elite group is superior to self-rule.",
+				"Self-rule can be challenging, but it is the best type of government.",
+				"Society is too complex to be managed by self-rule.",
+				"Most people are not capable of governing themselves, so there's no way they could help govern a country."
+			],
+			"answer": "Self-rule can be challenging, but it is the best type of government."
+		},
+		{
+			"number": 3,
+			"question": "Who is Reagan referring to when he mentions a 'special interest group that has been too long neglected.'?",
+			"graphic": "Social_Quiz_4_1",
+			"answers": [
+				"Truck drivers",
+				"Political parties",
+				"Lobbyists",
+				"The American people"
+			],
+			"answer": "The American people"
+		},
+		{
+			"number": 4,
+			"question": "According to this map, the majority of Australia exhibits what climate type?",
+			"graphic": "Social_Quiz_4_2",
+			"answers": [
+				"equatorial and temperate",
+				"tropical and grassland",
+				"desert and temperate",
+				"grassland and desert"
+			],
+			"answer": "grassland and desert"
+		},
+		{
+			"number": 5,
+			"question": "What is the main idea presented in the excerpt?",
+			"graphic": "Social_Quiz_4_3",
+			"answers": [
+				"The U.S. will declare war on any nation that has weapons of mass destruction.",
+				"The United States will act preemptively with force against all emerging threats.",
+				"When faced with serious security threats the U.S. may decide to take preemptive military action.",
+				"Once the U.S. Government has identified details and timing of a planned attack, it will attempt to strike first."
+			],
+			"answer": "When faced with serious security threats the U.S. may decide to take preemptive military action."
+		},
+		{
+			"number": 6,
+			"question": "This Amendment provides all of these rights EXCEPT:",
+			"graphic": "Social_Quiz_4_4",
+			"answers": [
+				"The right against self incrimination.",
+				"The right of due process.",
+				"The right against unreasonable search and seizure.",
+				"The right to be tried only once."
+			],
+			"answer": "The right against unreasonable search and seizure."
+		},
+		{
+			"number": 7,
+			"question": "The following statement is from George Mason, a delegate to the U.S. Constitutional Convention of 1787: \n\n'Whatever power may be necessary for the National Government a certain portion must necessarily be left in the States. It is impossible for one power to pervade the extreme parts of the U.S. so as to carry equal justice to them.' \n\nBased upon his statement, George Mason's political views would best be described as",
+			"graphic": "noone",
+			"answers": ["Federalist", "Socialist", "Anti-Federalist", "Loyalist"],
+			"answer": "Anti-Federalist"
+		},
+		{
+			"number": 8,
+			"question": "What assumption behind the David Bossie excerpt is not an assumption behind the Los Angeles Times excerpt?",
+			"graphic": "Social_Quiz_4_5",
+			"answers": [
+				"There is a need for changing the rules regarding money in American political campaigns.",
+				"Money is a corrupting force in American politics.",
+				"The Supreme Court's Citizen's United ruling has had no impact on American elections.",
+				"Spending money to influence an election is a form of free speech."
+			],
+			"answer": "Spending money to influence an election is a form of free speech."
+		},
+		{
+			"number": 9,
+			"question": "State governments have the power to perform which of the following?",
+			"graphic": "noone",
+			"answers": [
+				"Conduct elections.",
+				"Regulate trade between states.",
+				"Establish post offices.",
+				"Make treaties."
+			],
+			"answer": "Conduct elections."
+		},
+		{
+			"number": 10,
+			"question": "Which one of the following statements from the excerpt expresses a bias on the part of the authors?",
+			"graphic": "Social_Quiz_4_6",
+			"answers": [
+				"'Early in his administration, the president took steps to ease restrictions on Cuban-American visits and remittances that opened new pathways \nfor family reunification—and later expanded this to include religious, academic and cultural exchanges for all Americans.'",
+				"'Last week's decision builds boldly on those initial measures and will increase communications, commerce and travel between our two countries.'",
+				"'The State Department will lead discussions to restore regular diplomatic relations with Cuba for the first time since 1961 and re-establish an \nembassy in Havana.'",
+				"'In our bilateral discussions, the United States will seek to advance cooperation on issues of mutual interest, including counter-narcotics, \nmigration, combating trafficking-in-persons, the Ebola crisis and shared environmental challenges.'"
+			],
+			"answer": "'Last week's decision builds boldly on those initial measures and will increase communications, commerce and travel between our two countries.'"
+		}
+	]
+}

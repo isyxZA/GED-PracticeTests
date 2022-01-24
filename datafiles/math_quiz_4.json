@@ -1,0 +1,102 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Solve without using a calculator. \n\nTwo points are plotted on a number line: -11.2 and 3.3. What is the distance between these two points?",
+			"graphic": "noone",
+			"answers": ["7.9", "-7.9", "14.5", "-14.5"],
+			"answer": "14.5"
+		},
+		{
+			"number": 2,
+			"question": "Solve without using a calculator. \n\n15.05 divided by 5 equals",
+			"graphic": "noone",
+			"answers": ["3.1", "0.301", "3.01", "0.501"],
+			"answer": "3.01"
+		},
+		{
+			"number": 3,
+			"question": "Solve without using a calculator. \n\nSelect your answer.",
+			"graphic": "Math_Quiz_4_1",
+			"answers": ["A", "B", "C", "D"],
+			"answer": "D"
+		},
+		{
+			"number": 4,
+			"question": "Solve without using a calculator. \n\nFind the greatest common factor of 33 and 44.",
+			"graphic": "noone",
+			"answers": ["1", "11", "22", "33"],
+			"answer": "11"
+		},
+		{
+			"number": 5,
+			"question": "Solve without using a calculator. \n\n77 * 1.7 =",
+			"graphic": "noone",
+			"answers": ["177", "61.6", "139", "130.9"],
+			"answer": "130.9"
+		},
+		{
+			"number": 6,
+			"question": "Solve without using a calculator. \n\nWhat is the distance between the two points shown on the number line?",
+			"graphic": "Math_Quiz_4_2",
+			"answers": ["5.5", "6.5", "-5.5", "6"],
+			"answer": "6.5"
+		},
+		{
+			"number": 7,
+			"question": "Solve without using a calculator. \n\nSelect your answer.",
+			"graphic": "Math_Quiz_4_3",
+			"answers": ["Undefined", "-2", "2", "4"],
+			"answer": "-2"
+		},
+		{
+			"number": 8,
+			"question": "Solve without using a calculator. \n\nFind the value for x that makes this fraction undefined.",
+			"graphic": "Math_Quiz_4_4",
+			"answers": ["5", "0", "-12", "-5"],
+			"answer": "-5"
+		},
+		{
+			"number": 9,
+			"question": "Solve without using a calculator. \n\n13.02 divided by 2.1 equals",
+			"graphic": "noone",
+			"answers": ["6.2", "0.16", "0.62", "5.7"],
+			"answer": "6.2"
+		},
+		{
+			"number": 10,
+			"question": "Solve without using a calculator. \n\nFind the greatest common factor of 16, 27, and 20.",
+			"graphic": "noone",
+			"answers": ["1", "4", "8", "9"],
+			"answer": "1"
+		},
+		{
+			"number": 11,
+			"question": "Solve without using a calculator. \n\nWhat is the value of this numerical expression?",
+			"graphic": "Math_Quiz_4_5",
+			"answers": ["7", "14", "10", "100"],
+			"answer": "10"
+		},
+		{
+			"number": 12,
+			"question": "Solve without using a calculator. \n\nWhich expression correctly represents the distance between the two points marked on this number line?",
+			"graphic": "Math_Quiz_4_6",
+			"answers": ["-1 - 5", "|-1 - 5|", "-1 + 5", "|-1 + 5|"],
+			"answer": "|-1 - 5|"
+		},
+		{
+			"number": 13,
+			"question": "Solve without using a calculator. \n\n8.32 * 3.2 =",
+			"graphic": "noone",
+			"answers": ["26.624", "266.24", "41.6", "0.416"],
+			"answer": "26.624"
+		},
+		{
+			"number": 14,
+			"question": "Solve without using a calculator. \n\n",
+			"graphic": "Math_Quiz_4_7",
+			"answers": ["A", "B", "C", "D"],
+			"answer": "C"
+		}
+	]
+}

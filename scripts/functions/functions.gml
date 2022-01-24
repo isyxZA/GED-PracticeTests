@@ -160,6 +160,22 @@ function load_test(_testID){
 				questionData = json_parse(_string)
 			}
 			break
+		case "Reading 3":
+			if file_exists("reading_test_3.json") {
+				var _buffer = buffer_load("reading_test_3.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Reading 4":
+			if file_exists("reading_test_4.json") {
+				var _buffer = buffer_load("reading_test_4.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
 		case "Grammar 1":
 			if file_exists("grammar_test_1.json") {
 				var _buffer = buffer_load("grammar_test_1.json")
@@ -176,6 +192,22 @@ function load_test(_testID){
 				questionData = json_parse(_string)
 			}
 			break
+		case "Grammar 3":
+			if file_exists("grammar_test_3.json") {
+				var _buffer = buffer_load("grammar_test_3.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Grammar 4":
+			if file_exists("grammar_test_4.json") {
+				var _buffer = buffer_load("grammar_test_4.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
 		case "Critical Reading 1":
 			if file_exists("criticalreading_test_1.json") {
 				var _buffer = buffer_load("criticalreading_test_1.json")
@@ -187,6 +219,22 @@ function load_test(_testID){
 		case "Critical Reading 2":
 			if file_exists("criticalreading_test_2.json") {
 				var _buffer = buffer_load("criticalreading_test_2.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Critical Reading 3":
+			if file_exists("criticalreading_test_3.json") {
+				var _buffer = buffer_load("criticalreading_test_3.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Critical Reading 4":
+			if file_exists("criticalreading_test_4.json") {
+				var _buffer = buffer_load("criticalreading_test_4.json")
 				var _string = buffer_read(_buffer, buffer_string)
 				buffer_delete(_buffer)
 				questionData = json_parse(_string)
@@ -485,12 +533,18 @@ function load_ui(_layout) {
 			with oButtonRadio { instance_destroy() }
 			with oButtonUI { instance_destroy() }
 			// Spawn new buttons
-			spawn_button_menu(default_width * 0.2, default_height * 0.45, sButton, 1.5, 1, "Reading 1")
-			spawn_button_menu(default_width * 0.2, default_height * 0.55, sButton, 1.5, 1, "Reading 2")
-			spawn_button_menu(default_width * 0.5, default_height * 0.45, sButton, 1.5, 1, "Grammar 1")
-			spawn_button_menu(default_width * 0.5, default_height * 0.55, sButton, 1.5, 1, "Grammar 2")
-			spawn_button_menu(default_width * 0.8, default_height * 0.45, sButton, 1.5, 1, "Critical Reading 1")
-			spawn_button_menu(default_width * 0.8, default_height * 0.55, sButton, 1.5, 1, "Critical Reading 2")
+			spawn_button_menu(default_width * 0.2, default_height * 0.35, sButton, 1.5, 1, "Reading 1")
+			spawn_button_menu(default_width * 0.2, default_height * 0.45, sButton, 1.5, 1, "Reading 2")
+			spawn_button_menu(default_width * 0.2, default_height * 0.55, sButton, 1.5, 1, "Reading 3")
+			spawn_button_menu(default_width * 0.2, default_height * 0.65, sButton, 1.5, 1, "Reading 4")
+			spawn_button_menu(default_width * 0.5, default_height * 0.35, sButton, 1.5, 1, "Grammar 1")
+			spawn_button_menu(default_width * 0.5, default_height * 0.45, sButton, 1.5, 1, "Grammar 2")
+			spawn_button_menu(default_width * 0.5, default_height * 0.55, sButton, 1.5, 1, "Grammar 3")
+			spawn_button_menu(default_width * 0.5, default_height * 0.65, sButton, 1.5, 1, "Grammar 4")
+			spawn_button_menu(default_width * 0.8, default_height * 0.35, sButton, 1.5, 1, "Critical Reading 1")
+			spawn_button_menu(default_width * 0.8, default_height * 0.45, sButton, 1.5, 1, "Critical Reading 2")
+			spawn_button_menu(default_width * 0.8, default_height * 0.55, sButton, 1.5, 1, "Critical Reading 3")
+			spawn_button_menu(default_width * 0.8, default_height * 0.65, sButton, 1.5, 1, "Critical Reading 4")
 			// Turn on can click
 			oControl.alarm[0] = room_speed * 0.5
 			break
@@ -732,14 +786,27 @@ function find_graphic(_indentifier) {
 			return sSocial_2_4
 		case "Social_2_5":
 			return sSocial_2_5
+		// ENGLISH - READING
 		case "Reading_1_1":
 			return sReading_1_1
+		case "Reading_2_1":
+			return sReading_2_1
+		case "Reading_3_1":
+			return sReading_3_1
+		case "Reading_4_1":
+			return sReading_4_1
+		// ENGLISH - CRITICAL READING
 		case "Critical_1_1":
 			return sCritical_1_1
 		case "Critical_1_2":
 			return sCritical_1_2
 		case "Critical_2_1":
 			return sCritical_2_1
+		case "Critical_3_1":
+			return sCritical_3_1
+		case "Critical_4_1":
+			return sCritical_4_1
+		// MATH - EQUATIONS
 		case "Equations_1_1":
 			return sEquations_1_1
 		case "Equations_1_2":

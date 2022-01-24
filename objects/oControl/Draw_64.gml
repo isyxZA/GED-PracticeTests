@@ -4,6 +4,8 @@ switch uiState {
 		draw_set_font(fntTitles)
 		draw_set_halign(fa_center)
 		draw_set_valign(fa_top)
+		draw_set_color(c_lightning_yellow)
+		draw_line_width(0, default_height * 0.15, default_width, default_height * 0.15, 4)
 		draw_set_color(c_cobalt)
 		draw_rectangle(0, 0, default_width, default_height * 0.15, false)
 		draw_set_color(c_white)

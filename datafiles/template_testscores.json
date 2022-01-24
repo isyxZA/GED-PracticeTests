@@ -71,6 +71,16 @@
 			"scores": [0, 0, 0]
 		},
 		{
+			"test": "Reading 3",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Reading 4",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
 			"test": "Grammar 1",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
@@ -81,12 +91,32 @@
 			"scores": [0, 0, 0]
 		},
 		{
+			"test": "Grammar 3",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Grammar 4",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
 			"test": "Critical Reading 1",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
 		},
 		{
 			"test": "Critical Reading 2",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Critical Reading 3",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Critical Reading 4",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
 		}

@@ -1,0 +1,71 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Which of the following words best describes the narrator's feelings about the 'ignorance' of Sherlock Holmes?",
+			"graphic": "Reading_3_1",
+			"answers": ["Amusement", "Shock", "Fright", "Disdain"],
+			"answer": "Shock"
+		},
+		{
+			"number": 2,
+			"question": "Why does Holmes want to forget the Copernican Theory?",
+			"graphic": "Reading_3_1",
+			"answers": [
+				"He doesn't believe that it's true",
+				"His brain is too jumbled to remember it",
+				"He thinks it is relevant to his work",
+				"It will take up space in his brain, but won't help him with his work"
+			],
+			"answer": "It will take up space in his brain, but won't help him with his work"
+		},
+		{
+			"number": 3,
+			"question": "What is Holmes referring to when he mentions 'lumber of every sort?'",
+			"graphic": "Reading_3_1",
+			"answers": [
+				"Furniture",
+				"Useless information",
+				"A large assortment of tools",
+				"All types of knowledge"
+			],
+			"answer": "All types of knowledge"
+		},
+		{
+			"number": 4,
+			"question": "How did the narrator find out that Holmes was unaware of the Copernican Theory?",
+			"graphic": "Reading_3_1",
+			"answers": [
+				"By chance",
+				"He was questioning him to test his knowledge of science",
+				"It was mentioned by Thomas Carlyle",
+				"It came up in debate"
+			],
+			"answer": "By chance"
+		},
+		{
+			"number": 5,
+			"question": "What can the reader infer from this sentence in paragraph 6? \n\n'What the deuce is it to me?' he interrupted impatiently: 'you say that we go round the sun. If we went round the moon it would not make a pennyworth of difference to me or to my work.'",
+			"graphic": "Reading_3_1",
+			"answers": [
+				"Holmes is angry that the narrator keeps interrupting him.",
+				"Holmes is not as smart as he believes he is.",
+				"Holmes does not believe that the Earth revolves around the sun.",
+				"Holmes only keeps knowledge that he deems valuable."
+			],
+			"answer": "Holmes only keeps knowledge that he deems valuable."
+		},
+		{
+			"number": 6,
+			"question": "What is the overall purpose of this passage?",
+			"graphic": "Reading_3_1",
+			"answers": [
+				"To contrast the intelligent narrator and the foolish Holmes",
+				"To show that Holmes is an unusual man who is focused on his work",
+				"To show that Holmes is naive",
+				"To demonstrate the importance of a well-rounded education"
+			],
+			"answer": "To show that Holmes is an unusual man who is focused on his work"
+		}
+	]
+}

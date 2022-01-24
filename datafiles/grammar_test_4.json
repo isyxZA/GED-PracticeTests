@@ -1,0 +1,47 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Select the option that correctly completes the sentence. \n\nAs summertime approaches and residents are more likely to have visitors, our parking and pool usage rules bear repeating. Please remember that _________.",
+			"graphic": "noone",
+			"answers": [
+				"there are designated visitor parking in front of each apartment building in the complex.",
+				"there is designated visitor parking in front of each apartment building in the complex.",
+				"their is designated visitor parking in front of each apartment building in the complex.",
+				"their are designated visitor parking in front of each apartment building in the complex."
+			],
+			"answer": "there is designated visitor parking in front of each apartment building in the complex."
+		},
+		{
+			"number": 2,
+			"question": "Select the option that correctly completes the sentence. \n\nThere is an overflow parking _________ available visitor parking spots within the complex.",
+			"graphic": "noone",
+			"answers": [
+				"lot, which is located across the street, if there are no",
+				"lot, that is located across the street, if there are no",
+				"lot that is located across the street; if there are no",
+				"lot; which is located across the street if there are no"
+			],
+			"answer": "lot, which is located across the street, if there are no"
+		},
+		{
+			"number": 3,
+			"question": "Select the option that correctly completes the sentence. \n\nWe plan to officially open the pool for summer this weekend! Please remember that residents are allowed _________ have more than 2 guests in the pool area at a time. ",
+			"graphic": "noone",
+			"answers": [
+				"to bring guests to the pool, or residents may not",
+				"to bring guests to the pool and residents may not",
+				"to bring guests to the pool, but residents may not",
+				"to bring guests to the pool, while residents may not"
+			],
+			"answer": "to bring guests to the pool, but residents may not"
+		},
+		{
+			"number": 4,
+			"question": "Select the option that correctly completes the sentence. \n\nOnce you pick up a wristband, don't lose _________ because the wristbands cost $50 to replace.",
+			"graphic": "noone",
+			"answers": ["this", "one", "them", "it"],
+			"answer": "it"
+		}
+	]
+}

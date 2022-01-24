@@ -1,0 +1,52 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Complete the following passage. \n\nDear Mr. Rogers: I visited your store to determine a price range for installing a new wood-burning stove in my home. I openly disclosed that my budget for the project was around $4,000, with $5,000 being the absolute limit of my funds. I was told that this would be enough. However, your subsequent proposal with amounts totaling over $6,800 ________",
+			"graphic": "noone",
+			"answers": [
+				"were disappointing in light of my budget limitations.",
+				"was disappointing in light of my budget limitations.",
+				"be disappointing in light of my budget limitations.",
+				"been disappointing in light of my budget limitations."
+			],
+			"answer": "was disappointing in light of my budget limitations."
+		},
+		{
+			"number": 2,
+			"question": "Select the option that correctly completes the sentence. \n\nI asked that my deposit check be returned as I could not afford the project. I then received a bill from you for $129 for consultation. While I understand that your time is valuable, none of your literature indicates a charge for the initial discussion of a potential project. Quite truthfully, I would not have scheduled the appointment ________",
+			"graphic": "noone",
+			"answers": [
+				"had I known there was a charge.",
+				"should I known there was a charge.",
+				"if I had knowed there was a charge.",
+				"if I had of known there was a charge."
+			],
+			"answer": "had I known there was a charge."
+		},
+		{
+			"number": 3,
+			"question": "Select the option that correctly completes the sentence. \n\nI called to discuss the invoice and explained over the telephone that I felt I was ________ to compromise by paying one-half the bill. ",
+			"graphic": "noone",
+			"answers": [
+				"misled, at that time, I offered",
+				"misled at that time, I offered",
+				"misled. At that time, I offered",
+				"misled at that time I offered"
+			],
+			"answer": "misled. At that time, I offered"
+		},
+		{
+			"number": 4,
+			"question": "Select the option that correctly completes the sentence. \n\nThe store representative told me that someone would call me back regarding the invoice and ________. Since no one has called me to express non-acceptance of my offer, I am enclosing a check for $64.50.",
+			"graphic": "noone",
+			"answers": [
+				"its payment",
+				"her payment",
+				"it's payment",
+				"their payment"
+			],
+			"answer": "its payment"
+		}
+	]
+}

@@ -26,6 +26,8 @@ switch uiState {
 		}
 		
 		draw_set_valign(fa_top)
+		draw_set_color(c_lightning_yellow)
+		draw_line_width(0, default_height * 0.15 + cameraY, default_width, default_height * 0.15 + cameraY, 4)
 		draw_set_color(c_cobalt)
 		draw_rectangle(0, cameraY, default_width, cameraY + (default_height * 0.15), false)
 		break

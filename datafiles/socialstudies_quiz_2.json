@@ -1,0 +1,119 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Under the US Constitution, which body has the sole authority to declare war?",
+			"graphic": "noone",
+			"answers": [
+				"The President",
+				"The U.S. Congress",
+				"The Secretary of Defense",
+				"The chairman of the Joint Chiefs of Staff"
+			],
+			"answer": "The U.S. Congress"
+		},
+		{
+			"number": 2,
+			"question": "Given the above information, which of the following statements is the most logical conclusion?",
+			"graphic": "Social_Quiz_2_1",
+			"answers": [
+				"A higher unemployment rate leads to more tax revenue",
+				"A lower unemployment rate leads to more tax revenue",
+				"There is no relationship between unemployment and tax revenue",
+				"A higher unemployment rate leads to more tax fraud"
+			],
+			"answer": "A lower unemployment rate leads to more tax revenue"
+		},
+		{
+			"number": 3,
+			"question": "Which of the following questions about NASA's budget would be the most difficult to answer?",
+			"graphic": "noone",
+			"answers": [
+				"How does NASA spend its money?",
+				"Does the United States spend too much money on space exploration?",
+				"How much of an increase did NASA receive over last year's budget?",
+				"How much do we spend on astronaut training annually?"
+			],
+			"answer": "Does the United States spend too much money on space exploration?"
+		},
+		{
+			"number": 4,
+			"question": "What was the primary goal of the Confederacy in fighting the Civil War?",
+			"graphic": "Social_Quiz_2_2",
+			"answers": [
+				"To rejoin the United States",
+				"To take control of the federal government of the United States",
+				"To remain an independent country where slavery was permitted",
+				"To wipe out the Union and destroy the northern states"
+			],
+			"answer": "To remain an independent country where slavery was permitted"
+		},
+		{
+			"number": 5,
+			"question": "What is the most likely reason that the Confederate States of America won several major battles early in the Civil War?",
+			"graphic": "Social_Quiz_2_2",
+			"answers": [
+				"The Confederacy had a great supply line to fortify their troops with guns and ammunition.",
+				"The Confederacy had a much larger army.",
+				"The Confederacy had superior military generals who outmaneuvered the Union troops.",
+				"The Confederacy produced more food."
+			],
+			"answer": "The Confederacy had superior military generals who outmaneuvered the Union troops."
+		},
+		{
+			"number": 6,
+			"question": "What would be the best title for the chart?",
+			"graphic": "Social_Quiz_2_2",
+			"answers": [
+				"Comparing the advantages and disadvantages of the Union and Confederacy",
+				"Comparison of military supplies of the Union and Confederacy armies",
+				"Understanding why the Union won the Civil War",
+				"Understanding the advantages the Confederacy had over the Union"
+			],
+			"answer": "Comparing the advantages and disadvantages of the Union and Confederacy"
+		},
+		{
+			"number": 7,
+			"question": "Which of the following statements from this passage is an opinion and not a fact?",
+			"graphic": "Social_Quiz_2_3",
+			"answers": [
+				"'While each of Florida's 27 electoral delegates represents almost 480,000 eligible voters, each of the three delegates from Wyoming represents only 135,000 eligible voters.'",
+				"'That makes a voter casting a presidential ballot in Wyoming three and a half times more influential than a voter in Florida.'",
+				"'This system, along with the winner-take-all practice used to allocate most states' electoral votes, creates the potential for an absurd outcome.'",
+				"The presidency could be won with just 22 percent of the electorate's support, only 16 percent of the entire population's."
+			],
+			"answer": "This system, along with the winner-take-all practice used to allocate most states' electoral votes, creates the potential for an absurd outcome."
+		},
+		{
+			"number": 8,
+			"question": "Which of the following statements is a logical inference based upon evidence from the passage?",
+			"graphic": "Social_Quiz_2_4",
+			"answers": [
+				"President Wilson does not want the US to retaliate against the Germans.",
+				"President Wilson believes that the US should retaliate against the Germans regardless of what other countries decide.",
+				"President Wilson believes fear and anger should stir American support for war against Germany.",
+				"President Wilson wants to wait and see how other nations respond to the German attacks before declaring war."
+			],
+			"answer": "President Wilson believes that the US should retaliate against the Germans regardless of what other countries decide."
+		},
+		{
+			"number": 9,
+			"question": "The 'right to bear arms' is granted by which amendment of the United States Constitution?",
+			"graphic": "Social_Quiz_2_5",
+			"answers": [
+				"First Amendment",
+				"Second Amendment",
+				"Fifth Amendment",
+				"Second Amendment"
+			],
+			"answer": "Second Amendment"
+		},
+		{
+			"number": 10,
+			"question": "According to the chart, which of the following states does not require a mental health background check to purchase a firearm?",
+			"graphic": "Social_Quiz_2_5",
+			"answers": ["California", "Texas", "Florida", "Illinois"],
+			"answer": "California"
+		}
+	]
+}

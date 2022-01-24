@@ -1,0 +1,119 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Which fundamental principle of democracy do these excerpts from the US constitution reflect?",
+			"graphic": "Social_Quiz_1_1",
+			"answers": [
+				"Federalism",
+				"Limited Government",
+				"Separation of Powers",
+				"Judicial Review"
+			],
+			"answer": "Separation of Powers"
+		},
+		{
+			"number": 2,
+			"question": "Based on this data, which of the following statements is true?",
+			"graphic": "Social_Quiz_1_2",
+			"answers": [
+				"In 2010, Hispanics were the largest non-white population group.",
+				"In 2010, whites accounted for less than half of the US population.",
+				"In 2010, blacks were the smallest population group in the US.",
+				"In 2010, Asians were the largest non-white population group."
+			],
+			"answer": "In 2010, Hispanics were the largest non-white population group."
+		},
+		{
+			"number": 3,
+			"question": "In the excerpt from the Declaration of Independance, what does the term 'abolish' mean?",
+			"graphic": "Social_Quiz_1_3",
+			"answers": ["validate", "change", "eliminate", "ignore"],
+			"answer": "eliminate"
+		},
+		{
+			"number": 4,
+			"question": "Which statement about the popular vote in the 2016 presidential election is supported by the data in the table?",
+			"graphic": "Social_Quiz_1_4",
+			"answers": [
+				"Donald Trump received a majority of the popular vote.",
+				"Hilary Clinton received a majority of the popular vote.",
+				"No candidate received a majority of the popular vote.",
+				"Donald Trump would have received a majority of the popular vote if he had received all of Johnson's support."
+			],
+			"answer": "No candidate received a majority of the popular vote."
+		},
+		{
+			"number": 5,
+			"question": "Consider the following statements:\n\nWhen prices rise, supply increases. When prices fall, supply decreases. \nWhen prices increase, demand falls. \nWhen prices fall, demand increases.\n\nWhich of the following is true?",
+			"graphic": "noone",
+			"answers": [
+				"Farmers will produce additional beans when the price per ton goes down by $10.",
+				"Manufacturers will produce more tires when the price per tire goes up by $8.",
+				"Consumers will buy more apples when the price per dozen goes up by $1.50.",
+				"Consumers will buy less ice cream when the price per carton goes down by $1."
+			],
+			"answer": "Manufacturers will produce more tires when the price per tire goes up by $8."
+		},
+		{
+			"number": 6,
+			"question": "What conclusion is supported by the information in the timeline?",
+			"graphic": "Social_Quiz_1_5",
+			"answers": [
+				"The 22nd Amendment was a response to FDR's unprecedented four terms in office.",
+				"The attack on Pearl Harbor helped FDR win a third term in office.",
+				"FDR failed to fulfill a campaign promise to repeal Prohibition.",
+				"Voters elected FDR to a fourth term in order to show their appreciation for victory in WWII."
+			],
+			"answer": "The 22nd Amendment was a response to FDR's unprecedented four terms in office."
+		},
+		{
+			"number": 7,
+			"question": "Three of the following statements about the Korean War are based on facts and evidence. Which one is based on speculation or opinion?",
+			"graphic": "noone",
+			"answers": [
+				"More than 34,000 American soldiers died during the Korean War.",
+				"The Korean War was the first time jet fighters faced each other in combat.",
+				"The United States may have won the Korean War if General Douglas MacArthur had been permitted to use nuclear weapons against Communist forces.",
+				"The Korean War began in 1950 and ended with an armistice in 1953."
+			],
+			"answer": "The United States may have won the Korean War if General Douglas MacArthur had been permitted to use nuclear weapons against Communist forces."
+		},
+		{
+			"number": 8,
+			"question": "Which branch of government approves new judges to serve on the Supreme Court?",
+			"graphic": "Social_Quiz_1_6",
+			"answers": [
+				"The Judicial Branch",
+				"The Legislative Branch",
+				"The Executive Branch",
+				"The Voters"
+			],
+			"answer": "The Legislative Branch"
+		},
+		{
+			"number": 9,
+			"question": "The chart best illustrates which of the following principles?",
+			"graphic": "Social_Quiz_1_6",
+			"answers": [
+				"Federalism",
+				"Popular Sovereignty",
+				"Judicial Review",
+				"Checks and Balances"
+			],
+			"answer": "Checks and Balances"
+		},
+		{
+			"number": 10,
+			"question": "This World War II poster served what function:",
+			"graphic": "Social_Quiz_1_7",
+			"answers": [
+				"Encourage protest against the war.",
+				"Promote support for the war.",
+				"Encourage the Axis powers to end the war.",
+				"Demonstrate the ineffectiveness of guns."
+			],
+			"answer": "Promote support for the war."
+		}
+	]
+}

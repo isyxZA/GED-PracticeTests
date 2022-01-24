@@ -1,0 +1,84 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "At a local yoga studio, 80% of the members are women and 20% of the members are men. The average age of the women is 30 and the average age of the men is 40. What is the average age of all the members?",
+			"graphic": "noone",
+			"answers": ["30", "32", "33", "35"],
+			"answer": "32"
+		},
+		{
+			"number": 2,
+			"question": "Calculate the value of x for the right triangle shown above.",
+			"graphic": "Math_Quiz_3_1",
+			"answers": ["66", "89", "56", "65"],
+			"answer": "65"
+		},
+		{
+			"number": 3,
+			"question": "Each player on the high school football team has been weighed, and the data are shown in the box-and-whisker plot above. \n\nBased on this box-and-whisker plot, which of the following statements is accurate?",
+			"graphic": "Math_Quiz_3_2",
+			"answers": [
+				"The heaviest player weighs 300 lbs.",
+				"One-fourth of the players weigh less than 200 lbs.",
+				"The median player weighs 245 lbs.",
+				"The lightest player weighs 200 lbs."
+			],
+			"answer": "One-fourth of the players weigh less than 200 lbs."
+		},
+		{
+			"number": 4,
+			"question": "Each time they play a game there is a 90% chance that the Blue Comets soccer team will score the first goal. What is the probability of the Blue Comets scoring the first goal in 4 straight games?",
+			"graphic": "noone",
+			"answers": ["0.81", "0.45", "0.729", "0.656"],
+			"answer": "0.656"
+		},
+		{
+			"number": 5,
+			"question": "Calculate the surface area of this soup can. The height of the can is 6 inches and the diameter of the lid is 3 inches.",
+			"graphic": "Math_Quiz_3_3",
+			"answers": [
+				"14.13 inches squared",
+				"56.52 inches squared",
+				"70.65 inches squared",
+				"169.56 inches squared"
+			],
+			"answer": "169.56 inches squared"
+		},
+		{
+			"number": 6,
+			"question": "Charlie lives halfway between Chicago and Hoopertown. Amanda lives halfway between Charlie and Chicago. Raymond lives between Charlie and Hoopertown. All three houses lie on a straight line from Chicago to Hoopertown. \n\nIf Raymond lives 15 miles from Amanda and 23 miles from Chicago, how far does he live from Hoopertown?",
+			"graphic": "noone",
+			"answers": ["5 miles", "7 miles", "9 miles", "12 miles"],
+			"answer": "9 miles"
+		},
+		{
+			"number": 7,
+			"question": "What is the slope of the line that passes through points (0,5) and (7,0) on the coordinate plane shown above?",
+			"graphic": "Math_Quiz_3_4",
+			"answers": ["-(7/5)", "-(5/7)", "5/7", "7/5"],
+			"answer": "-(5/7)"
+		},
+		{
+			"number": 8,
+			"question": "Which of the following equations represents y in terms of x for all ordered pairs listed?",
+			"graphic": "Math_Quiz_3_5",
+			"answers": ["y = 4x / 3", "y = 2x + 3", "y = x + 5", "y = 3x * 2"],
+			"answer": "y = 2x + 3"
+		},
+		{
+			"number": 9,
+			"question": "If x is a small negative integer and y is a large positive integer, which of the following expressions must be positive?",
+			"graphic": "noone",
+			"answers": ["x * y", "y - x", "y / x", "x / y"],
+			"answer": "y - x"
+		},
+		{
+			"number": 10,
+			"question": "Li wants to buy as many bags of mulch as possible with his $305, and he would like them to be delivered to his house. The cost is $7.50 per bag and there is a $35.75 delivery charge. The mulch is only sold in full bags. How many bags can Li buy?",
+			"graphic": "noone",
+			"answers": ["35", "36", "45", "46"],
+			"answer": "35"
+		}
+	]
+}
