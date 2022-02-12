@@ -47,7 +47,7 @@
 		},
 		{
 			"number": 6,
-			"question": "A toy manufacturer makes 15,000 toys a year. The company randomly selects 300 of the toys to sample for inspection. The company discovers that there are 5 faulty toys in the sample. Based on the sample, how many of the 15,000 total toys are likely to be faulty?",
+			"question": "A toy manufacturer makes 15,000 toys a year. The company randomly selects 300 of the toys to sample for inspection. The company discovers that there are 5 faulty toys in the sample.\n\n Based on the sample, how many of the 15,000 total toys are likely to be faulty?",
 			"graphic": "noone",
 			"answers": ["25", "250", "300", "600"],
 			"answer": "250"

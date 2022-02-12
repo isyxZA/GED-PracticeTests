@@ -2,7 +2,7 @@
 	"test": [
 		{
 			"number": 1,
-			"question": "Devon owns a house cleaning company and has to give price quotes to potential customers. He figures out his price by assuming a $25 base charge and then adding $8 for each bathroom and $4 for each other room.\nnIf he uses P to represent the price, B for bathroom, and R for other rooms, which of the following represents his price quote formula?",
+			"question": "Devon owns a house cleaning company and has to give price quotes to potential customers. He figures out his price by assuming a $25 base charge and then adding $8 for each bathroom and $4 for each other room.\nIf he uses P to represent the price, B for bathroom, and R for other rooms, which of the following represents his price quote formula?",
 			"graphic": "noone",
 			"answers": [
 				"P = 25 + 12(BR)",
@@ -49,7 +49,7 @@
 		},
 		{
 			"number": 7,
-			"question": "Max struggled with his math class early in the year, but he has been working hard to improve his scores. There is one test left, and he is hoping that his final average test score will be 75. What score will he need to get on Test 6 to finish the year with an average score of 75?",
+			"question": "Max struggled with his math class early in the year, but he has been working hard to improve his scores. There is one test left, and he is hoping that his final average test score will be 75.\n\n What score will he need to get on Test 6 to finish the year with an average score of 75?",
 			"graphic": "Math_Quiz_1_5",
 			"answers": ["75", "85", "92", "100"],
 			"answer": "92"

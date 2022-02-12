@@ -2,7 +2,7 @@
 	"test": [
 		{
 			"number": 1,
-			"question": "In an acid base reaction, an acid reacts with a base to produce water and a salt. The pH scale can be used to describe the acidity of a liquid.    Which two liquids could undergo an acid base reaction?",
+			"question": "In an acid base reaction, an acid reacts with a base to produce water and a salt. The pH scale can be used to describe the acidity of a liquid. \n\nWhich two liquids could undergo an acid base reaction?",
 			"graphic": "Science_1_1",
 			"answers": [
 				"bleach and ammonia",
@@ -15,7 +15,7 @@
 		},
 		{
 			"number": 2,
-			"question": "According to Newton's laws of motion, an object set in motion remains in motion unless a force acts on it. If you suspend an object from a string and make it swing, the object will swing for a while, then slow down and stop. Why does the suspended object stop swinging?",
+			"question": "According to Newton's laws of motion, an object set in motion remains in motion unless a force acts on it. If you suspend an object from a string and make it swing, the object will swing for a while, then slow down and stop. \nWhy does the suspended object stop swinging?",
 			"graphic": "noone",
 			"answers": [
 				"because an object at rest remains at rest unless a force acts upon it",
@@ -28,7 +28,7 @@
 		},
 		{
 			"number": 3,
-			"question": "In an exothermic process, heat is released by the process to the surroundings. An example of an exothermic process is burning wood. An endothermic process requires the input of heat from the surroundings. An example of an endothermic process is boiling water. Which of the following is an endothermic process?",
+			"question": "In an exothermic process, heat is released by the process to the surroundings. An example of an exothermic process is burning wood. An endothermic process requires the input of heat from the surroundings. An example of an endothermic process is boiling water. \n\nWhich of the following is an endothermic process?",
 			"graphic": "noone",
 			"answers": [
 				"detonation of an explosive",
@@ -106,10 +106,10 @@
 		},
 		{
 			"number": 9,
-			"question": "The boiling point in hydrocarbons (molecules containing H and C) increases with increasing molecular weight due to larger intermolecular forces. Which of these hydrocarbons would you expect to have the highest boiling point?",
-			"graphic": "noone",
-			"answers": ["CH4", "C2H6", "C3H8", "CH2", "C3H11"],
-			"answer": "C3H11"
+			"question": "Select your answer.",
+			"graphic": "Science_1_2",
+			"answers": ["A", "B", "C", "D", "E"],
+			"answer": "E"
 		},
 		{
 			"number": 10,
@@ -126,7 +126,7 @@
 		},
 		{
 			"number": 11,
-			"question": "Different colors of light correspond to different wavelengths. Wavelengths are often quoted in nanometers (nm). The wavelengths of the visible part of the spectrum are shown in the diagram below. According to the diagram, blue-green light would most likely have a wavelength of",
+			"question": "Different colors of light correspond to different wavelengths. Wavelengths are often quoted in nanometers (nm). The wavelengths of the visible part of the spectrum are shown in the diagram above. \n\nAccording to the diagram, blue-green light would most likely have a wavelength of",
 			"graphic": "Science_1_3",
 			"answers": ["670 nm.", "550nm.", "350nm.", "470nm.", "700nm."],
 			"answer": "470nm."
@@ -159,7 +159,7 @@
 		},
 		{
 			"number": 14,
-			"question": "In order to protect themselves from being eaten, animals resort to camouflage and chemical defense. Animals camouflage by mimicking the appearance of their environment. Animals that have chemical defenses contain chemicals noxious to predators. Which of these is NOT an example of camouflage or chemical defense?",
+			"question": "In order to protect themselves from being eaten, animals resort to camouflage and chemical defense. Animals camouflage by mimicking the appearance of their environment. Animals that have chemical defenses contain chemicals noxious to predators.\n\nWhich of these is NOT an example of camouflage or chemical defense?",
 			"graphic": "noone",
 			"answers": [
 				"A walking stick insect looks just like a twig.",
@@ -172,8 +172,8 @@
 		},
 		{
 			"number": 15,
-			"question": "Osmosis is the movement of water across a selectively permeable membrane in order to equalize the concentration (the amount of protein per milliliter of water) on two sides of the membrane. Consider the diagram below. The container is divided into two compartments, A and B, by a selectively permeable membrane. Each circle represents 100 protein molecules that can't pass through the membrane. The amount of water on two sides of the membrane is initially equal. What will happen as a result of osmosis?",
-			"graphic": "Science_1_2",
+			"question": "Osmosis is the movement of water across a selectively permeable membrane in order to equalize the concentration (the amount of protein per milliliter of water) on two sides of the membrane.\n\nConsider the diagram above.\n\nThe container is divided into two compartments, A and B, by a selectively permeable membrane. Each circle represents 100 protein molecules that can't pass through the membrane. The amount of water on two sides of the membrane is initially equal.\n\nWhat will happen as a result of osmosis?",
+			"graphic": "Science_1_4",
 			"answers": [
 				"Protein will flow from compartment B to compartment A.",
 				"Protein will flow from compartment A to compartment B.",
@@ -211,8 +211,8 @@
 		},
 		{
 			"number": 18,
-			"question": "In peas, the gene for green color is dominant over the gene for yellow color. We will specify the gene for yellow peas as y, and the gene for green peas as Y. Each pea has two genes for color (one from each parent) and donates only one gene for color to its offspring. Yellow peas have the genotype yy. Any other genotype leads to green peas. Considering the following Punnett square, the offspring of these two parents",
-			"graphic": "Science_1_4",
+			"question": "In peas, the gene for green color is dominant over the gene for yellow color. We will specify the gene for yellow peas as y, and the gene for green peas as Y. \n\nEach pea has two genes for color (one from each parent) and donates only one gene for color to its offspring. Yellow peas have the genotype yy. Any other genotype leads to green peas.\n\n Consider the above Punnett square. The offspring of these two parents",
+			"graphic": "Science_1_5",
 			"answers": [
 				"could never be yellow.",
 				"could never be green.",
@@ -237,7 +237,7 @@
 		},
 		{
 			"number": 20,
-			"question": "In humans, a pair of chromosomes (one from each parent) determines the sex of the baby. Females have two X chromosomes, while males have an X and a Y chromosome. The baby always gets an X chromosome from the mother, so in humans, the father determines the sex of the baby by supplying it with either an X chromosome to make it female, or a Y chromosome to make it male. In birds, like in humans, a pair of chromosomes determines the sex. Birds with two W chromosomes are male. Birds with a W chromosome and a Z chromosome are female. Which statement is true about birds?",
+			"question": "In humans, a pair of chromosomes (one from each parent) determines the sex of the baby.\nFemales have two X chromosomes, while males have an X and a Y chromosome. \n\nThe baby always gets an X chromosome from the mother, so in humans, the father determines the sex of the baby by supplying it with either an X chromosome to make it female, or a Y chromosome to make it male.\n\nIn birds, like in humans, a pair of chromosomes determines the sex. Birds with two W chromosomes are male. Birds with a W chromosome and a Z chromosome are female.\n\nWhich statement is true about birds?",
 			"graphic": "noone",
 			"answers": [
 				"The male bird determines the sex of the offspring by supplying it with the W or the Z chromosome.",
@@ -250,7 +250,7 @@
 		},
 		{
 			"number": 21,
-			"question": "A species may live in association with another species. Such an arrangement is called symbiosis. Symbiosis in which both species benefit is called mutualism. If the symbiosis is beneficial to one species and neither beneficial nor harmful to the other, it is called commensalism. If one species benefits at the expense of the other, the relationship is called parasitism. A tick that attaches to the skin of a human or animal and feeds on its blood is an example of",
+			"question": "A species may live in association with another species. Such an arrangement is called symbiosis. \n\nSymbiosis in which both species benefit is called mutualism.\n\nIf the symbiosis is beneficial to one species and neither beneficial nor harmful to the other, it is called commensalism.\n\nIf one species benefits at the expense of the other, the relationship is called parasitism.\n\nA tick that attaches to the skin of a human or animal and feeds on its blood is an example of",
 			"graphic": "noone",
 			"answers": [
 				"commensalisms.",
@@ -263,8 +263,8 @@
 		},
 		{
 			"number": 22,
-			"question": "Questions 22 through 24 are based on the following passage. An island in the Adriatic Sea was overpopulated with snakes. Sailors who came to the island brought and let loose mongoose, animals that feed on snakes. The population of snakes started decreasing since the mongooses were eating them. The mongoose population started increasing since there was ample food around. The mongooses were not native to the island and there was no predator on the island to keep the mongoose population in check. At some point, there were hardly any snakes left on the island, and people started populating it. The mongoose, facing a shortage of snakes, started eating chickens that people kept for their eggs and meat. However, people caught on and protected the chickens from getting eaten. The mongoose population decreased. Some remain on the island, but their number is now at equilibrium, kept in check by the availability of food. The passage illustrates",
-			"graphic": "noone",
+			"question": "The passage above illustrates",
+			"graphic": "Science_1_6",
 			"answers": [
 				"the interdependence of organisms.",
 				"the fragility of an ecosystem.",
@@ -276,8 +276,8 @@
 		},
 		{
 			"number": 23,
-			"question": "Questions 22 through 24 are based on the following passage. An island in the Adriatic Sea was overpopulated with snakes. Sailors who came to the island brought and let loose mongoose, animals that feed on snakes. The population of snakes started decreasing since the mongooses were eating them. The mongoose population started increasing since there was ample food around. The mongooses were not native to the island and there was no predator on the island to keep the mongoose population in check. At some point, there were hardly any snakes left on the island, and people started populating it. The mongoose, facing a shortage of snakes, started eating chickens that people kept for their eggs and meat. However, people caught on and protected the chickens from getting eaten. The mongoose population decreased. Some remain on the island, but their number is now at equilibrium, kept in check by the availability of food. There were hardly any snakes left on the island because",
-			"graphic": "noone",
+			"question": "There were hardly any snakes left on the island because",
+			"graphic": "Science_1_6",
 			"answers": [
 				"mongooses had eaten them.",
 				"people had killed them.",
@@ -289,8 +289,8 @@
 		},
 		{
 			"number": 24,
-			"question": "Questions 22 through 24 are based on the following passage. An island in the Adriatic Sea was overpopulated with snakes. Sailors who came to the island brought and let loose mongoose, animals that feed on snakes. The population of snakes started decreasing since the mongooses were eating them. The mongoose population started increasing since there was ample food around. The mongooses were not native to the island and there was no predator on the island to keep the mongoose population in check. At some point, there were hardly any snakes left on the island, and people started populating it. The mongoose, facing a shortage of snakes, started eating chickens that people kept for their eggs and meat. However, people caught on and protected the chickens from getting eaten. The mongoose population decreased. Some remain on the island, but their number is now at equilibrium, kept in check by the availability of food. Which statement best describes the change in the population of mongooses on the island?",
-			"graphic": "noone",
+			"question": "Which statement best describes the change in the population of mongooses on the island?",
+			"graphic": "Science_1_6",
 			"answers": [
 				"The population was zero before sailors brought a few. The few then multiplied,\n and the number of mongooses on the island is still steadily growing.",
 				"The population was zero before sailors brought a few. The few then multiplied, increasing the number\n of mongooses. When the snakes were almost gone, the mongoose population started decreasing.",
@@ -302,8 +302,8 @@
 		},
 		{
 			"number": 25,
-			"question": "There are four blood types in humans: A, B, AB, and O. An individual with blood type A has antibodies for B, so he or she can't receive type B blood. Similarly, a person with blood type B has antibodies for type A and can't receive type A blood. A person with AB blood type has no antibodies and can receive blood from anyone. A person with type O blood has both A and B antibodies and can receive blood only from someone else with type O blood. Based on this information, someone with type B blood can donate to",
-			"graphic": "noone",
+			"question": "Based on this information, someone with type B blood can donate to",
+			"graphic": "Science_1_7",
 			"answers": [
 				"blood groups B and O",
 				"blood groups B and AB",
@@ -315,7 +315,7 @@
 		},
 		{
 			"number": 26,
-			"question": "Two main chemicals are responsible for the communication of the brain with the organs you have no conscious control over (heart, digestive system, endocrine system). The chemical norepinephrine helps your body get ready for a fightor-flight action by stirring up energy stores. In contrast, the chemical acetylcholine helps conserve energy by slowing the heart and increasing intestinal absorption. Which of the following situations is least likely to lead to increased levels of norepinephrine?",
+			"question": "Two main chemicals are responsible for the communication of the brain with the organs you have no conscious control over (heart, digestive system, endocrine system).\n\n The chemical norepinephrine helps your body get ready for a fightor-flight action by stirring up energy stores.\n\n In contrast, the chemical acetylcholine helps conserve energy by slowing the heart and increasing intestinal absorption.\n\n Which of the following situations is least likely to lead to increased levels of norepinephrine?",
 			"graphic": "noone",
 			"answers": [
 				"Being chased by a flesh-eating animal.",
@@ -341,7 +341,7 @@
 		},
 		{
 			"number": 28,
-			"question": "In the early 19th century, almost all peppered moths collected by biologists in the U.K. were pale and mottled. Only rarely was a collector able to find a dark-peppered moth. After the Industrial Revolution, when furnaces filled the air with dark soot, the light-peppered moth became rare and the dark-peppered moth was most common in industrial cities. A reasonable explanation for this change is that the dark moth was less likely to be seen and eaten by birds against the dark background. This explanation illustrates the principle of",
+			"question": "In the early 19th century, almost all peppered moths collected by biologists in the U.K. were pale and mottled. Only rarely was a collector able to find a dark-peppered moth.\n\n After the Industrial Revolution, when furnaces filled the air with dark soot, the light-peppered moth became rare and the dark-peppered moth was most common in industrial cities.\n\n A reasonable explanation for this change is that the dark moth was less likely to be seen and eaten by birds against the dark background.\n\n This explanation illustrates the principle of",
 			"graphic": "noone",
 			"answers": [
 				"conservation of energy.",

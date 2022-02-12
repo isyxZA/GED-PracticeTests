@@ -26,7 +26,7 @@
 		},
 		{
 			"number": 3,
-			"question": "In the excerpt from the Declaration of Independance, what does the term 'abolish' mean?",
+			"question": "In this excerpt from the Declaration of Independance, what does the term 'abolish' mean?",
 			"graphic": "Social_Quiz_1_3",
 			"answers": ["validate", "change", "eliminate", "ignore"],
 			"answer": "eliminate"
@@ -45,7 +45,7 @@
 		},
 		{
 			"number": 5,
-			"question": "Consider the following statements:\n\nWhen prices rise, supply increases. When prices fall, supply decreases. \nWhen prices increase, demand falls. \nWhen prices fall, demand increases.\n\nWhich of the following is true?",
+			"question": "Consider the following statements:\n\nWhen prices rise, supply increases. \nWhen prices fall, supply decreases. \nWhen prices increase, demand falls. \nWhen prices fall, demand increases.\n\nWhich of the following is true?",
 			"graphic": "noone",
 			"answers": [
 				"Farmers will produce additional beans when the price per ton goes down by $10.",
@@ -74,10 +74,10 @@
 			"answers": [
 				"More than 34,000 American soldiers died during the Korean War.",
 				"The Korean War was the first time jet fighters faced each other in combat.",
-				"The United States may have won the Korean War if General Douglas MacArthur had been permitted to use nuclear weapons against Communist forces.",
+				"The United States may have won the Korean War if General Douglas MacArthur\n had been permitted to use nuclear weapons against Communist forces.",
 				"The Korean War began in 1950 and ended with an armistice in 1953."
 			],
-			"answer": "The United States may have won the Korean War if General Douglas MacArthur had been permitted to use nuclear weapons against Communist forces."
+			"answer": "The United States may have won the Korean War if General Douglas MacArthur\n had been permitted to use nuclear weapons against Communist forces."
 		},
 		{
 			"number": 8,

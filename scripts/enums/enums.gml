@@ -11,3 +11,11 @@ enum uiLayout {
 	review,
 	userscores
 }
+
+enum scoreFilter {
+	every,
+	science,
+	math,
+	english,
+	socialstudies
+}

@@ -2,7 +2,7 @@
 	"test": [
 		{
 			"number": 1,
-			"question": "At a local yoga studio, 80% of the members are women and 20% of the members are men. The average age of the women is 30 and the average age of the men is 40. What is the average age of all the members?",
+			"question": "At a local yoga studio, 80% of the members are women and 20% of the members are men. The average age of the women is 30 and the average age of the men is 40.\n\n What is the average age of all the members?",
 			"graphic": "noone",
 			"answers": ["30", "32", "33", "35"],
 			"answer": "32"
@@ -75,7 +75,7 @@
 		},
 		{
 			"number": 10,
-			"question": "Li wants to buy as many bags of mulch as possible with his $305, and he would like them to be delivered to his house. The cost is $7.50 per bag and there is a $35.75 delivery charge. The mulch is only sold in full bags. How many bags can Li buy?",
+			"question": "Li wants to buy as many bags of mulch as possible with his $305, and he would like them to be delivered to his house. The cost is $7.50 per bag and there is a $35.75 delivery charge. The mulch is only sold in full bags.\n\n How many bags can Li buy?",
 			"graphic": "noone",
 			"answers": ["35", "36", "45", "46"],
 			"answer": "35"

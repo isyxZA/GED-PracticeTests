@@ -1,0 +1,74 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "The range of the data 14, 6, 12, 17, 21, 10, 4, 3 is",
+			"graphic": "noone",
+			"answers": ["6", "12", "16", "17", "18"],
+			"answer": "18"
+		},
+		{
+			"number": 2,
+			"question": "The mode of the data 21, 26, 22, 29, 23, 29, 26, 29, 22, 23 is",
+			"graphic": "noone",
+			"answers": ["21", "22", "23", "26", "29"],
+			"answer": "29"
+		},
+		{
+			"number": 3,
+			"question": "The median of the data 23, 49, 87, 75, 88, 59, 89 is",
+			"graphic": "noone",
+			"answers": ["49", "87", "75", "88", "59"],
+			"answer": "75"
+		},
+		{
+			"number": 4,
+			"question": "Find the median of the data: 13, 111, 17, 12, 15, 19, 19, 12, 110, 115, 17",
+			"graphic": "noone",
+			"answers": ["12", "15", "19", "17", "110"],
+			"answer": "17"
+		},
+		{
+			"number": 5,
+			"question": "Find the median of the data 39, 30, 80, 28, 20, 71, 19, 11, 60, 17",
+			"graphic": "noone",
+			"answers": ["29", "20", "71", "30", "24"],
+			"answer": "29"
+		},
+		{
+			"number": 6,
+			"question": "If the mean of 26, 28, 25, x, 24 is 27, find the value of x.",
+			"graphic": "noone",
+			"answers": ["2", "3", "12", "23", "32"],
+			"answer": "32"
+		},
+		{
+			"number": 7,
+			"question": "The mean of 10 observations was calculated as 40. It was detected on re-checking that the value of 45 was wrongly copied as 15. Find the correct mean.",
+			"graphic": "noone",
+			"answers": ["13", "23", "27", "33", "43"],
+			"answer": "43"
+		},
+		{
+			"number": 8,
+			"question": "The median of observations 11, 12, 14, 18, x + 2, 20, 22, 25, 61 arranged in ascending order is 21. Find the value of x.",
+			"graphic": "noone",
+			"answers": ["19", "20", "22", "25", "61"],
+			"answer": "19"
+		},
+		{
+			"number": 9,
+			"question": "Eva went to shop and bought 3 apples, 5 peaches, 8 bananas, 1 pineapple and 3 melons. What is the Mean of her purchase?",
+			"graphic": "noone",
+			"answers": ["3", "4", "5", "6", "7"],
+			"answer": "4"
+		},
+		{
+			"number": 10,
+			"question": "Bob has 12 black pens, 14 red pens, 15 green pens, 24 blue pens and 3 boxes of yellow pens. If the Mean and Median are 16 and 15 respectively, what is the number of yellow pens in each box?",
+			"graphic": "noone",
+			"answers": ["8", "10", "5", "12", "Not enough information is given"],
+			"answer": "5"
+		}
+	]
+}

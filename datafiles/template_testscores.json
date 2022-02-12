@@ -41,6 +41,26 @@
 			"scores": [0, 0, 0]
 		},
 		{
+			"test": "Math Quiz 1",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Math Quiz 2",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Math Quiz 3",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Math Quiz 4",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
 			"test": "Equations 1",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
@@ -57,6 +77,26 @@
 		},
 		{
 			"test": "Social Studies 2",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Social Studies Quiz 1",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Social Studies Quiz 2",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Social Studies Quiz 3",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Social Studies Quiz 4",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
 		},

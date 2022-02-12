@@ -16,12 +16,37 @@ function load_user(_user) {
 	
 	// if the user has a file in storage
 	if file_exists(_file) {
-		// load the user data
-		var _buffer = buffer_load(_file)
-		var _string = buffer_read(_buffer, buffer_string)
-		buffer_delete(_buffer)
-		//json_stringify(_string)
-		userData = json_parse(_string)
+		// check if update action is required
+		if updateVersion {
+			// clear stored user data
+			file_delete(_file)
+			updateVersion = false
+			// load a a new save file for the user
+			// create a new save file from template
+			if file_exists("template_testscores.json") {
+				// load the template
+				var _load_buffer = buffer_load("template_testscores.json")
+				var _load_string = buffer_read(_load_buffer, buffer_string)
+				buffer_delete(_load_buffer)
+			
+				userData = json_parse(_load_string)
+			
+				// save a new file for the user
+				var _save_string = _load_string
+				var _save_buffer = buffer_create(string_byte_length(_save_string) + 1, buffer_fixed, 1)
+				buffer_write(_save_buffer, buffer_string, _save_string)
+				buffer_save(_save_buffer, _file)
+				buffer_delete(_save_buffer)
+			}
+		}
+		else {
+			// load the user data
+			var _buffer = buffer_load(_file)
+			var _string = buffer_read(_buffer, buffer_string)
+			buffer_delete(_buffer)
+			//json_stringify(_string)
+			userData = json_parse(_string)
+		}
 	}
 	else {
 		// create a new save file from template
@@ -48,7 +73,7 @@ function load_user(_user) {
 /// @param {string} _testID identifier
 function load_test(_testID){
 	switch _testID {
-		case "Science 1":
+		case "Science Test 1":
 			if file_exists("science_test_1.json") {
 				var _buffer = buffer_load("science_test_1.json")
 				var _string = buffer_read(_buffer, buffer_string)
@@ -56,7 +81,7 @@ function load_test(_testID){
 				questionData = json_parse(_string)
 			}
 			break
-		case "Science 2":
+		case "Science Test 2":
 			if file_exists("science_test_2.json") {
 				var _buffer = buffer_load("science_test_2.json")
 				var _string = buffer_read(_buffer, buffer_string)
@@ -96,7 +121,7 @@ function load_test(_testID){
 				questionData = json_parse(_string)
 			}
 			break
-		case "Math 1":
+		case "Math Test 1":
 			if file_exists("math_test_1.json") {
 				var _buffer = buffer_load("math_test_1.json")
 				var _string = buffer_read(_buffer, buffer_string)
@@ -104,9 +129,41 @@ function load_test(_testID){
 				questionData = json_parse(_string)
 			}
 			break
-		case "Math 2":
+		case "Math Test 2":
 			if file_exists("math_test_2.json") {
 				var _buffer = buffer_load("math_test_2.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Math Quiz 1":
+			if file_exists("math_quiz_1.json") {
+				var _buffer = buffer_load("math_quiz_1.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Math Quiz 2":
+			if file_exists("math_quiz_2.json") {
+				var _buffer = buffer_load("math_quiz_2.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Math Quiz 3":
+			if file_exists("math_quiz_3.json") {
+				var _buffer = buffer_load("math_quiz_3.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Math Quiz 4":
+			if file_exists("math_quiz_4.json") {
+				var _buffer = buffer_load("math_quiz_4.json")
 				var _string = buffer_read(_buffer, buffer_string)
 				buffer_delete(_buffer)
 				questionData = json_parse(_string)
@@ -139,6 +196,38 @@ function load_test(_testID){
 		case "Social Studies 2":
 			if file_exists("socialstudies_test_2.json") {
 				var _buffer = buffer_load("socialstudies_test_2.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Social Studies Quiz 1":
+			if file_exists("socialstudies_quiz_1.json") {
+				var _buffer = buffer_load("socialstudies_quiz_1.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Social Studies Quiz 2":
+			if file_exists("socialstudies_quiz_2.json") {
+				var _buffer = buffer_load("socialstudies_quiz_2.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Social Studies Quiz 3":
+			if file_exists("socialstudies_quiz_3.json") {
+				var _buffer = buffer_load("socialstudies_quiz_3.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Social Studies Quiz 4":
+			if file_exists("socialstudies_quiz_4.json") {
+				var _buffer = buffer_load("socialstudies_quiz_4.json")
 				var _string = buffer_read(_buffer, buffer_string)
 				buffer_delete(_buffer)
 				questionData = json_parse(_string)
@@ -352,6 +441,20 @@ function spawn_button_radio(_xpos, _ypos, _sprite, _scale, _text)
 	ds_list_add(answerButtonsList, btn.id)
 }
 
+/// @function spawn_button_filter(_xpos, _ypos, _scale, _text)
+/// @param {float} _xpos
+/// @param {float} _ypos
+/// @param {float} _scale
+/// @param {string} _text
+function spawn_button_filter(_xpos, _ypos, _sprite, _scale, _text)
+{
+	var btn = instance_create_layer(_xpos, _ypos, "ButtonsGUI", oButtonFilter)
+	btn.sprite_index = _sprite
+	btn.image_xscale = _scale
+	btn.image_yscale = _scale
+	btn.label = _text
+}
+
 /// @function spawn_button_ui(_xpos, _ypos, _scaleX, _scaleY _text)
 /// @param {float} _xpos
 /// @param {float} _ypos
@@ -438,7 +541,13 @@ function setup_ui() {
 				if studentAnswersList[| currentQuestionIndex] == answersList[| currentQuestionIndex][iii] { 
 					ab.chosenAnswer = true 
 					if uiState == uiLayout.review { 
-						if studentAnswersList[| currentQuestionIndex] != answerList[| currentQuestionIndex] {
+						//if studentAnswersList[| currentQuestionIndex] != answerList[| currentQuestionIndex] {
+						//	ab.isCorrect = false
+						//}
+						if studentAnswersList[| currentQuestionIndex] == answerList[| currentQuestionIndex] {
+							ab.isCorrect = true
+						}
+						else {
 							ab.isCorrect = false
 						}
 					}
@@ -463,6 +572,7 @@ function load_ui(_layout) {
 			with oButtonRadio { instance_destroy() }
 			with oButtonUI { instance_destroy() }
 			with oButtonLogin { instance_destroy() }
+			with oButtonFilter { instance_destroy() }
 			// Spawn new buttons
 			if userUser == "" {
 				spawn_button_menu(default_width * 0.8, default_height * 0.4, sButton, 1.25, 1, "Log In")
@@ -509,10 +619,16 @@ function load_ui(_layout) {
 			with oButtonRadio { instance_destroy() }
 			with oButtonUI { instance_destroy() }
 			// Spawn new buttons
-			spawn_button_menu(default_width * 0.75, default_height * 0.45, sButton, 1.25, 1, "Math Test 1")
-			spawn_button_menu(default_width * 0.75, default_height * 0.55, sButton, 1.25, 1, "Math Test 2")
-			spawn_button_menu(default_width * 0.25, default_height * 0.45, sButton, 1.25, 1, "Equations 1")
-			spawn_button_menu(default_width * 0.25, default_height * 0.55, sButton, 1.25, 1, "Expressions 1")
+			spawn_button_menu(default_width * 0.2, default_height * 0.45, sButton, 1.25, 1, "Equations 1")
+			spawn_button_menu(default_width * 0.2, default_height * 0.55, sButton, 1.25, 1, "Expressions 1")
+			
+			spawn_button_menu(default_width * 0.5, default_height * 0.35, sButton, 1.25, 1, "Math Quiz 1")
+			spawn_button_menu(default_width * 0.5, default_height * 0.45, sButton, 1.25, 1, "Math Quiz 2")
+			spawn_button_menu(default_width * 0.5, default_height * 0.55, sButton, 1.25, 1, "Math Quiz 3")
+			spawn_button_menu(default_width * 0.5, default_height * 0.65, sButton, 1.25, 1, "Math Quiz 4")
+			
+			spawn_button_menu(default_width * 0.8, default_height * 0.45, sButton, 1.25, 1, "Math Test 1")
+			spawn_button_menu(default_width * 0.8, default_height * 0.55, sButton, 1.25, 1, "Math Test 2")
 			// Turn on can click
 			oControl.alarm[0] = room_speed * 0.5
 			break
@@ -522,8 +638,12 @@ function load_ui(_layout) {
 			with oButtonRadio { instance_destroy() }
 			with oButtonUI { instance_destroy() }
 			// Spawn new buttons
-			spawn_button_menu(default_width * 0.5, default_height * 0.45, sButton, 1.25, 1, "Social Studies 1")
-			spawn_button_menu(default_width * 0.5, default_height * 0.55, sButton, 1.25, 1, "Social Studies 2")
+			spawn_button_menu(default_width * 0.75, default_height * 0.45, sButton, 1.7, 1.2, "Social Studies Test 1")
+			spawn_button_menu(default_width * 0.75, default_height * 0.55, sButton, 1.7, 1.2, "Social Studies Test 2")
+			spawn_button_menu(default_width * 0.25, default_height * 0.35, sButton, 1.7, 1.2, "Social Studies Quiz 1")
+			spawn_button_menu(default_width * 0.25, default_height * 0.45, sButton, 1.7, 1.2, "Social Studies Quiz 2")
+			spawn_button_menu(default_width * 0.25, default_height * 0.55, sButton, 1.7, 1.2, "Social Studies Quiz 3")
+			spawn_button_menu(default_width * 0.25, default_height * 0.65, sButton, 1.7, 1.2, "Social Studies Quiz 4")
 			// Turn on can click
 			oControl.alarm[0] = room_speed * 0.5
 			break
@@ -552,7 +672,12 @@ function load_ui(_layout) {
 			// Clear current buttons
 			with oButton { instance_destroy() }
 			// Spawn new buttons
-			spawn_button_ui(default_width * 0.9, default_height * 0.1, sButton, 0.8, 0.8, "Back")
+			spawn_button_filter(default_width * 0.85, default_height * 0.5, sAnswer, 1, "All Subjects")
+			spawn_button_filter(default_width * 0.85, default_height * 0.55, sAnswer, 1, "Science")
+			spawn_button_filter(default_width * 0.85, default_height * 0.6, sAnswer, 1, "Math")
+			spawn_button_filter(default_width * 0.85, default_height * 0.65, sAnswer, 1, "English")
+			spawn_button_filter(default_width * 0.85, default_height * 0.7, sAnswer, 1, "Social Studies")
+			spawn_button_ui(default_width * 0.915, default_height * 0.9, sButton, 0.9, 0.9, "Back")
 			// Turn on can click
 			oControl.alarm[0] = room_speed * 0.5
 			break
@@ -615,7 +740,7 @@ function get_score() {
 		
 		if _sa == _ca { _score += 1 }
 	}
-	studentTestScore = (_score / currentTestQuestionAmount) * 100
+	studentTestScore = round((_score / currentTestQuestionAmount) * 100)
 	
 	// ADD SCORE TO STUDENT SAVE FILE
 	if is_struct(userData) {
@@ -690,6 +815,7 @@ function clear_test() {
 /// @param {string} _identifier  identifier as a string value
 function find_graphic(_indentifier) {
 	switch _indentifier {
+		// SCIENCE
 		case "Science_1_1":
 			return sScience_1_1
 		case "Science_1_2":
@@ -698,6 +824,12 @@ function find_graphic(_indentifier) {
 			return sScience_1_3
 		case "Science_1_4":
 			return sScience_1_4
+		case "Science_1_5":
+			return sScience_1_5
+		case "Science_1_6":
+			return sScience_1_6
+		case "Science_1_7":
+			return sScience_1_7
 		case "Science_2_1":
 			return sScience_2_1
 		case "Science_2_2":
@@ -718,6 +850,17 @@ function find_graphic(_indentifier) {
 			return sScience_2_9
 		case "Science_2_10":
 			return sScience_2_10
+		case "Science_2_11":
+			return sScience_2_11
+		case "Science_2_12":
+			return sScience_2_12
+		case "Science_2_13":
+			return sScience_2_13
+		case "Science_2_14":
+			return sScience_2_14
+		case "Science_2_15":
+			return sScience_2_15
+		// MATH
 		case "Math_1_1":
 			return sMath_1_1
 		case "Math_1_2":
@@ -746,6 +889,10 @@ function find_graphic(_indentifier) {
 			return sMath_1_13
 		case "Math_1_14":
 			return sMath_1_14
+		case "Math_1_15":
+			return sMath_1_15
+		case "Math_1_16":
+			return sMath_1_16
 		case "Math_2_1":
 			return sMath_2_1
 		case "Math_2_2":
@@ -758,6 +905,51 @@ function find_graphic(_indentifier) {
 			return sMath_2_5
 		case "Math_2_6":
 			return sMath_2_6
+		case "Math_Quiz_1_1":
+			return sMath_Quiz_1_1
+		case "Math_Quiz_1_2":
+			return sMath_Quiz_1_2
+		case "Math_Quiz_1_3":
+			return sMath_Quiz_1_3
+		case "Math_Quiz_1_4":
+			return sMath_Quiz_1_4
+		case "Math_Quiz_1_5":
+			return sMath_Quiz_1_5
+		case "Math_Quiz_1_6":
+			return sMath_Quiz_1_6
+		case "Math_Quiz_2_1":
+			return sMath_Quiz_2_1
+		case "Math_Quiz_2_2":
+			return sMath_Quiz_2_2
+		case "Math_Quiz_2_3":
+			return sMath_Quiz_2_3
+		case "Math_Quiz_2_4":
+			return sMath_Quiz_2_4
+		case "Math_Quiz_3_1":
+			return sMath_Quiz_3_1
+		case "Math_Quiz_3_2":
+			return sMath_Quiz_3_2
+		case "Math_Quiz_3_3":
+			return sMath_Quiz_3_3
+		case "Math_Quiz_3_4":
+			return sMath_Quiz_3_4
+		case "Math_Quiz_3_5":
+			return sMath_Quiz_3_5
+		case "Math_Quiz_4_1":
+			return sMath_Quiz_4_1
+		case "Math_Quiz_4_2":
+			return sMath_Quiz_4_2
+		case "Math_Quiz_4_3":
+			return sMath_Quiz_4_3
+		case "Math_Quiz_4_4":
+			return sMath_Quiz_4_4
+		case "Math_Quiz_4_5":
+			return sMath_Quiz_4_5
+		case "Math_Quiz_4_6":
+			return sMath_Quiz_4_6
+		case "Math_Quiz_4_7":
+			return sMath_Quiz_4_7
+		// SOCIAL STUDIES
 		case "Social_1_1":
 			return sSocial_1_1
 		case "Social_1_2":
@@ -776,6 +968,26 @@ function find_graphic(_indentifier) {
 			return sSocial_1_8
 		case "Social_1_9":
 			return sSocial_1_9
+		case "Social_1_10":
+			return sSocial_1_10
+		case "Social_1_11":
+			return sSocial_1_11
+		case "Social_1_12":
+			return sSocial_1_12
+		case "Social_1_13":
+			return sSocial_1_13
+		case "Social_1_14":
+			return sSocial_1_14
+		case "Social_1_15":
+			return sSocial_1_15
+		case "Social_1_16":
+			return sSocial_1_16
+		case "Social_1_17":
+			return sSocial_1_17
+		case "Social_1_18":
+			return sSocial_1_18
+		case "Social_1_19":
+			return sSocial_1_19
 		case "Social_2_1":
 			return sSocial_2_1
 		case "Social_2_2":
@@ -786,9 +998,29 @@ function find_graphic(_indentifier) {
 			return sSocial_2_4
 		case "Social_2_5":
 			return sSocial_2_5
+		case "Social_2_6":
+			return sSocial_2_6
+		case "Social_2_7":
+			return sSocial_2_7
+		case "Social_2_8":
+			return sSocial_2_8
+		case "Social_2_9":
+			return sSocial_2_9
+		case "Social_2_10":
+			return sSocial_2_10
+		case "Social_2_11":
+			return sSocial_2_11
+		case "Social_2_12":
+			return sSocial_2_12
 		// ENGLISH - READING
 		case "Reading_1_1":
 			return sReading_1_1
+		case "Reading_1_2":
+			return sReading_1_2
+		case "Reading_1_3":
+			return sReading_1_3
+		case "Reading_1_4":
+			return sReading_1_4
 		case "Reading_2_1":
 			return sReading_2_1
 		case "Reading_3_1":
@@ -841,6 +1073,7 @@ function find_graphic(_indentifier) {
 			return sExpressions_1_7
 		case "Expressions_1_8":
 			return sExpressions_1_8
+		// SCIENCE
 		case "Science_Quiz_1_1":
 			return sScienceQuiz_1_1
 		case "Science_Quiz_1_2":
@@ -897,6 +1130,57 @@ function find_graphic(_indentifier) {
 			return sScienceQuiz_4_7
 		case "Science_Quiz_4_8":
 			return sScienceQuiz_4_8
+		// SOCIAL STUDIES
+		case "Social_Quiz_1_1":
+			return sSocial_Quiz_1_1
+		case "Social_Quiz_1_2":
+			return sSocial_Quiz_1_2
+		case "Social_Quiz_1_3":
+			return sSocial_Quiz_1_3
+		case "Social_Quiz_1_4":
+			return sSocial_Quiz_1_4
+		case "Social_Quiz_1_5":
+			return sSocial_Quiz_1_5
+		case "Social_Quiz_1_6":
+			return sSocial_Quiz_1_6
+		case "Social_Quiz_1_7":
+			return sSocial_Quiz_1_7
+		case "Social_Quiz_2_1":
+			return sSocial_Quiz_2_1
+		case "Social_Quiz_2_2":
+			return sSocial_Quiz_2_2
+		case "Social_Quiz_2_3":
+			return sSocial_Quiz_2_3
+		case "Social_Quiz_2_4":
+			return sSocial_Quiz_2_4
+		case "Social_Quiz_2_5":
+			return sSocial_Quiz_2_5
+		case "Social_Quiz_3_1":
+			return sSocial_Quiz_3_1
+		case "Social_Quiz_3_2":
+			return sSocial_Quiz_3_2
+		case "Social_Quiz_3_3":
+			return sSocial_Quiz_3_3
+		case "Social_Quiz_3_4":
+			return sSocial_Quiz_3_4
+		case "Social_Quiz_3_5":
+			return sSocial_Quiz_3_5
+		case "Social_Quiz_3_6":
+			return sSocial_Quiz_3_6
+		case "Social_Quiz_3_7":
+			return sSocial_Quiz_3_7
+		case "Social_Quiz_4_1":
+			return sSocial_Quiz_4_1
+		case "Social_Quiz_4_2":
+			return sSocial_Quiz_4_2
+		case "Social_Quiz_4_3":
+			return sSocial_Quiz_4_3
+		case "Social_Quiz_4_4":
+			return sSocial_Quiz_4_4
+		case "Social_Quiz_4_5":
+			return sSocial_Quiz_4_5
+		case "Social_Quiz_4_6":
+			return sSocial_Quiz_4_6
 		default:
 			return sGraphic_Blank
 	}

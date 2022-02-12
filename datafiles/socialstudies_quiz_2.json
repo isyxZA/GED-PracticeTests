@@ -77,12 +77,12 @@
 			"question": "Which of the following statements from this passage is an opinion and not a fact?",
 			"graphic": "Social_Quiz_2_3",
 			"answers": [
-				"'While each of Florida's 27 electoral delegates represents almost 480,000 eligible voters, each of the three delegates from Wyoming represents only 135,000 eligible voters.'",
-				"'That makes a voter casting a presidential ballot in Wyoming three and a half times more influential than a voter in Florida.'",
-				"'This system, along with the winner-take-all practice used to allocate most states' electoral votes, creates the potential for an absurd outcome.'",
-				"The presidency could be won with just 22 percent of the electorate's support, only 16 percent of the entire population's."
+				"'While each of Florida's 27 electoral delegates represents almost 480,000 eligible voters,\n each of the three delegates from Wyoming represents only 135,000 eligible voters.'",
+				"'That makes a voter casting a presidential ballot in Wyoming three and a half times more\n influential than a voter in Florida.'",
+				"'This system, along with the winner-take-all practice used to allocate most states'\n electoral votes, creates the potential for an absurd outcome.'",
+				"The presidency could be won with just 22 percent of the electorate's support, only 16 percent\n of the entire population's."
 			],
-			"answer": "This system, along with the winner-take-all practice used to allocate most states' electoral votes, creates the potential for an absurd outcome."
+			"answer": "'This system, along with the winner-take-all practice used to allocate most states'\n electoral votes, creates the potential for an absurd outcome.'"
 		},
 		{
 			"number": 8,

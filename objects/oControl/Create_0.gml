@@ -1,4 +1,16 @@
-/* CAMERA */
+/* VERSION CONTROL */
+ini_open("version.ini")
+var version = ini_read_string("version", "number", "0")
+if version != GM_version {
+	ini_write_string("version", "number", GM_version)
+	updateVersion = true
+}
+else {
+	updateVersion = false
+}
+ini_close()
+	
+/* CAMERA VIEW */
 init_camera()
 
 /* GAME */
@@ -56,6 +68,9 @@ questionTextWidth = 0;
 
 // centering of the answers
 answersOffsetX = 0;
+
+//subject scores filter
+subjectFilter = scoreFilter.every
 
 // ui state control
 uiState = uiLayout.main

@@ -35,7 +35,7 @@
 		},
 		{
 			"number": 4,
-			"question": "The United States is in the Northern Hemisphere. Which statement(s) about the Southern Hemisphere is true? \nI. It is always warm in the Southern Hemisphere. \nII. When it's summer in the Northern Hemisphere, it is winter in the Southern Hemisphere. III. In the Southern Hemisphere, the sun sets in the east. \nIV. When it's winter in the Northern Hemisphere, it is summer in the SouthernHemisphere.",
+			"question": "The United States is in the Northern Hemisphere.\n\n Which statement(s) about the Southern Hemisphere is true? \n\nI. It is always warm in the Southern Hemisphere. \nII. When it's summer in the Northern Hemisphere, it is winter in the Southern Hemisphere. III. In the Southern Hemisphere, the sun sets in the east. \nIV. When it's winter in the Northern Hemisphere, it is summer in the SouthernHemisphere.",
 			"graphic": "noone",
 			"answers": [
 				"statement I only",
@@ -74,8 +74,8 @@
 		},
 		{
 			"number": 7,
-			"question": "According to scientists, the sun has existed for 4.6 billion years. The sun produces energy by a nuclear conversion of hydrogen into helium. When hydrogen runs out, according to this theory, the sun will expand, engulfing Earth and other planets. Not to worry-the expansion will not affect us, since the sun has enough hydrogen for another 4.6 billion years. When it expands, the sun will become what is called a red giant star. In another 500 million years, the sun will shrink to the current size of the Earth and will be called a white dwarf, cooling down for several billion years. \nAccording to the passage, the sun will eventually",
-			"graphic": "noone",
+			"question": "According to the passage, the sun will eventually",
+			"graphic": "Science_2_2",
 			"answers": [
 				"expand and then shrink.",
 				"shrink and then expand.",
@@ -87,8 +87,8 @@
 		},
 		{
 			"number": 8,
-			"question": "According to scientists, the sun has existed for 4.6 billion years. The sun produces energy by a nuclear conversion of hydrogen into helium. When hydrogen runs out, according to this theory, the sun will expand, engulfing Earth and other planets. Not to worry-the expansion will not affect us, since the sun has enough hydrogen for another 4.6 billion years. When it expands, the sun will become what is called a red giant star. In another 500 million years, the sun will shrink to the current size of the Earth and will be called a white dwarf, cooling down for several billion years. \nBased on this theory, the sun will, at some point, be a",
-			"graphic": "noone",
+			"question": "Based on this theory, the sun will, at some point, be a",
+			"graphic": "Science_2_2",
 			"answers": [
 				"blue star.",
 				"red dwarf star.",
@@ -114,14 +114,14 @@
 		{
 			"number": 10,
 			"question": "Determine how much water is in the graduated cylinder drawn below by reading the bottom of the meniscus (surface of water).",
-			"graphic": "Science_2_2",
+			"graphic": "Science_2_3",
 			"answers": ["3.0ml", "5.5ml", "6.5ml", "7.5ml", "10.0ml"],
 			"answer": "7.5ml"
 		},
 		{
 			"number": 11,
-			"question": "In addition to magnifying the image of an object, a microscope inverts the image left to right. The image of the object observed through the microscope is also upside down. Looking through the eyepiece, you would therefore see the upside-down mirror image of the object under the microscope lens. What would the object below look like if observed through the microscope?",
-			"graphic": "Science_2_3",
+			"question": "In addition to magnifying the image of an object, a microscope inverts the image left to right. The image of the object observed through the microscope is also upside down. Looking through the eyepiece, you would therefore see the upside-down mirror image of the object under the microscope lens.\n\n What would the object below look like if observed through the microscope?",
+			"graphic": "Science_2_4",
 			"answers": ["A", "B", "C", "D", "E"],
 			"answer": "B"
 		},
@@ -140,7 +140,7 @@
 		},
 		{
 			"number": 13,
-			"question": "Here are a few experimental observations and known facts:\nI. A scummy substance often forms in solutions of an amino acid in water. \nII. When the water is purified and exposed to UV radiation, the scummy substance does not form in the amino acid solution. \nIII. UV radiation kills bacteria. \nWhat would be a valid hypothesis based on I, II and III?",
+			"question": "Here are a few experimental observations and known facts:\n\nI. A scummy substance often forms in solutions of an amino acid in water. \nII. When the water is purified and exposed to UV radiation, the scummy substance does not form in the amino acid solution. \nIII. UV radiation kills bacteria. \n\nWhat would be a valid hypothesis based on I, II and III?",
 			"graphic": "noone",
 			"answers": [
 				"The scummy substance is a form of the amino acid.",
@@ -153,8 +153,8 @@
 		},
 		{
 			"number": 14,
-			"question": "Hypertension, or high blood pressure, is a condition that can lead to heart attack and stroke. A scientist graphed the following data collected from a study on hypertension. What is a logical conclusion based on the data?",
-			"graphic": "Science_2_4",
+			"question": "Hypertension, or high blood pressure, is a condition that can lead to heart attack and stroke. A scientist graphed the following data collected from a study on hypertension. \n\nWhat is a logical conclusion based on the data?",
+			"graphic": "Science_2_5",
 			"answers": [
 				"The prevalence of hypertension is higher than average in the 35-44 age group.",
 				"The prevalence of hypertension is highest in the 45-54 age group.",
@@ -167,7 +167,7 @@
 		{
 			"number": 15,
 			"question": "The following pie chart illustrates the relative productivity (new plant material produced in one year) of different biomes. Based on the chart, which biome has the largest effect on the overall productivity?",
-			"graphic": "Science_2_5",
+			"graphic": "Science_2_6",
 			"answers": [
 				"chaparral",
 				"savanna",
@@ -179,8 +179,8 @@
 		},
 		{
 			"number": 16,
-			"question": "Which trophic level suffered the greatest net loss (number of species) in diversity sfter pesticide use?",
-			"graphic": "Science_2_6",
+			"question": "Which trophic level suffered the greatest net loss (number of species) in diversity after pesticide use?",
+			"graphic": "Science_2_7",
 			"answers": [
 				"herbivores",
 				"scavengers",
@@ -219,7 +219,7 @@
 		{
 			"number": 19,
 			"question": "The following graph shows how the concentration (amount per unit volume) changes with time. What information can be obtained from the data?",
-			"graphic": "Science_2_7",
+			"graphic": "Science_2_8",
 			"answers": [
 				"The amount of reactant does not change with time.",
 				"The amount of product is decreasing.",
@@ -231,8 +231,8 @@
 		},
 		{
 			"number": 20,
-			"question": "Based on perturbations in Neptune's orbit, the search for a ninth planet was conducted and Pluto was discovered in 1930. Pluto orbits the sun just like the other eight planets, and it has a moon, Charon, and a stable orbit. Based on its distance from the sun, Pluto should be grouped with the planets known as gas giants. In addition, Pluto, like the planet Mercury, has little or no atmosphere. Pluto is definitely not a comet because it does not have a tail like a comet when it is near the sun. Pluto is also not an asteroid, although its density is closer to an asteroid than to any of the other planets. Pluto is a planet because it has been classified as one for more than sixty years since its discovery. \nWhich argument supporting the classification of Pluto as a planet is the weakest?",
-			"graphic": "noone",
+			"question": "Which argument supporting the classification of Pluto as a planet is the weakest?",
+			"graphic": "Science_2_9",
 			"answers": [
 				"Pluto orbits the sun just like the other eight planets.",
 				"Pluto has a moon.",
@@ -244,8 +244,8 @@
 		},
 		{
 			"number": 21,
-			"question": "Based on perturbations in Neptune's orbit, the search for a ninth planet was conducted and Pluto was discovered in 1930. Pluto orbits the sun just like the other eight planets, and it has a moon, Charon, and a stable orbit. Based on its distance from the sun, Pluto should be grouped with the planets known as gas giants. In addition, Pluto, like the planet Mercury, has little or no atmosphere. Pluto is definitely not a comet because it does not have a tail like a comet when it is near the sun. Pluto is also not an asteroid, although its density is closer to an asteroid than to any of the other planets. Pluto is a planet because it has been classified as one for more than sixty years since its discovery. \nWhich one of the following statements is NOT backed with an explanation?",
-			"graphic": "noone",
+			"question": "Which one of the following statements is NOT backed with an explanation?",
+			"graphic": "Science_2_9",
 			"answers": [
 				"Pluto is like a planet.",
 				"Pluto should be grouped with planets known as gas giants.",
@@ -258,7 +258,7 @@
 		{
 			"number": 22,
 			"question": "The instrument shown in this picture can be used to study",
-			"graphic": "Science_2_8",
+			"graphic": "Science_2_10",
 			"answers": [
 				"cell organelles.",
 				"the flight pattern of birds.",
@@ -270,7 +270,7 @@
 		},
 		{
 			"number": 23,
-			"question": "A large surface area results in a high rate of cooling. This is why we tend to curl up when we sleep in a cold room and spread our limbs out when we sleep in a very hot room. Which of the following is an example where this principle is used in technology?",
+			"question": "A large surface area results in a high rate of cooling. This is why we tend to curl up when we sleep in a cold room and spread our limbs out when we sleep in a very hot room.\n\n Which of the following is an example where this principle is used in technology?",
 			"graphic": "noone",
 			"answers": [
 				"Refrigerators can be used to cool containers of milk with large surface areas.",
@@ -297,7 +297,7 @@
 		{
 			"number": 25,
 			"question": "This instrument is used to",
-			"graphic": "Science_2_9",
+			"graphic": "Science_2_11",
 			"answers": [
 				"determine the direction of the wind.",
 				"determine the directions of the world.",
@@ -310,7 +310,7 @@
 		{
 			"number": 26,
 			"question": "This instrument works because",
-			"graphic": "Science_2_9",
+			"graphic": "Science_2_11",
 			"answers": [
 				"it has an internal clock.",
 				"the needle points to the direction of minimum pressure.",
@@ -322,8 +322,8 @@
 		},
 		{
 			"number": 27,
-			"question": "Radiation from radioisotopes can be used to kill cancer cells. Chemist Marie Curie received two Nobel Prizes for her work with radioisotopes. Her work led to the discovery of the neutron and synthesis of artificial radioactive elements. She died of leukemia at 67, caused by extensive exposure to radiation. Curie never believed that radium and other materials she worked with were a health hazard. In World War I, glowing radium was used on watch dials to help soldiers read their watches in the dark and to synchronize their attacks. Unfortunately, women who worked in factories were drawing their radium stained brushes to fine points by putting them between their lips. As a result, their teeth would glow in the dark. But this was an amusement for children more than a cause of worry. About ten years later, the women developed cancer in their jaws and mouths and had problems making blood cells. This exposed the dangers of radiation. \nBased on the information in the passage, which statement about radioisotopes is false?",
-			"graphic": "noone",
+			"question": "Based on the information in the passage, which statement about radioisotopes is false?",
+			"graphic": "Science_2_12",
 			"answers": [
 				"Radioisotopes can kill cancer cells.",
 				"Radioisotopes can cause cancer.",
@@ -335,8 +335,8 @@
 		},
 		{
 			"number": 28,
-			"question": "In the past, people thought that the Earth was flat and that a ship that sailed too far would fall off the edge of the world. The Earth appears flat because the Earth is too large for humans on Earth to see its curvature. Several events helped shed the misconceptions. For one, during a lunar eclipse, the Earth is positioned between the sun and the moon. It eclipses the moon by casting a shadow on it. The shadow the Earth casts is round. When Magellan circumnavigated the Earth, he proved that one could not fall off the edge of the Earth, because the Earth was round and had no edges. Finally, space missions provided us with images of our round Earth from far away and showed us how beautiful our planet looks, even from a distance. \nWith which misconception about the Earth is the passage concerned?",
-			"graphic": "noone",
+			"question": "With which misconception about the Earth is the passage concerned?",
+			"graphic": "Science_2_13",
 			"answers": [
 				"That the Earth turned.",
 				"That the Earth was in the center of the solar system.",
@@ -348,8 +348,8 @@
 		},
 		{
 			"number": 29,
-			"question": "Minerals are an important component of the human diet. Some minerals are needed in relatively large amounts. These include calcium, phosphorus, potassium, sulfur, chlorine, and magnesium. Others, including iron, manganese, and iodine, are needed in smaller amounts. Humans need 26 minerals all together, but some of them are only required in tiny amounts. Some minerals, such as lead and selenium, are harmful in large quantities. Dietary supplements can decrease the chance of mineral deficiencies listed in the table below, but should be taken with great care, since overdose can lead to poisoning. \nTaking several iron supplements per day can",
-			"graphic": "noone",
+			"question": "Taking several iron supplements per day can",
+			"graphic": "Science_2_14",
 			"answers": [
 				"decrease the chance of bone loss.",
 				"make you stronger.",
@@ -362,14 +362,14 @@
 		{
 			"number": 30,
 			"question": "Which of the minerals listed in the table are you most likely lacking if you experience irregular heartbeat?",
-			"graphic": "Science_2_10",
+			"graphic": "Science_2_15",
 			"answers": ["sodium", "potassium", "calcium", "phosphorous", "magnesium"],
 			"answer": "potassium"
 		},
 		{
 			"number": 31,
 			"question": "Which two minerals are necessary for formation of healthy bones and teeth?",
-			"graphic": "Science_2_10",
+			"graphic": "Science_2_15",
 			"answers": [
 				"calcium and magnesium",
 				"calcium and phosphorous",
@@ -420,7 +420,7 @@
 		},
 		{
 			"number": 35,
-			"question": "The boiling point of water decreases with increasing pressure. At high altitudes, the atmospheric pressure is lower than at sea level. Where would you expect to find the highest boiling point temperature of water?",
+			"question": "The boiling point of water decreases with increasing pressure. At high altitudes, the atmospheric pressure is lower than at sea level.\n\n Where would you expect to find the highest boiling point temperature of water?",
 			"graphic": "noone",
 			"answers": [
 				"In the Grand Canyon Valley.",

@@ -108,12 +108,12 @@
 			"question": "Which one of the following statements from the excerpt expresses a bias on the part of the authors?",
 			"graphic": "Social_Quiz_4_6",
 			"answers": [
-				"'Early in his administration, the president took steps to ease restrictions on Cuban-American visits and remittances that opened new pathways \nfor family reunification—and later expanded this to include religious, academic and cultural exchanges for all Americans.'",
-				"'Last week's decision builds boldly on those initial measures and will increase communications, commerce and travel between our two countries.'",
-				"'The State Department will lead discussions to restore regular diplomatic relations with Cuba for the first time since 1961 and re-establish an \nembassy in Havana.'",
-				"'In our bilateral discussions, the United States will seek to advance cooperation on issues of mutual interest, including counter-narcotics, \nmigration, combating trafficking-in-persons, the Ebola crisis and shared environmental challenges.'"
+				"'Early in his administration, the president took steps to ease restrictions on Cuban-American visits and remittances\n that opened new pathways for family reunification - and later expanded this to include religious, academic and cultural\n exchanges for all Americans.'",
+				"'Last week's decision builds boldly on those initial measures and will increase communications, commerce and travel\n between our two countries.'",
+				"'The State Department will lead discussions to restore regular diplomatic relations with Cuba for the first time since\n 1961 and re-establish an embassy in Havana.'",
+				"'In our bilateral discussions, the United States will seek to advance cooperation on issues of mutual interest, including\n counter-narcotics, migration, combating trafficking-in-persons, the Ebola crisis and shared environmental challenges.'"
 			],
-			"answer": "'Last week's decision builds boldly on those initial measures and will increase communications, commerce and travel between our two countries.'"
+			"answer": "'Last week's decision builds boldly on those initial measures and will increase communications, commerce and travel\n between our two countries.'"
 		}
 	]
 }

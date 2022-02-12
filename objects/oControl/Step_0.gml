@@ -70,6 +70,9 @@ switch uiState {
 				with oButtonUI {
 					y -= oControl.scrollSpeed
 				}
+				with oButtonFilter {
+					y -= oControl.scrollSpeed
+				}
 			}
 	
 		}
@@ -78,6 +81,9 @@ switch uiState {
 				cameraY -= (scrollSpeed * 4)
 				camera_set_view_pos(camera, 0, cameraY)
 				with oButtonUI {
+					y -= (oControl.scrollSpeed * 4)
+				}
+				with oButtonFilter {
 					y -= (oControl.scrollSpeed * 4)
 				}
 			}
@@ -90,6 +96,9 @@ switch uiState {
 				with oButtonUI {
 					y += oControl.scrollSpeed
 				}
+				with oButtonFilter {
+					y += oControl.scrollSpeed
+				}
 			}
 			
 		}
@@ -98,6 +107,9 @@ switch uiState {
 				cameraY += (scrollSpeed * 4)
 				camera_set_view_pos(camera, 0, cameraY)
 				with oButtonUI {
+					y += (oControl.scrollSpeed * 4)
+				}
+				with oButtonFilter {
 					y += (oControl.scrollSpeed * 4)
 				}
 			}

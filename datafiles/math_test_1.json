@@ -2,14 +2,14 @@
 	"test": [
 		{
 			"number": 1,
-			"question": "Danny worked 40 hours and earned $6.30 per hour. His friend Erica earned $8.40 per hour at her job. How many hours would Erica have to work in order to equal Danny's earnings for 40 hours?",
+			"question": "Danny worked 40 hours and earned $6.30 per hour. His friend Erica earned $8.40 per hour at her job.\n\n How many hours would Erica have to work in order to equal Danny's earnings for 40 hours?",
 			"graphic": "noone",
 			"answers": ["20", "50", "30", "258", "Not enough information is given."],
 			"answer": "30"
 		},
 		{
 			"number": 2,
-			"question": "If the measure of CAD = 40, what is the measure of DCB?",
+			"question": "If the measure of angle CAD = 40, what is the measure of angle DCB?",
 			"graphic": "Math_1_1",
 			"answers": ["10", "20", "40", "60", "90"],
 			"answer": "40"
@@ -23,7 +23,7 @@
 		},
 		{
 			"number": 4,
-			"question": "The gauge on a water tank shows that the tank is 1/3 full of water. In order to fill the tank, 16 gallons of water are added. How many gallons of water does the tank hold when full?",
+			"question": "The gauge on a water tank shows that the tank is 1/3 full of water. In order to fill the tank, 16 gallons of water are added.\n\n How many gallons of water does the tank hold when full?",
 			"graphic": "noone",
 			"answers": ["20", "24", "28", "32", "42"],
 			"answer": "24"
@@ -44,35 +44,35 @@
 		},
 		{
 			"number": 7,
-			"question": "Given the equation x^2 + x - 6 = 0, which of the following give(s) a complete solution of the equation?",
-			"graphic": "noone",
+			"question": "Which of the following give(s) a complete solution of the equation?",
+			"graphic": "Math_1_3",
 			"answers": ["2", "2 and -3", "-2 and 3", "2 and 3", "3 and -3"],
 			"answer": "2 and -3"
 		},
 		{
 			"number": 8,
 			"question": "What is the perimeter of the figure?",
-			"graphic": "Math_1_3",
+			"graphic": "Math_1_4",
 			"answers": ["6a + b", "5a + 5b", "6a + 4b", "3a + b", "3a +5b"],
 			"answer": "6a + 4b"
 		},
 		{
 			"number": 9,
 			"question": "A rectangular dining room has a floor area of 322 square feet. If the length of the room is 23 feet, what is the perimeter?",
-			"graphic": "Math_1_4",
+			"graphic": "Math_1_5",
 			"answers": ["28 feet", "38 feet", "48 feet", "58 feet", "74 feet"],
 			"answer": "74 feet"
 		},
 		{
 			"number": 10,
 			"question": "What is the perimeter of the figure?",
-			"graphic": "Math_1_5",
+			"graphic": "Math_1_6",
 			"answers": ["11x + 5y", "10x + 5y", "11x + 4y", "9x - y", "8x + 3y"],
 			"answer": "11x + 5y"
 		},
 		{
 			"number": 11,
-			"question": "Henry has $5 more than Oliver, and the same amount of money as Murray. Together, they have $85. How much money does Oliver have?",
+			"question": "Henry has $5 more than Oliver, and the same amount of money as Murray. Together, they have $85.\n\n How much money does Oliver have?",
 			"graphic": "noone",
 			"answers": ["$10", "$20", "$25", "$45", "$55"],
 			"answer": "$25"
@@ -80,13 +80,13 @@
 		{
 			"number": 12,
 			"question": "How much tax is due on a taxable income of $5,800?",
-			"graphic": "Math_1_6",
+			"graphic": "Math_1_7",
 			"answers": ["$120", "$130", "$165", "$175", "$220"],
 			"answer": "$165"
 		},
 		{
 			"number": 13,
-			"question": "A bed and breakfast charges $48.00 per day for a double room. In addition, there is 5% tax. How much does a couple pay for several days stay?",
+			"question": "A bed and breakfast charges $48.00 per day for a double room. In addition, there is 5% tax.\n\n How much does a couple pay for several days stay?",
 			"graphic": "noone",
 			"answers": [
 				"$144.20",
@@ -99,28 +99,28 @@
 		},
 		{
 			"number": 14,
-			"question": "If AC is perpendicular to CB and CBD = 125°, then A equals",
+			"question": "If AC is perpendicular to CB and angle CBD = 125 degrees, then A equals",
 			"graphic": "noone",
 			"answers": ["15", "25", "35", "45", "Not enough information is given."],
 			"answer": "35"
 		},
 		{
 			"number": 15,
-			"question": "If the square of a number is added to the number increased by 4, the result is 60. If n represents the number, which equation can be used to find n?",
+			"question": "A plastic pipe, 5 feet 9 inches long, is cut into three equal pieces. Assuming no waste when the cuts are made, what is the length of each piece?",
 			"graphic": "noone",
 			"answers": [
-				"n^2 + 4 = 60",
-				"n^2 + 4n = 60",
-				"n^2 + n + 4 = 60",
-				"n^2 + 60 = 4n + 4",
-				"n^2 + n = 64"
+				"1 foot 6 inches",
+				"1 foot 8 inches",
+				"1 foot 9 inches",
+				"1 foot 11 inches",
+				"2 feet"
 			],
-			"answer": "n^2 + n + 4 = 60"
+			"answer": "1 foot 11 inches"
 		},
 		{
 			"number": 16,
 			"question": "By how many dollars do the sales in the meat department exceed the sales in the dairy department?",
-			"graphic": "Math_1_7",
+			"graphic": "Math_1_8",
 			"answers": ["$100", "$1,000", "$1,500", "$1,800", "$10,000"],
 			"answer": "$1,000"
 		},
@@ -139,15 +139,15 @@
 		},
 		{
 			"number": 18,
-			"question": "The measures of the angles of a triangle are in the ratio 3:2:1. What is the measure of the largest angle of the triangle?",
-			"graphic": "Math_1_8",
+			"question": "The measures of the angles of a triangle are in the ratio 3:2:1.\n\n What is the measure of the largest angle of the triangle?",
+			"graphic": "Math_1_9",
 			"answers": ["65", "70", "72", "80", "90"],
 			"answer": "90"
 		},
 		{
 			"number": 19,
 			"question": "If 1 = 36 and 2 = 2(3), then 3 equals",
-			"graphic": "Math_1_9",
+			"graphic": "Math_1_10",
 			"answers": ["36", "48", "55", "58", "68"],
 			"answer": "48"
 		},
@@ -161,27 +161,21 @@
 		{
 			"number": 21,
 			"question": "How many dollars were spent for labor?",
-			"graphic": "Math_1_10",
+			"graphic": "Math_1_11",
 			"answers": ["$4,800", "$9,600", "$48,000", "$96,000", "$960,000"],
 			"answer": "$96,000"
 		},
 		{
 			"number": 22,
-			"question": "The distance between two heavenly bodies is 63,150,000,000 miles. What is the number expressed in scientific notation?",
+			"question": "A bag contains 12 red, 3 blue, 6 green, and 4 yellow marbles. If a marble is drawn from the bag at random, what is the probability that the marble will be either blue or yellow?",
 			"graphic": "noone",
-			"answers": [
-				"631.5 x 10^8",
-				"63.15 x 10^9",
-				"6315 x 10^7",
-				"6.315 x 10^10",
-				"6.315 x 10^-10"
-			],
-			"answer": "6.315 x 10^10"
+			"answers": ["7%", "12%", "16%", "25%", "28%"],
+			"answer": "28%"
 		},
 		{
 			"number": 23,
 			"question": "What is the slope of the line passing through points A (5,4) and B (0,3)?",
-			"graphic": "Math_1_11",
+			"graphic": "Math_1_12",
 			"answers": ["1/10", "1/5", "3/5", "4/5", "5"],
 			"answer": "1/5"
 		},
@@ -200,28 +194,28 @@
 		},
 		{
 			"number": 25,
-			"question": "To measure the distance (DC) across a pond, a surveyor takes points A and B so that AB is parallel to DC. If AB = 60 feet, EB= 48 feet, and ED= 80 feet, find DC.",
-			"graphic": "Math_1_12",
+			"question": "To measure the distance (DC) across a pond, a surveyor takes points A and B so that AB is parallel to DC.\n\n If AB = 60 feet, EB= 48 feet, and ED= 80 feet, find DC.",
+			"graphic": "Math_1_13",
 			"answers": ["72ft", "84ft", "96ft", "100ft", "200ft"],
 			"answer": "100ft"
 		},
 		{
 			"number": 26,
 			"question": "The graph shows what happens to each $100 taken in by a small business. How many dollars out of each $100 taken in represent profit?",
-			"graphic": "Math_1_13",
+			"graphic": "Math_1_14",
 			"answers": ["$8", "$9.5", "$10", "$15", "$51"],
 			"answer": "$8"
 		},
 		{
 			"number": 27,
-			"question": "Nick scored 7 more points than Josh in a basketball game. Paul scored 2 points less than Josh in the same game. If the three boys scored a total of 38 points, how many points did Josh score?",
+			"question": "Nick scored 7 more points than Josh in a basketball game. Paul scored 2 points less than Josh in the same game.\n\n If the three boys scored a total of 38 points, how many points did Josh score?",
 			"graphic": "noone",
 			"answers": ["5", "11", "17", "21", "27"],
 			"answer": "11"
 		},
 		{
 			"number": 28,
-			"question": "A box in the form of a rectangle solid has a square base 5 feet in length and a height of h feet. If the volume of the rectangular solid is 200 cubic feet, which of the following equations may be used to find h?",
+			"question": "A box in the form of a rectangle solid has a square base 5 feet in length and a height of h feet.\n\n If the volume of the rectangular solid is 200 cubic feet, which of the following equations may be used to find h?",
 			"graphic": "noone",
 			"answers": [
 				"5h = 200",
@@ -235,14 +229,14 @@
 		{
 			"number": 29,
 			"question": "Which point on the number line represents the closest approximation to the square root of 12?",
-			"graphic": "Math_1_14",
+			"graphic": "Math_1_15",
 			"answers": ["A", "B", "C", "D", "E"],
 			"answer": "D"
 		},
 		{
 			"number": 30,
 			"question": "The diagram represents a large living room. What is the area, in square yards, of the room?",
-			"graphic": "noone",
+			"graphic": "Math_1_16",
 			"answers": ["16.6", "33.3", "40", "50", "210"],
 			"answer": "50"
 		}

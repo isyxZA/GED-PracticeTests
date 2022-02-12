@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 216,
+  "bbox_right": 335,
   "bbox_top": 0,
-  "bbox_bottom": 323,
+  "bbox_bottom": 325,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 217,
-  "height": 324,
+  "width": 336,
+  "height": 326,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c08f89ec-4d3c-4472-8282-517102066de2","path":"sprites/sMath_1_12/sMath_1_12.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c08f89ec-4d3c-4472-8282-517102066de2","path":"sprites/sMath_1_12/sMath_1_12.yy",},"LayerId":{"name":"473c6aa2-b957-42d0-b535-40e1915f2a00","path":"sprites/sMath_1_12/sMath_1_12.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sMath_1_12","path":"sprites/sMath_1_12/sMath_1_12.yy",},"resourceVersion":"1.0","name":"c08f89ec-4d3c-4472-8282-517102066de2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7e664b91-c1f5-4643-8de5-8ec06ac28854","path":"sprites/sMath_1_12/sMath_1_12.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7e664b91-c1f5-4643-8de5-8ec06ac28854","path":"sprites/sMath_1_12/sMath_1_12.yy",},"LayerId":{"name":"5d1cca6a-96c2-40d3-ba85-9623dffb5aa6","path":"sprites/sMath_1_12/sMath_1_12.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sMath_1_12","path":"sprites/sMath_1_12/sMath_1_12.yy",},"resourceVersion":"1.0","name":"7e664b91-c1f5-4643-8de5-8ec06ac28854","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sMath_1_12","path":"sprites/sMath_1_12/sMath_1_12.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a8c4e2c7-dbbf-466b-b5f1-ec9fde3a9037","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c08f89ec-4d3c-4472-8282-517102066de2","path":"sprites/sMath_1_12/sMath_1_12.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1c059b2a-ed8d-4b85-81fa-aabb50e08732","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7e664b91-c1f5-4643-8de5-8ec06ac28854","path":"sprites/sMath_1_12/sMath_1_12.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -54,7 +54,7 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 108,
+    "xorigin": 168,
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"473c6aa2-b957-42d0-b535-40e1915f2a00","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5d1cca6a-96c2-40d3-ba85-9623dffb5aa6","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

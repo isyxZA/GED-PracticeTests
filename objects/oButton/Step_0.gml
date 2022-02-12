@@ -54,6 +54,7 @@ if global.canClick {
 				case "Scores":
 					global.canClick = false
 					with oControl {
+						subjectFilter = scoreFilter.every
 						load_ui(uiLayout.userscores)
 						uiState = uiLayout.userscores
 					}
@@ -62,7 +63,7 @@ if global.canClick {
                     global.canClick = false
 					with oControl {
 						clear_test()
-						currentTest = "Science 1"
+						currentTest = "Science Test 1"
 						currentQuestionIndex = 0
 						currentQuestionText = ""
 						currentQuestionGraphic = noone
@@ -78,7 +79,7 @@ if global.canClick {
                     global.canClick = false
 					with oControl {
 						clear_test()
-						currentTest = "Science 2"
+						currentTest = "Science Test 2"
 						currentQuestionIndex = 0
 						currentQuestionText = ""
 						currentQuestionGraphic = noone
@@ -158,7 +159,7 @@ if global.canClick {
                     global.canClick = false
 					with oControl {
 						clear_test()
-						currentTest = "Math 1"
+						currentTest = "Math Test 1"
 						currentQuestionIndex = 0
 						currentQuestionText = ""
 						currentQuestionGraphic = noone
@@ -174,7 +175,71 @@ if global.canClick {
                     global.canClick = false
 					with oControl {
 						clear_test()
-						currentTest = "Math 2"
+						currentTest = "Math Test 2"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Math Quiz 1":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Math Quiz 1"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Math Quiz 2":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Math Quiz 2"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Math Quiz 3":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Math Quiz 3"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Math Quiz 4":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Math Quiz 4"
 						currentQuestionIndex = 0
 						currentQuestionText = ""
 						currentQuestionGraphic = noone
@@ -218,7 +283,7 @@ if global.canClick {
 						}
 					}
                     break
-				case "Social Studies 1":
+				case "Social Studies Test 1":
                     global.canClick = false
 					with oControl {
 						clear_test()
@@ -234,11 +299,75 @@ if global.canClick {
 						}
 					}
                     break
-				case "Social Studies 2":
+				case "Social Studies Test 2":
                     global.canClick = false
 					with oControl {
 						clear_test()
 						currentTest = "Social Studies 2"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Social Studies Quiz 1":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Social Studies Quiz 1"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Social Studies Quiz 2":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Social Studies Quiz 2"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Social Studies Quiz 3":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Social Studies Quiz 3"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Social Studies Quiz 4":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Social Studies Quiz 4"
 						currentQuestionIndex = 0
 						currentQuestionText = ""
 						currentQuestionGraphic = noone
@@ -442,7 +571,7 @@ if global.canClick {
 						}
 					}
                     break
-				case "Back": // Back to main
+				case "Back": // Back to main from login
                     global.canClick = false
 					with oButtonLogin { instance_destroy() }
 					with oControl {

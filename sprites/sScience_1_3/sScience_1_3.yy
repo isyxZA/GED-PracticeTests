@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4c44df14-4810-4b7e-a5cc-65427120e75a","path":"sprites/sScience_1_3/sScience_1_3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4c44df14-4810-4b7e-a5cc-65427120e75a","path":"sprites/sScience_1_3/sScience_1_3.yy",},"LayerId":{"name":"7d9a3ead-ca42-49bc-9a76-0363b4e0e6ad","path":"sprites/sScience_1_3/sScience_1_3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sScience_1_3","path":"sprites/sScience_1_3/sScience_1_3.yy",},"resourceVersion":"1.0","name":"4c44df14-4810-4b7e-a5cc-65427120e75a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5e6e4935-5a23-4069-9df0-73d23383edd7","path":"sprites/sScience_1_3/sScience_1_3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5e6e4935-5a23-4069-9df0-73d23383edd7","path":"sprites/sScience_1_3/sScience_1_3.yy",},"LayerId":{"name":"4c5afe53-903b-436d-9ddb-1ccec4a74609","path":"sprites/sScience_1_3/sScience_1_3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sScience_1_3","path":"sprites/sScience_1_3/sScience_1_3.yy",},"resourceVersion":"1.0","name":"5e6e4935-5a23-4069-9df0-73d23383edd7","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sScience_1_3","path":"sprites/sScience_1_3/sScience_1_3.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"fad885f0-7a48-4ee2-95ad-7c961a0f1ead","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4c44df14-4810-4b7e-a5cc-65427120e75a","path":"sprites/sScience_1_3/sScience_1_3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a249df10-3baa-4e02-b04c-f5aaca41f673","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5e6e4935-5a23-4069-9df0-73d23383edd7","path":"sprites/sScience_1_3/sScience_1_3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7d9a3ead-ca42-49bc-9a76-0363b4e0e6ad","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4c5afe53-903b-436d-9ddb-1ccec4a74609","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

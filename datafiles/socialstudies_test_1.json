@@ -15,7 +15,7 @@
 		},
 		{
 			"number": 2,
-			"question": "The Earth is divided into 24 time zones. The Earth rotates 15 degrees in one hour, so each time zone equals 15 degrees of latitude. The map illustrates the four time zones across the continental United States. \nAccording to the map, what time is it in Dallas when it is noon in Sacramento?",
+			"question": "The Earth is divided into 24 time zones. The Earth rotates 15 degrees in one hour, so each time zone equals 15 degrees of latitude. The map illustrates the four time zones across the continental United States. \n\nAccording to the map, what time is it in Dallas when it is noon in Sacramento?",
 			"graphic": "Social_1_2",
 			"answers": [
 				"2:00 P.M.",
@@ -28,7 +28,7 @@
 		},
 		{
 			"number": 3,
-			"question": "The Earth is divided into 24 time zones. The Earth rotates 15 degrees in one hour, so each time zone equals 15 degrees of latitude. The map illustrates the four time zones across the continental United States. \nWhat time is it in Sacramento, CA, when it is midnight in Tampa, FL?",
+			"question": "The Earth is divided into 24 time zones. The Earth rotates 15 degrees in one hour, so each time zone equals 15 degrees of latitude. The map illustrates the four time zones across the continental United States. \n\nWhat time is it in Sacramento, CA, when it is midnight in Tampa, FL?",
 			"graphic": "Social_1_2",
 			"answers": [
 				"1:00 A.M.",
@@ -41,7 +41,7 @@
 		},
 		{
 			"number": 4,
-			"question": "The Earth is divided into 24 time zones. The Earth rotates 15 degrees in one hour, so each time zone equals 15 degrees of latitude. The map illustrates the four time zones across the continental United States. \nAs a traveler moves west, she can expect to",
+			"question": "The Earth is divided into 24 time zones. The Earth rotates 15 degrees in one hour, so each time zone equals 15 degrees of latitude. The map illustrates the four time zones across the continental United States. \n\nAs a traveler moves west, she can expect to",
 			"graphic": "Social_1_2",
 			"answers": [
 				"change time zones.",
@@ -54,7 +54,7 @@
 		},
 		{
 			"number": 5,
-			"question": "The Earth is divided into 24 time zones. The Earth rotates 15 degrees in one hour, so each time zone equals 15 degrees of latitude. The map illustrates the four time zones across the continental United States. \nIn past presidential elections, television networks have made predictions about which candidate is likely to win before the polls closed throughout all of the nation's time zones. Which of the following statements explains why this would anger some voters?",
+			"question": "The Earth is divided into 24 time zones. The Earth rotates 15 degrees in one hour, so each time zone equals 15 degrees of latitude. The map illustrates the four time zones across the continental United States. \n\nIn past presidential elections, television networks have made predictions about which candidate is likely to win before the polls closed throughout all of the nation's time zones. \n\nWhich of the following statements explains why this would anger some voters?",
 			"graphic": "Social_1_2",
 			"answers": [
 				"The polls close later in New York than in Chicago.",
@@ -80,7 +80,7 @@
 		},
 		{
 			"number": 7,
-			"question": "The world population growth rate dropped one percentage point between the mid-1950s and 1960. Which of the following best explains this occurrence?",
+			"question": "The world population growth rate dropped one percentage point between the mid-1950s and 1960. \n\nWhich of the following best explains this occurrence?",
 			"graphic": "Social_1_3",
 			"answers": [
 				"There were more births and fewer deaths in the mid-1950s than there were in 1960.",
@@ -106,8 +106,8 @@
 		},
 		{
 			"number": 9,
-			"question": "Even though acid rain looks, feels, and even tastes like clean rainwater, it contains high levels of pollutants. Scientists believe car exhaust and smoke from factories and power plants are the main causes of acid rain, but natural sources like gases from forest fires and volcanoes may also contribute to the problem. Pollutants mix in the atmosphere to form fine particles that can be carried long distances by wind. Eventually, they return to the ground in the form of rain, snow, fog, or other precipitation. Acid rain damages trees and causes the acidification of lakes and streams, contaminating drinking water and damaging aquatic life. It erodes buildings, paint, and monuments. It can also affect human health. Although acid rain does not directly harm people, high levels of the fine particles in acid rain are linked to increased risk for asthma and bronchitis. Since the 1950s, the increase of acid rain has become a problem in the northeastern United States, Canada, and western Europe. \nWhich of the following natural resources is least likely to be affected by acid rain?",
-			"graphic": "noone",
+			"question": "Which of the following natural resources is least likely to be affected by acid rain?",
+			"graphic": "Social_1_4",
 			"answers": [
 				"animal life",
 				"plant life",
@@ -119,8 +119,8 @@
 		},
 		{
 			"number": 10,
-			"question": "Even though acid rain looks, feels, and even tastes like clean rainwater, it contains high levels of pollutants. Scientists believe car exhaust and smoke from factories and power plants are the main causes of acid rain, but natural sources like gases from forest fires and volcanoes may also contribute to the problem. Pollutants mix in the atmosphere to form fine particles that can be carried long distances by wind. Eventually, they return to the ground in the form of rain, snow, fog, or other precipitation. Acid rain damages trees and causes the acidification of lakes and streams, contaminating drinking water and damaging aquatic life. It erodes buildings, paint, and monuments. It can also affect human health. Although acid rain does not directly harm people, high levels of the fine particles in acid rain are linked to increased risk for asthma and bronchitis. Since the 1950s, the increase of acid rain has become a problem in the northeastern United States, Canada, and western Europe. \nWhich of the following is NOT a cause of acid rain?",
-			"graphic": "noone",
+			"question": "Which of the following is NOT a cause of acid rain?",
+			"graphic": "Social_1_4",
 			"answers": [
 				"human activity",
 				"natural phenomena",
@@ -133,7 +133,7 @@
 		{
 			"number": 11,
 			"question": "Which of the following is NOT a purpose of this form?",
-			"graphic": "Social_1_4",
+			"graphic": "Social_1_5",
 			"answers": [
 				"Notifying the government that you have changed your name.",
 				"Registering with a political party.",
@@ -146,7 +146,7 @@
 		{
 			"number": 12,
 			"question": "Which of the following expresses a fact rather than an opinion?",
-			"graphic": "Social_1_4",
+			"graphic": "noone",
 			"answers": [
 				"States have different requirements about who is eligible to vote.",
 				"The voting age should be changed from 18 to 21 years of age.",
@@ -158,8 +158,8 @@
 		},
 		{
 			"number": 13,
-			"question": "The electoral college is a group of electors who choose the president and vice president. Each state is allowed the same number of electors as its total number of U.S. senators and representatives-so each state has at least three electors. In most states, the candidate who wins the most popular votes earns that state's electoral votes. \nBased on the information in the map, which of the following might be true of Kerry's campaign strategy?",
-			"graphic": "Social_1_5",
+			"question": "The electoral college is a group of electors who choose the president and vice president. Each state is allowed the same number of electors as its total number of U.S. senators and representatives-so each state has at least three electors. \n\nIn most states, the candidate who wins the most popular votes earns that state's electoral votes. \n\nBased on the information in the map, which of the following might be true of Kerry's campaign strategy?",
+			"graphic": "Social_1_6",
 			"answers": [
 				"It focused on winning the states in the southeast.",
 				"Kerry targeted his campaign efforts in his home state of Massachusetts.",
@@ -171,8 +171,8 @@
 		},
 		{
 			"number": 14,
-			"question": "The electoral college is a group of electors who choose the president and vice president. Each state is allowed the same number of electors as its total number of U.S. senators and representatives-so each state has at least three electors. In most states, the candidate who wins the most popular votes earns that state's electoral votes. \nWhich of the following is NOT a true statement?",
-			"graphic": "Social_1_5",
+			"question": "Which of the following is NOT a true statement?",
+			"graphic": "Social_1_6",
 			"answers": [
 				"George W. Bush won a larger number of states.",
 				"Kerry was popular in New England.",
@@ -184,8 +184,8 @@
 		},
 		{
 			"number": 15,
-			"question": "The electoral college is a group of electors who choose the president and vice president. Each state is allowed the same number of electors as its total number of U.S. senators and representatives-so each state has at least three electors. In most states, the candidate who wins the most popular votes earns that state's electoral votes. \nWhich of the following conclusions can you make from the information in the map?",
-			"graphic": "Social_1_5",
+			"question": "Which of the following conclusions can you make from the information in the map?",
+			"graphic": "Social_1_6",
 			"answers": [
 				"Women are more likely than men to vote for the Democratic Party.",
 				"Increasing numbers of Americans consider themselves political independents.",
@@ -197,8 +197,8 @@
 		},
 		{
 			"number": 16,
-			"question": "'Today, education is perhaps the most important function of state and local governments. Compulsory school attendance laws and the great expenditures for education both demonstrate our recognition of the importance of education to our democratic society. It is required in the performance of our most basic public responsibilities, even service in the armed forces. It is the very foundation of good citizenship. Today, it is a principal instrument in awakening the child to cultural values, in preparing him for later professional training, and in helping him to adjust normally to his environment. In these days, it is doubtful that any child may reasonably be expected to succeed in life if he is denied the opportunity of an education. Such an opportunity, where the state has undertaken to provide it, is a right which must be made available to all on equal terms.\nWe come then to the question presented: Does segregation of children in public schools solely on the basis of race, even though the physical facilities and other 'tangible' factors may be equal, deprive the children of the minority group of equal educational opportunities? We believe that it does.'\n-U.S. Supreme Court Chief Justice Earl Warren in a 1954 decision that ruled that separate schools for blacks and whites were unconstitutional\nWhich of the following is NOT a purpose of education as expressed in the quotation? ",
-			"graphic": "noone",
+			"question": "Which of the following is NOT a purpose of education as expressed in the quotation? ",
+			"graphic": "Social_1_7",
 			"answers": [
 				"To expose children to values.",
 				"To explain the government's education budget.",
@@ -210,8 +210,8 @@
 		},
 		{
 			"number": 17,
-			"question": "'Today, education is perhaps the most important function of state and local governments. Compulsory school attendance laws and the great expenditures for education both demonstrate our recognition of the importance of education to our democratic society. It is required in the performance of our most basic public responsibilities, even service in the armed forces. It is the very foundation of good citizenship. Today, it is a principal instrument in awakening the child to cultural values, in preparing him for later professional training, and in helping him to adjust normally to his environment. In these days, it is doubtful that any child may reasonably be expected to succeed in life if he is denied the opportunity of an education. Such an opportunity, where the state has undertaken to provide it, is a right which must be made available to all on equal terms.\nWe come then to the question presented: Does segregation of children in public schools solely on the basis of race, even though the physical facilities and other 'tangible' factors may be equal, deprive the children of the minority group of equal educational opportunities? We believe that it does.'\n-U.S. Supreme Court Chief Justice Earl Warren in a 1954 decision that ruled that separate schools for blacks and whites were unconstitutional\nAccording to the passage, how might the court define 'equal educational opportunity'?",
-			"graphic": "noone",
+			"question": "According to the passage, how might the court define 'equal educational opportunity'?",
+			"graphic": "Social_1_7",
 			"answers": [
 				"Schools with the same quality of teaching.",
 				"Schools with the same quality of facilities and materials.",
@@ -223,8 +223,8 @@
 		},
 		{
 			"number": 18,
-			"question": "The First Amendment to the U.S. Constitution states the following: 'Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.' \nWhich of the following situations is NOT protected by the First Amendment?",
-			"graphic": "noone",
+			"question": "Which of the following situations is NOT protected by the First Amendment?",
+			"graphic": "Social_1_8",
 			"answers": [
 				"A New York Times editorial criticizes the government's foreign policy.",
 				"A neo-Nazi group applies for a permit and stages a rally in a public square.",
@@ -236,8 +236,8 @@
 		},
 		{
 			"number": 19,
-			"question": "The Sixth Amendment of the U.S. Constitution states, 'In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.' \nWhich of the following instances is NOT protected by the Sixth Amendment?",
-			"graphic": "noone",
+			"question": "Which of the following instances is NOT protected by the Sixth Amendment?",
+			"graphic": "Social_1_9",
 			"answers": [
 				"A person accused of a crime silently prays before his trial begins.",
 				"A person accused of drug trafficking hires a lawyer to defend him.",
@@ -250,7 +250,7 @@
 		{
 			"number": 20,
 			"question": "Based on the information in the graph, which of the following proposals might best improve the voting rate?",
-			"graphic": "Social_1_6",
+			"graphic": "Social_1_10",
 			"answers": [
 				"Distribute umbrellas to all households to encourage people to vote on rainy election days.",
 				"Organize buses to help people get to voting places.",
@@ -263,7 +263,7 @@
 		{
 			"number": 21,
 			"question": "According to the graph, how many eligible U.S. citizens are NOT registered to vote?",
-			"graphic": "Social_1_7",
+			"graphic": "Social_1_11",
 			"answers": [
 				"19 million",
 				"56 million",
@@ -275,8 +275,8 @@
 		},
 		{
 			"number": 22,
-			"question": "The U.S. Constitution gives the president the power to veto, or reject, a bill passed by Congress. The president sends the proposed law back to Congress and states his objections. Because it takes a two-thirds vote from both the House of Representatives and the Senate to override a veto, Congress often changes the bill to make it more acceptable to the president. Sometimes, Congress adds provisions to a bill that the president strongly favors. The president does not have the power of line-item veto, in which lines or parts of a bill can be rejected individually. The president must accept or reject the bill as Congress has written it. \nWhich of the following statements can you infer from the passage?",
-			"graphic": "noone",
+			"question": "Which of the following statements can you infer from the passage?",
+			"graphic": "Social_1_12",
 			"answers": [
 				"Congress is more powerful than the president.",
 				"Congress tries to get the president to accept its provisions by attaching provisions to a bill \nthat the president supports.",
@@ -288,8 +288,8 @@
 		},
 		{
 			"number": 23,
-			"question": "The U.S. Constitution gives the president the power to veto, or reject, a bill passed by Congress. The president sends the proposed law back to Congress and states his objections. Because it takes a two-thirds vote from both the House of Representatives and the Senate to override a veto, Congress often changes the bill to make it more acceptable to the president. Sometimes, Congress adds provisions to a bill that the president strongly favors. The president does not have the power of line-item veto, in which lines or parts of a bill can be rejected individually. The president must accept or reject the bill as Congress has written it. \nWhich of the following conclusions can you make based on the passage?",
-			"graphic": "noone",
+			"question": "Which of the following conclusions can you make based on the passage?",
+			"graphic": "Social_1_12",
 			"answers": [
 				"It is easier to rewrite and make a bill more acceptable to the president than it is to override a veto.",
 				"It is easier to override a veto than it is to rewrite and make a bill more acceptable \nto the president.",
@@ -301,8 +301,8 @@
 		},
 		{
 			"number": 24,
-			"question": "'We might as easily reprove the east wind, or the frost, as a political party, whose members, for the most part, could give no account of their position, but stand for the defence of those interests in which they find themselves.' -Ralph Waldo Emerson (1803-1882), U.S. essayist \n'A party of order or stability, and a party of progress or reform, are both necessary elements of a healthy state of political life.' -John Stuart Mill (1806-1873), British philosopher \nWhich of the following party systems would Emerson most likely support?",
-			"graphic": "noone",
+			"question": "Which of the following party systems would Emerson most likely support?",
+			"graphic": "Social_1_13",
 			"answers": [
 				"One in which with citizens are loyal to a political party at all costs.",
 				"A two-party system.",
@@ -314,8 +314,8 @@
 		},
 		{
 			"number": 25,
-			"question": "'We might as easily reprove the east wind, or the frost, as a political party, whose members, for the most part, could give no account of their position, but stand for the defence of those interests in which they find themselves.' -Ralph Waldo Emerson (1803-1882), U.S. essayist \n'A party of order or stability, and a party of progress or reform, are both necessary elements of a healthy state of political life.' -John Stuart Mill (1806-1873), British philosopher \nWhich of the following party systems would Mill most likely support?",
-			"graphic": "noone",
+			"question": "Which of the following party systems would Mill most likely support?",
+			"graphic": "Social_1_13",
 			"answers": [
 				"One in which with citizens are loyal to a political party at all costs.",
 				"A two-party system.",
@@ -327,8 +327,8 @@
 		},
 		{
 			"number": 26,
-			"question": "The U.S. Constitution does not explicitly give the power of judicial review to the Supreme Court. In fact, the court did not use this power-which gives it the authority to invalidate laws and executive actions if they conflict with the Constitution-until the 1803 case of Marbury v. Madison. In that case, Chief Justice John Marshall ruled that a statute was unconstitutional. He argued that judicial review was necessary if the court was to fulfill its duty of upholding the Constitution. Without it, he felt that the legislature would have a 'real and practical omnipotence.' Moreover, several of the Constitution's framers expected the court to act in this way. Alexander Hamilton and James Madison emphasized the importance of judicial review in the Federalist Papers, a series of essays promoting the adoption of the Constitution. However, the power of judicial review continues to be a controversial power because it allows the justices-who are appointed rather than elected-to overturn laws made by Congress and state lawmaking bodies. \nWhich of the following statements is an implication of judicial review?",
-			"graphic": "noone",
+			"question": "Which of the following statements is an implication of judicial review?",
+			"graphic": "Social_1_14",
 			"answers": [
 				"The Constitution is a historic document with little influence over how the government operates today.",
 				"The Constitution must explicitly state which branch of government is to have what authority.",
@@ -340,8 +340,8 @@
 		},
 		{
 			"number": 27,
-			"question": "The U.S. Constitution does not explicitly give the power of judicial review to the Supreme Court. In fact, the court did not use this power-which gives it the authority to invalidate laws and executive actions if they conflict with the Constitution-until the 1803 case of Marbury v. Madison. In that case, Chief Justice John Marshall ruled that a statute was unconstitutional. He argued that judicial review was necessary if the court was to fulfill its duty of upholding the Constitution. Without it, he felt that the legislature would have a 'real and practical omnipotence.' Moreover, several of the Constitution's framers expected the court to act in this way. Alexander Hamilton and James Madison emphasized the importance of judicial review in the Federalist Papers, a series of essays promoting the adoption of the Constitution. However, the power of judicial review continues to be a controversial power because it allows the justices-who are appointed rather than elected-to overturn laws made by Congress and state lawmaking bodies. \nWhich of the following best describes the purpose of judicial review?",
-			"graphic": "noone",
+			"question": "Which of the following best describes the purpose of judicial review?",
+			"graphic": "Social_1_14",
 			"answers": [
 				"To declare a law unconstitutional.",
 				"To follow public opinion polls.",
@@ -353,8 +353,8 @@
 		},
 		{
 			"number": 28,
-			"question": "Beginning in 1958 . . . local NAACP (National Association for the Advancement of Colored People) chapters organized sit-ins, where African Americans, many of whom were college students, took seats and demanded service at segregated all-white lunch counters. It was, however, the sit-in demonstrations at Woolworth's store in Greensboro, North Carolina, beginning on February 1, 1960, that caught national attention and sparked other sit-ins and demonstrations in the South. One of the four students in the first Greensboro sit-in, Joe McNeil, later recounted his experience: '. . . we sat at a lunch counter where blacks never sat before. And people started to look at us. The help, many of whom were black, looked at us in disbelief too. They were concerned about our safety. We asked for service, and we were denied, and we expected to be denied. We asked why we couldn't be served, and obviously, we weren't given a reasonable answer, and it was our intent to sit there until they decided to serve us.' \nJoe McNeil has not directly stated, but would support, which of the following statements?",
-			"graphic": "noone",
+			"question": "Joe McNeil has not directly stated, but would support, which of the following statements?",
+			"graphic": "Social_1_15",
 			"answers": [
 				"Without the sit-in in Greensboro, NC, the civil rights movement would never have started.",
 				"Woolworth's served affordable lunches.",
@@ -366,8 +366,8 @@
 		},
 		{
 			"number": 29,
-			"question": "Beginning in 1958 . . . local NAACP (National Association for the Advancement of Colored People) chapters organized sit-ins, where African Americans, many of whom were college students, took seats and demanded service at segregated all-white lunch counters. It was, however, the sit-in demonstrations at Woolworth's store in Greensboro, North Carolina, beginning on February 1, 1960, that caught national attention and sparked other sit-ins and demonstrations in the South. One of the four students in the first Greensboro sit-in, Joe McNeil, later recounted his experience: '. . . we sat at a lunch counter where blacks never sat before. And people started to look at us. The help, many of whom were black, looked at us in disbelief too. They were concerned about our safety. We asked for service, and we were denied, and we expected to be denied. We asked why we couldn't be served, and obviously, we weren't given a reasonable answer, and it was our intent to sit there until they decided to serve us.' \nWhat is the author's purpose in including Joe McNeil's quotation?",
-			"graphic": "noone",
+			"question": "What is the author's purpose in including Joe McNeil's quotation?",
+			"graphic": "Social_1_15",
 			"answers": [
 				"To show that young people are the most likely to push for societal change.",
 				"To demonstrate that everyone has a different point of view.",
@@ -379,8 +379,8 @@
 		},
 		{
 			"number": 30,
-			"question": "After 72 years of campaigning and protest, women were granted the right to vote in 1920. Passed by Congress and ratified by 36 of the then 48 states, the Nineteenth Amendment of the U.S. Constitution states, 'The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.' \nWho are the women in this photograph addressing?",
-			"graphic": "Social_1_8",
+			"question": "Who are the women in this photograph addressing?",
+			"graphic": "Social_1_16",
 			"answers": [
 				"Other women who say they don't want the right to vote.",
 				"President Woodrow Wilson",
@@ -392,8 +392,8 @@
 		},
 		{
 			"number": 31,
-			"question": "After 72 years of campaigning and protest, women were granted the right to vote in 1920. Passed by Congress and ratified by 36 of the then 48 states, the Nineteenth Amendment of the U.S. Constitution states, 'The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.' \nWith which of the following statements would the photographer most likely agree?",
-			"graphic": "Social_1_8",
+			"question": "With which of the following statements would the photographer most likely agree?",
+			"graphic": "Social_1_16",
 			"answers": [
 				"Women should behave in a dignified and orderly manner even if they are protesting.",
 				"Women stand outside the gates of governmental power.",
@@ -405,8 +405,8 @@
 		},
 		{
 			"number": 32,
-			"question": "When European settlers arrived on the North American continent at the end of the fifteenth century, they encountered diverse Native American cultures-as many as 900,000 inhabitants with over 300 different languages. These people, whose ancestors crossed the land bridge from Asia in what may be considered the first North American immigration, were virtually destroyed by the subsequent immigration that created the United States. This tragedy is the direct result of treaties, written and broken by foreign governments, of warfare, and of forced assimilation. \nWhat does the author of this passage believe?",
-			"graphic": "noone",
+			"question": "What does the author of this passage believe?",
+			"graphic": "Social_1_17",
 			"answers": [
 				"The U.S. government was faithful to its treaties with Native Americans.",
 				"Native Americans made up a homogenous group.",
@@ -418,8 +418,8 @@
 		},
 		{
 			"number": 33,
-			"question": "Paul Revere made and sold this engraving depicting the 'Boston Massacre', a pre-Revolutionary encounter between British troops and American colonists, in which five colonists were killed. \nWhich of the following messages did Paul Revere most likely want to convey in his engraving?",
-			"graphic": "Social_1_9",
+			"question": "Which of the following messages did Paul Revere most likely want to convey in his engraving?",
+			"graphic": "Social_1_18",
 			"answers": [
 				"American colonists should not protest the presence of British troops in Boston.",
 				"The British troops were defending themselves against rowdy gangs of colonists.",
@@ -431,8 +431,8 @@
 		},
 		{
 			"number": 34,
-			"question": "Paul Revere made and sold this engraving depicting the 'Boston Massacre', a pre-Revolutionary encounter between British troops and American colonists, in which five colonists were killed. \nWhat can you infer was Revere's purpose in creating and selling the engraving?",
-			"graphic": "Social_1_9",
+			"question": "What can you infer was Revere's purpose in creating and selling the engraving?",
+			"graphic": "Social_1_18",
 			"answers": [
 				"Make a large profit for himself.",
 				"Calm the rebellious spirit of Boston citizens.",
@@ -444,8 +444,8 @@
 		},
 		{
 			"number": 35,
-			"question": "German printer Johannes Gutenberg is often credited with the invention of the first printing press to use movable type. He used handset type to print the Gutenberg Bible in 1455. Although his invention greatly influenced printing in Europe, similar technologies were used earlier in China and Korea. Chinese printers used movable block prints and type made of clay as early as 1040, and Korean printers invented movable copper type about 1392. \nWhat is the purpose of the paragraph?",
-			"graphic": "noone",
+			"question": "What is the purpose of the paragraph?",
+			"graphic": "Social_1_19",
 			"answers": [
 				"To praise the advances of printing technology.",
 				"To connect the early advances in printing with today's technological advances.",

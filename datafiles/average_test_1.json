@@ -1,0 +1,86 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Robert obtained 74, 65, 87, 55 and 90 marks (out of 100) in Living Environment, Earth Science, Chemistry, Global History, and Geography. What are his average marks?",
+			"graphic": "noone",
+			"answers": ["71.50", "69.60", "81.68", "83.54", "None of the above"],
+			"answer": "None of the above"
+		},
+		{
+			"number": 2,
+			"question": "A grocer has a sale of $6435, $6927, $6855, $7230 and $6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of $6500?",
+			"graphic": "noone",
+			"answers": ["$3568", "$3987", "$4991", "$5611", "$6147"],
+			"answer": "$4991"
+		},
+		{
+			"number": 3,
+			"question": "William buys diesel at $7.50, $8 and $8.50 per litre for three successive years. What approximately is the average cost per litre of diesel if he spends $4000 each year?",
+			"graphic": "noone",
+			"answers": ["$6.58", "$7.14", "$7.98", "$8.12", "$8.41"],
+			"answer": "$7.98"
+		},
+		{
+			"number": 4,
+			"question": " A family consists of two grandparents, two parents and three grandchildren. The average age of the grandparents is 67 years, that of the parents is 35 years and that of the grandchildren is 6 years. What is the average age of the family in years?",
+			"graphic": "noone",
+			"answers": ["25.31", "29.65", "30.27", "31.71", "34.52"],
+			"answer": "31.71"
+		},
+		{
+			"number": 5,
+			"question": "There are two groups 'Full House' and 'Duck Duck Goose' of a class, consisting of 36 and 44 students respectively. If the average weight of the group 'Full House' is 40kg and that of the group 'Duck Duck Goose' is 35kg, what is the average weight of the whole class?",
+			"graphic": "noone",
+			"answers": ["35.25", "36.25", "35.50", "36.50", "37.25"],
+			"answer": "37.25"
+		},
+		{
+			"number": 6,
+			"question": "The average age of boys in a class is 16.5 years and that of the girls is 15.5 years. What is the average age of the whole class?",
+			"graphic": "noone",
+			"answers": [
+				"15",
+				"16",
+				"15.9",
+				"Not enough information is given",
+				"None of the above"
+			],
+			"answer": "Not enough information is given"
+		},
+		{
+			"number": 7,
+			"question": "The average of six numbers is x and the average of three of these is y. If the average of the remaining three is z, then",
+			"graphic": "noone",
+			"answers": [
+				"x = 2y + 2z",
+				"2x = y + z",
+				"x = y + z",
+				"x = (y + z)2",
+				"None of the above"
+			],
+			"answer": "2x = y + z"
+		},
+		{
+			"number": 8,
+			"question": "The average monthly income of Lucas and Elijah is $5050. The average monthly income of Elijah and Benjamin is $6250 and the average monthly income of Lucas and Benjamin is $5200. What is the monthly income of Lucas?",
+			"graphic": "noone",
+			"answers": ["$1000", "$2000", "$3000", "$4000", "$6000"],
+			"answer": "$4000"
+		},
+		{
+			"number": 9,
+			"question": " A student's mark was wrongly entered as 66 instead of 88. Due to that the average mark of the class got increased by 1/2. What is the number of students in the class?",
+			"graphic": "noone",
+			"answers": ["40", "50", "60", "70", "80"],
+			"answer": "40"
+		},
+		{
+			"number": 10,
+			"question": "The average of 4 terms is 20 and the 1st term is 1/3 of the remaining terms. What will be the first number?",
+			"graphic": "noone",
+			"answers": ["30", "20", "60", "80", "None of the above"],
+			"answer": "20"
+		}
+	]
+}

@@ -62,8 +62,9 @@ if global.canClick
 						// spawn OK button and exit test button
 					}
 					break
-				case "Back": // Back to main
+				case "Back": // Back to main from scores
                     global.canClick = false
+					with oButtonFilter { instance_destroy() }
 					with oControl {
 						cameraY = 0
 						camera_set_view_pos(camera, 0, cameraY)

@@ -2,8 +2,8 @@
 	"test": [
 		{
 			"number": 1,
-			"question": "Definitions of political beliefs and policies. \n\nIsolationism: a national policy of avoiding political alliances with other nations \nNationalism: a sense of allegiance to the interests and culture of a nation \nJingoism: extreme nationalism characterized by a warring foreign policy \nPacifism: the belief that nations should settle their disputes peacefully \nRegionalism: a political division between two regions within an area \n\nRead the next items and identify which label best describes each of them. \n'This whole nation of one hundred and thirty million free men, women, and children is becoming one great fighting force. Some of us are soldiers or sailors, some of us are civilians . . . A few of us are decorated with medals for heroic achievement, but all of us can have that deep and permanent inner satisfaction that comes from doing the best we know how-each of us playing an honorable part in the great struggle to save our democratic civilization.' -Radio address of President Franklin D. Roosevelt, October 12, 1942",
-			"graphic": "noone",
+			"question": " Read the next items and identify which label best describes each of them. \n\n'This whole nation of one hundred and thirty million free men, women, and children is becoming one great fighting force. Some of us are soldiers or sailors, some of us are civilians . . . A few of us are decorated with medals for heroic achievement, but all of us can have that deep and permanent inner satisfaction that comes from doing the best we know how-each of us playing an honorable part in the great struggle to save our democratic civilization.'\n\n -Radio address of President Franklin D. Roosevelt, October 12, 1942",
+			"graphic": "Social_2_1",
 			"answers": [
 				"isolationism",
 				"nationalism",
@@ -15,8 +15,8 @@
 		},
 		{
 			"number": 2,
-			"question": "Definitions of political beliefs and policies. \n\nIsolationism: a national policy of avoiding political alliances with other nations \nNationalism: a sense of allegiance to the interests and culture of a nation \nJingoism: extreme nationalism characterized by a warring foreign policy \nPacifism: the belief that nations should settle their disputes peacefully \nRegionalism: a political division between two regions within an area \n\nRead the next items and identify which label best describes each of them. \n'The . . . parties solemnly declare in the names of their respective peoples that they condemn recourse to war for the solution of international controversies, and renounce it as an instrument of national policy in their relations with one another.' -Kellogg-Briand Pact, Article I, 1928",
-			"graphic": "noone",
+			"question": "Read the next items and identify which label best describes each of them. \n\n'The . . . parties solemnly declare in the names of their respective peoples that they condemn recourse to war for the solution of international controversies, and renounce it as an instrument of national policy in their relations with one another.'\n\n -Kellogg-Briand Pact, Article I, 1928",
+			"graphic": "Social_2_1",
 			"answers": [
 				"isolationism",
 				"nationalism",
@@ -28,8 +28,8 @@
 		},
 		{
 			"number": 3,
-			"question": "Definitions of political beliefs and policies. \n\nIsolationism: a national policy of avoiding political alliances with other nations \nNationalism: a sense of allegiance to the interests and culture of a nation \nJingoism: extreme nationalism characterized by a warring foreign policy \nPacifism: the belief that nations should settle their disputes peacefully \nRegionalism: a political division between two regions within an area \n\nRead the next items and identify which label best describes each of them. \n'The great rule of conduct for us in regard to foreign nations is, in extending our commercial relations to have with them as little political connection as possible. So far as we have already formed engagements let them be fulfilled with perfect good faith.' -President George Washington, Farewell Address,1796",
-			"graphic": "noone",
+			"question": "Read the next items and identify which label best describes each of them. \n\n'The great rule of conduct for us in regard to foreign nations is, in extending our commercial relations to have with them as little political connection as possible. So far as we have already formed engagements let them be fulfilled with perfect good faith.'\n\n -President George Washington, Farewell Address,1796",
+			"graphic": "Social_2_1",
 			"answers": [
 				"isolationism",
 				"nationalism",
@@ -41,8 +41,8 @@
 		},
 		{
 			"number": 4,
-			"question": "Definitions of political beliefs and policies. \n\nIsolationism: a national policy of avoiding political alliances with other nations \nNationalism: a sense of allegiance to the interests and culture of a nation \nJingoism: extreme nationalism characterized by a warring foreign policy \nPacifism: the belief that nations should settle their disputes peacefully \nRegionalism: a political division between two regions within an area \n\nRead the next items and identify which label best describes each of them. \n'The free States alone, if we must go on alone, will make a glorious nation. Twenty millions in the temperate zone, stretching from the Atlantic to the Pacific, full of vigor, industry, inventive genius, educated, and moral; increasing by immigration rapidly, and, above all, free-all free-will form a confederacy of twenty States scarcely inferior in real power to the unfortunate Union of thirty-three States which we had on the first of November.' -Rutherford Birchard Hayes, January 4, 1861",
-			"graphic": "noone",
+			"question": "Read the next items and identify which label best describes each of them. \n\n'The free States alone, if we must go on alone, will make a glorious nation. Twenty millions in the temperate zone, stretching from the Atlantic to the Pacific, full of vigor, industry, inventive genius, educated, and moral; increasing by immigration rapidly, and, above all, free-all free-will form a confederacy of twenty States scarcely inferior in real power to the unfortunate Union of thirty-three States which we had on the first of November.'\n\n -Rutherford Birchard Hayes, January 4, 1861",
+			"graphic": "Social_2_1",
 			"answers": [
 				"isolationism",
 				"nationalism",
@@ -54,8 +54,8 @@
 		},
 		{
 			"number": 5,
-			"question": "Like so many other exploration stories, the Lewis and Clark journey was shaped by the search for navigable rivers, inspired by the quest for Edens, and driven by competition for empire. Thomas Jefferson was motivated by these aspirations when he drafted instrutions for his explorers, sending them up the Missouri River in search of a passage to the Pacific. Writing to William Dunbar just a month after Lewis and Clark left Fort Mandan, Jefferson emphasized the importance of rivers in his plan for western exploration and national expansion. 'We shall delineate with correctness the great arteries of this great country.' River highways could take Americans into an Eden, Jefferson's vision of the West as the 'Garden of the World'. And those same rivers might be nature's outlines and borders for empire. 'Future generations would', so the president told his friend, 'fill up the canvas we begin.' \nSource: Library of Congress, Exhibits, 'Rivers, Edens, Empires: Lewis & Clark and the Revealing of America' \n\nWhich of the following was NOT one of Jefferson's goals in sponsoring the Lewis and Clark expedition?",
-			"graphic": "noone",
+			"question": "Which of the following was NOT one of Jefferson's goals in sponsoring the Lewis and Clark expedition?",
+			"graphic": "Social_2_2",
 			"answers": [
 				"Finding a waterway to the Pacific Ocean.",
 				"Mapping uncharted territory.",
@@ -67,8 +67,8 @@
 		},
 		{
 			"number": 6,
-			"question": "Like so many other exploration stories, the Lewis and Clark journey was shaped by the search for navigable rivers, inspired by the quest for Edens, and driven by competition for empire. Thomas Jefferson was motivated by these aspirations when he drafted instrutions for his explorers, sending them up the Missouri River in search of a passage to the Pacific. Writing to William Dunbar just a month after Lewis and Clark left Fort Mandan, Jefferson emphasized the importance of rivers in his plan for western exploration and national expansion. 'We shall delineate with correctness the great arteries of this great country.' River highways could take Americans into an Eden, Jefferson's vision of the West as the 'Garden of the World'. And those same rivers might be nature's outlines and borders for empire. 'Future generations would', so the president told his friend, 'fill up the canvas we begin.' \nSource: Library of Congress, Exhibits, 'Rivers, Edens, Empires: Lewis & Clark and the Revealing of America' \n\nWhich historical idea best summarizes Jefferson's attitude toward the West?",
-			"graphic": "noone",
+			"question": "Which historical idea best summarizes Jefferson's attitude toward the West?",
+			"graphic": "Social_2_2",
 			"answers": [
 				"Separation of Powers",
 				"Manifest Destiny",
@@ -80,8 +80,8 @@
 		},
 		{
 			"number": 7,
-			"question": "About the time of World War I, sharp-eyed entrepreneurs began . . . to see ways to profitfrom the motorist's freedom . . . Shops could be set up almost anywhere the law allowed, and a wide variety of products and services could be counted on to sell briskly in the roadside marketplace. A certain number of cars passing by would always be in need of gas. Travelers eventually grew hungry, tired, and restless for diversions. Soon gas stations, produce booths, hot dog stands, and tourist camps sprouted up along the nation's roadsides to capitalize on these needs. As competition increased, merchants looked for new ways to snag the new market awheel. Each sign and building had to visually shout: 'Slow down, pull in, and buy'. Still more businesses moved to the highway-supermarkets, motor courts, restaurants, miniature golf courses, drive-in theaters. By the early 1950s, almost anything could be bought along the roadside. \nSource: Excerpt from Chester H. Liebs, Main Street to Miracle Mile. Little, Brown and Company, 1985. \n\nWhat is the main idea of the passage?",
-			"graphic": "noone",
+			"question": "What is the main idea of the passage?",
+			"graphic": "Social_2_3",
 			"answers": [
 				"Miniature golf was a very popular sport in the 1950s.",
 				"Travelers were looking for sources of entertainment.",
@@ -93,8 +93,8 @@
 		},
 		{
 			"number": 8,
-			"question": "About the time of World War I, sharp-eyed entrepreneurs began . . . to see ways to profitfrom the motorist's freedom . . . Shops could be set up almost anywhere the law allowed, and a wide variety of products and services could be counted on to sell briskly in the roadside marketplace. A certain number of cars passing by would always be in need of gas. Travelers eventually grew hungry, tired, and restless for diversions. Soon gas stations, produce booths, hot dog stands, and tourist camps sprouted up along the nation's roadsides to capitalize on these needs. As competition increased, merchants looked for new ways to snag the new market awheel. Each sign and building had to visually shout: 'Slow down, pull in, and buy'. Still more businesses moved to the highway-supermarkets, motor courts, restaurants, miniature golf courses, drive-in theaters. By the early 1950s, almost anything could be bought along the roadside. \nSource: Excerpt from Chester H. Liebs, Main Street to Miracle Mile. Little, Brown and Company, 1985. \n\nGiven the information in this passage, what appeared to be an important post-World War II trend in the United States?",
-			"graphic": "noone",
+			"question": "Given the information in this passage, what appeared to be an important post-World War II trend in the United States?",
+			"graphic": "Social_2_3",
 			"answers": [
 				"train travel",
 				"car culture",
@@ -106,8 +106,8 @@
 		},
 		{
 			"number": 9,
-			"question": "In January 1863 during the Civil War, President Abraham Lincoln's Emancipation Proclamation freed more than three million slaves who lived in the Confederate states. Lincoln stated: 'And by virtue of the power and for the purpose aforesaid, I do order and declare that all person held as slaves within said designated states and parts of states are, and henceforward shall be, free; and that the Executive government of the United States, including the military and naval authorities thereof, will recognize and maintain the freedom of said persons. And I hereby enjoin upon the people so declared to be free and abstain from all violence, unless in necessary self-defense; and I recommend to them that, in all cases when allowed, they labor faithfully for reasonable wages. And I further declare and make known that such persons, of suitable condition, will be received into the armed service of the United States to garrison forts, positions, stations, and other places, and to man vessels of all sorts in said service'. \nSource: HistoryCentral.com. \n\nAccording to the passage, which of the following was NOT one of Lincoln's expectations for the former slaves?",
-			"graphic": "noone",
+			"question": "According to the passage, which of the following was NOT one of Lincoln's expectations for the former slaves?",
+			"graphic": "Social_2_4",
 			"answers": [
 				"To fight for the Union army.",
 				"To become free citizens.",
@@ -119,8 +119,8 @@
 		},
 		{
 			"number": 10,
-			"question": "In January 1863 during the Civil War, President Abraham Lincoln's Emancipation Proclamation freed more than three million slaves who lived in the Confederate states. Lincoln stated: 'And by virtue of the power and for the purpose aforesaid, I do order and declare that all person held as slaves within said designated states and parts of states are, and henceforward shall be, free; and that the Executive government of the United States, including the military and naval authorities thereof, will recognize and maintain the freedom of said persons. And I hereby enjoin upon the people so declared to be free and abstain from all violence, unless in necessary self-defense; and I recommend to them that, in all cases when allowed, they labor faithfully for reasonable wages. And I further declare and make known that such persons, of suitable condition, will be received into the armed service of the United States to garrison forts, positions, stations, and other places, and to man vessels of all sorts in said service'. \nSource: HistoryCentral.com. \n\nBased on the values expressed in the Emancipation Proclamation, which of the following groups would have disapproved it?",
-			"graphic": "noone",
+			"question": "Based on the values expressed in the Emancipation Proclamation, which of the following groups would have disapproved it?",
+			"graphic": "Social_2_4",
 			"answers": [
 				"nations like Great Britain and France where there was strong antislavery sentiment",
 				"confederate leaders",
@@ -132,8 +132,8 @@
 		},
 		{
 			"number": 11,
-			"question": "In January 1863 during the Civil War, President Abraham Lincoln's Emancipation Proclamation freed more than three million slaves who lived in the Confederate states. Lincoln stated: 'And by virtue of the power and for the purpose aforesaid, I do order and declare that all person held as slaves within said designated states and parts of states are, and henceforward shall be, free; and that the Executive government of the United States, including the military and naval authorities thereof, will recognize and maintain the freedom of said persons. And I hereby enjoin upon the people so declared to be free and abstain from all violence, unless in necessary self-defense; and I recommend to them that, in all cases when allowed, they labor faithfully for reasonable wages. And I further declare and make known that such persons, of suitable condition, will be received into the armed service of the United States to garrison forts, positions, stations, and other places, and to man vessels of all sorts in said service'. \nSource: HistoryCentral.com. \n\nWhich of the following is the most likely reason that Lincoln did not emancipate all slaves?",
-			"graphic": "noone",
+			"question": "Which of the following is the most likely reason that Lincoln did not emancipate all slaves?",
+			"graphic": "Social_2_4",
 			"answers": [
 				"Lincoln did not want to appease radical abolitionist groups.",
 				"He believed slavery was an economic necessity.",
@@ -145,8 +145,8 @@
 		},
 		{
 			"number": 12,
-			"question": "The Cuban Missile Crisis began in 1962 when U.S. spy planes spotted Soviet missile installations under construction in Cuba. The missiles were capable of carrying nuclear weapons and were within range of major U.S. cities. A thirteen-day standoff began, during which President John F. Kennedy imposed a naval blockade of Cuba and demanded that the Soviets remove the weapons. Kennedy stated that any missile attack from Cuba would be regarded as an attack from the Soviet Union and would be responded to accordingly. Khrushchev later conceded, agreeing to remove the weapons if, in return, the United States pledged not to invade the island. Details from U.S. and Soviet declassified files and participants in the crisis have surfaced since the incident. Unknown to the U.S. government at the time, 40,000 Soviet soldiers were stationed in Cuba and armed with nuclear weapons. Although Khrushchev's actions helped avert nuclear war, they made him appear weak to younger Soviet leaders who ousted him from power. Historians regard the crisis as the world's closest brush with the threat of nuclear war. \n\nAccording to the information given in this passage, it is most likely that President Kennedy",
-			"graphic": "noone",
+			"question": "According to the information given in this passage, it is most likely that President Kennedy",
+			"graphic": "Social_2_5",
 			"answers": [
 				"viewed this as a regional crisis solely between the United States and Cuba.",
 				"trusted Soviet officials who said there weren't any missiles in Cuba.",
@@ -158,8 +158,8 @@
 		},
 		{
 			"number": 13,
-			"question": "The Cuban Missile Crisis began in 1962 when U.S. spy planes spotted Soviet missile installations under construction in Cuba. The missiles were capable of carrying nuclear weapons and were within range of major U.S. cities. A thirteen-day standoff began, during which President John F. Kennedy imposed a naval blockade of Cuba and demanded that the Soviets remove the weapons. Kennedy stated that any missile attack from Cuba would be regarded as an attack from the Soviet Union and would be responded to accordingly. Khrushchev later conceded, agreeing to remove the weapons if, in return, the United States pledged not to invade the island. Details from U.S. and Soviet declassified files and participants in the crisis have surfaced since the incident. Unknown to the U.S. government at the time, 40,000 Soviet soldiers were stationed in Cuba and armed with nuclear weapons. Although Khrushchev's actions helped avert nuclear war, they made him appear weak to younger Soviet leaders who ousted him from power. Historians regard the crisis as the world's closest brush with the threat of nuclear war. \n\nWhich of the conclusions can you make based on the passage?",
-			"graphic": "noone",
+			"question": "Which of the conclusions can you make based on the passage?",
+			"graphic": "Social_2_5",
 			"answers": [
 				"Kennedy's first concern during the crisis was the appeal of Communist ideas.",
 				"Nuclear war is the only way to win a cold war.",
@@ -171,8 +171,8 @@
 		},
 		{
 			"number": 14,
-			"question": "The United States maintained its neutrality in the war until Germany announced its intention to use unrestricted submarine warfare in the seas. The U.S. Congress declared war on Germany on April 6, 1917. By doing so, with what other nations was it siding?",
-			"graphic": "Social_2_1",
+			"question": "The United States maintained its neutrality in the war until Germany announced its intention to use unrestricted submarine warfare in the seas.\n\n The U.S. Congress declared war on Germany on April 6, 1917.\n\n By doing so, with what other nations was it siding?",
+			"graphic": "Social_2_6",
 			"answers": [
 				"Bulgaria and Turkey",
 				"Albania and Andorra",
@@ -184,8 +184,8 @@
 		},
 		{
 			"number": 15,
-			"question": "U.S. President Woodrow Wilson called the war one 'to make the world safe for democracy'. Based on the map and this quotation, what conclusion can be drawn?",
-			"graphic": "Social_2_1",
+			"question": "U.S. President Woodrow Wilson called the war one 'to make the world safe for democracy'.\n\n Based on the map and this quotation, what conclusion can be drawn?",
+			"graphic": "Social_2_6",
 			"answers": [
 				"Communist Russia was a threat to democracy in 1917.",
 				"In 1917, Italy had become a fascist state that threatened democracy.",
@@ -197,8 +197,8 @@
 		},
 		{
 			"number": 16,
-			"question": "Mohandas Gandhi, also known as Mahatma Gandhi, developed a policy of passive resistance in his civil rights struggle for Indian immigrants in South Africa, and later in the campaign for Indian independence from British rule. The writings of the Russian author Leo Tolstoy and the essay, 'Civil Disobedience', by nineteenth century American Henry David Thoreau inspired Gandhi. Gandhi called acts of nonviolent resistance by the term satyagraha, Sanskrit for 'truth and firmness'. The Salt Satyagraha of 1930 exemplified his policy. In protest against the British government's salt tax, he led tens of thousands of Indians on a 200-mile march to the Arabian Sea, where they made salt from evaporated sea water. Thousands, including Gandhi, were arrested. When the British conceded to his demands, Gandhi stopped the campaign. He was released from prison in 1931, and that same year, he traveled to London as a representative of the Indian National Congress to negotiate reform measures. \n\nWhich of the following would be the best title for this passage?",
-			"graphic": "noone",
+			"question": "Which of the following would be the best title for this passage?",
+			"graphic": "Social_2_7",
 			"answers": [
 				"The Salt March of 1930",
 				"How to Lead an Effective Protest",
@@ -210,8 +210,8 @@
 		},
 		{
 			"number": 17,
-			"question": "Mohandas Gandhi, also known as Mahatma Gandhi, developed a policy of passive resistance in his civil rights struggle for Indian immigrants in South Africa, and later in the campaign for Indian independence from British rule. The writings of the Russian author Leo Tolstoy and the essay, 'Civil Disobedience', by nineteenth century American Henry David Thoreau inspired Gandhi. Gandhi called acts of nonviolent resistance by the term satyagraha, Sanskrit for 'truth and firmness'. The Salt Satyagraha of 1930 exemplified his policy. In protest against the British government's salt tax, he led tens of thousands of Indians on a 200-mile march to the Arabian Sea, where they made salt from evaporated sea water. Thousands, including Gandhi, were arrested. When the British conceded to his demands, Gandhi stopped the campaign. He was released from prison in 1931, and that same year, he traveled to London as a representative of the Indian National Congress to negotiate reform measures. \n\nWhich of the following conclusions can be drawn from the passage?",
-			"graphic": "noone",
+			"question": "Which of the following conclusions can be drawn from the passage?",
+			"graphic": "Social_2_7",
 			"answers": [
 				"Gandhi's nonviolent protests were effective political tools.",
 				"The British did not respond to the Salt Satyagraha.",
@@ -223,8 +223,8 @@
 		},
 		{
 			"number": 18,
-			"question": "From 2000 B.C. until the twentieth century, a succession of dynasties ruled China. The word China comes from the Ch'in Dynasty (221-206 B.C.), which first unified the country by conquering warring land-owning feudal lords. King Cheng named himself Shih Huang-ti, or first emperor, and consolidated his empire by abolishing feudal rule, creating a centralized monarchy, establishing a system of laws and a common written language, and building roads and canals to the capital. Scholars speculate that construction of the Great Wall or chang cheng, meaning 'long wall', began during the Ch'in Dynasty in order to protect China's northern border from invaders. Shih Huang-ti ruled with absolute power, imposing strict laws and heavy taxes and doling out harsh punishments. He also is reputed to have burned books on topics that he did not consider useful like agriculture or medicine. Shih Huang-ti died in 210 B.C. His son succeeded him, but soon peasants and former nobles revolted and overthrew the dynasty. The Han Dynasty replaced it, ruling China until 220 A.D. \n\nWhich of the following is NOT a contribution of the Ch'in Dynasty?",
-			"graphic": "noone",
+			"question": "Which of the following is NOT a contribution of the Ch'in Dynasty?",
+			"graphic": "Social_2_8",
 			"answers": [
 				"unification of territory",
 				"feudal aristocracy",
@@ -236,8 +236,8 @@
 		},
 		{
 			"number": 19,
-			"question": "From 2000 B.C. until the twentieth century, a succession of dynasties ruled China. The word China comes from the Ch'in Dynasty (221-206 B.C.), which first unified the country by conquering warring land-owning feudal lords. King Cheng named himself Shih Huang-ti, or first emperor, and consolidated his empire by abolishing feudal rule, creating a centralized monarchy, establishing a system of laws and a common written language, and building roads and canals to the capital. Scholars speculate that construction of the Great Wall or chang cheng, meaning 'long wall', began during the Ch'in Dynasty in order to protect China's northern border from invaders. Shih Huang-ti ruled with absolute power, imposing strict laws and heavy taxes and doling out harsh punishments. He also is reputed to have burned books on topics that he did not consider useful like agriculture or medicine. Shih Huang-ti died in 210 B.C. His son succeeded him, but soon peasants and former nobles revolted and overthrew the dynasty. The Han Dynasty replaced it, ruling China until 220 A.D. \n\nWhich of the following conclusions can you make based on the passage?",
-			"graphic": "noone",
+			"question": "Which of the following conclusions can you make based on the passage?",
+			"graphic": "Social_2_8",
 			"answers": [
 				"The Ch'in Dynasty enjoyed a stable and longlasting rule.",
 				"By abolishing feudalism, Ch'in Shih Huang-ti promoted democracy in China.",
@@ -249,8 +249,8 @@
 		},
 		{
 			"number": 20,
-			"question": "Of the world's 250 million child laborers, 186 million are under age five, and 170 million perform hazardous work. Most working children in rural areas labor in agriculture, while urban children work in trade and services, with a smaller percentage working in manufacturing, construction, and domestic service. \nSource: Data from the International Labor Organization (ILO), www.ilo.org. \n\nBased on the graph and passage, where would child-labor reform measures be the most effective?",
-			"graphic": "Social_2_2",
+			"question": "Of the world's 250 million child laborers, 186 million are under age five, and 170 million perform hazardous work.\n\n Most working children in rural areas labor in agriculture, while urban children work in trade and services, with a smaller percentage working in manufacturing, construction, and domestic service. \n\nSource: Data from the International Labor Organization (ILO), www.ilo.org. \n\nBased on the graph and passage, where would child-labor reform measures be the most effective?",
+			"graphic": "Social_2_9",
 			"answers": [
 				"in Europe",
 				"in rural areas",
@@ -262,8 +262,8 @@
 		},
 		{
 			"number": 21,
-			"question": "Of the world's 250 million child laborers, 186 million are under age five, and 170 million perform hazardous work. Most working children in rural areas labor in agriculture, while urban children work in trade and services, with a smaller percentage working in manufacturing, construction, and domestic service. \nSource: Data from the International Labor Organization (ILO), www.ilo.org. \n\nWhich conclusion can be drawn from the information provided in the chart?",
-			"graphic": "Social_2_2",
+			"question": "Of the world's 250 million child laborers, 186 million are under age five, and 170 million perform hazardous work.\n\n Most working children in rural areas labor in agriculture, while urban children work in trade and services, with a smaller percentage working in manufacturing, construction, and domestic service. \n\nSource: Data from the International Labor Organization (ILO), www.ilo.org. \n\nWhich conclusion can be drawn from the information provided in the chart?",
+			"graphic": "Social_2_9",
 			"answers": [
 				"Eighty million African children work.",
 				"Child labor is a worldwide problem.",
@@ -275,7 +275,7 @@
 		},
 		{
 			"number": 22,
-			"question": "Cyclical unemployment is job loss caused by a recession or by fluctuations in the economy. Which of the following is an example of cyclical unemployment?",
+			"question": "Cyclical unemployment is job loss caused by a recession or by fluctuations in the economy.\n\n Which of the following is an example of cyclical unemployment?",
 			"graphic": "noone",
 			"answers": [
 				"construction workers in the Northeast who are out of work during cold months",
@@ -288,7 +288,7 @@
 		},
 		{
 			"number": 23,
-			"question": "Capital gains tax is money paid to the federal government out of profits from the sale of financial assets, like property (land or buildings) or stocks. For which of the following would you need to pay capital gains tax?",
+			"question": "Capital gains tax is money paid to the federal government out of profits from the sale of financial assets, like property (land or buildings) or stocks.\n\n For which of the following would you need to pay capital gains tax?",
 			"graphic": "noone",
 			"answers": [
 				"cigarettes",
@@ -301,8 +301,8 @@
 		},
 		{
 			"number": 24,
-			"question": "The Consumer Price Index (CPI) measures changes in the cost of living by comparing the prices in common goods and services like food, clothing, rent, fuel, and others. This chart uses the years 1982-1984 as a base period (1982-1984 = 100). An item that costs $100 in the base period would cost the amount listed in the CPI column for that year. \nSource: U.S. Department of Labor, Bureau of Labor Statistics. \n\nThe inflation rate peaked in 1920 following World War I. What other time period was marked by a high inflation rate?",
-			"graphic": "Social_2_3",
+			"question": "The Consumer Price Index (CPI) measures changes in the cost of living by comparing the prices in common goods and services like food, clothing, rent, fuel, and others. This chart uses the years 1982-1984 as a base period (1982-1984 = 100).\n\n An item that costs $100 in the base period would cost the amount listed in the CPI column for that year. \n\nSource: U.S. Department of Labor, Bureau of Labor Statistics. \n\nThe inflation rate peaked in 1920 following World War I. What other time period was marked by a high inflation rate?",
+			"graphic": "Social_2_10",
 			"answers": [
 				"the years immediately following the stock market crash of 1929",
 				"the years following the oil crisis of 1979",
@@ -314,8 +314,8 @@
 		},
 		{
 			"number": 25,
-			"question": "The Consumer Price Index (CPI) measures changes in the cost of living by comparing the prices in common goods and services like food, clothing, rent, fuel, and others. This chart uses the years 1982-1984 as a base period (1982-1984 = 100). An item that costs $100 in the base period would cost the amount listed in the CPI column for that year. \nSource: U.S. Department of Labor, Bureau of Labor Statistics. \n\nBased on the information given, which decade experienced a decrease in the cost of living?",
-			"graphic": "Social_2_3",
+			"question": "The Consumer Price Index (CPI) measures changes in the cost of living by comparing the prices in common goods and services like food, clothing, rent, fuel, and others. This chart uses the years 1982-1984 as a base period (1982-1984 = 100).\n\n An item that costs $100 in the base period would cost the amount listed in the CPI column for that year. \n\nSource: U.S. Department of Labor, Bureau of Labor Statistics. \n\nBased on the information given, which decade experienced a decrease in the cost of living?",
+			"graphic": "Social_2_10",
 			"answers": [
 				"1930-1940",
 				"1940-1950",
@@ -327,8 +327,8 @@
 		},
 		{
 			"number": 26,
-			"question": "Income rank categories \n\n1 = very high ($39,700 and over) \n2 = high ($25,760 to $39,660) \n3 = low ($18,500 to $25,760) \n4 = very low (up to $18,490) \nSource: U.S. Department of Labor, Bureau of Labor Statistics. \n\nWhich of the following statements is supported by the information presented?",
-			"graphic": "Social_2_4",
+			"question": "Income rank categories \n\n1 = very high ($39,700 and over) \n2 = high ($25,760 to $39,660) \n3 = low ($18,500 to $25,760) \n4 = very low (up to $18,490) \n\nSource: U.S. Department of Labor, Bureau of Labor Statistics. \n\nWhich of the following statements is supported by the information presented?",
+			"graphic": "Social_2_11",
 			"answers": [
 				"The largest number of jobs in the United States will be computer-related in the decade 2000-2010.",
 				"Computer-related jobs are the best paying in the nation.",
@@ -340,7 +340,7 @@
 		},
 		{
 			"number": 27,
-			"question": "By 1878, the Standard Oil Company, owned by John D. Rockefeller, had bought out most of its business rivals and controlled 90% of the petroleum refineries in the United States. Which of the following was a likely effect of Standard Oil's business practices?",
+			"question": "By 1878, the Standard Oil Company, owned by John D. Rockefeller, had bought out most of its business rivals and controlled 90% of the petroleum refineries in the United States.\n\n Which of the following was a likely effect of Standard Oil's business practices?",
 			"graphic": "noone",
 			"answers": [
 				"The company set limits on its prices.",
@@ -354,7 +354,7 @@
 		{
 			"number": 28,
 			"question": "Which of the following conclusions can you draw from the information in the chart?",
-			"graphic": "Social_2_5",
+			"graphic": "Social_2_12",
 			"answers": [
 				"The United States trades the most with the countries that are geographically closest to it.",
 				"Geographic location does not influence international trade.",
@@ -367,7 +367,7 @@
 		{
 			"number": 29,
 			"question": "Which of the following statements is best supported by the chart?",
-			"graphic": "Social_2_5",
+			"graphic": "Social_2_12",
 			"answers": [
 				"The level of goods and services imported to the United States has increased in the last decade.",
 				"Policies that restrict international trade do not effect on the U.S. economy",

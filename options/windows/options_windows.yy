@@ -1,9 +1,9 @@
 {
   "option_windows_display_name": "GED Practice Tests",
   "option_windows_executable_name": "${project_name}.exe",
-  "option_windows_version": "1.0.0.0",
+  "option_windows_version": "1.0.0.2",
   "option_windows_company_info": "YH Games",
-  "option_windows_product_info": "Testing Program",
+  "option_windows_product_info": "Student Testing Program",
   "option_windows_copyright_info": "",
   "option_windows_description_info": "A testing program",
   "option_windows_display_cursor": true,

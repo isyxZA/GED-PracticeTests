@@ -1,0 +1,80 @@
+{
+	"test": [
+		{
+			"number": 1,
+			"question": "Ten years ago, Sophia was half of Emma's age. If the ratio of their present ages is 3:4, what will be the total of their present ages?",
+			"graphic": "noone",
+			"answers": ["10", "35", "55", "65", "75"],
+			"answer": "35"
+		},
+		{
+			"number": 2,
+			"question": "The product of the ages of Olivia and Emily is 240. If twice the age of Emily is more than Olivia's age by 4 years, what is Emily's age?",
+			"graphic": "noone",
+			"answers": ["2", "12", "22", "32", "42"],
+			"answer": "12"
+		},
+		{
+			"number": 3,
+			"question": "The ages of two persons differ by 16 years. 6 years ago, the elder one was 3 times as old as the younger one. What is the present age of the elder person?",
+			"graphic": "noone",
+			"answers": ["15", "30", "45", "55", "65"],
+			"answer": "30"
+		},
+		{
+			"number": 4,
+			"question": "Present ages of Madison, Elizabeth, and Abigail are in proportions 4:7:9. Eight years ago, the sum of their ages was 56. What are their present ages (in years)?",
+			"graphic": "noone",
+			"answers": [
+				"16, 28, 36",
+				"6, 12, 24",
+				"28, 6, 3",
+				"28, 32, 16",
+				"32, 16, 16"
+			],
+			"answer": "16, 28, 36"
+		},
+		{
+			"number": 5,
+			"question": "The sum of the present ages of a son and his father is 60 years. Six years ago, the father's age was five times the age of the son. After 6 years, what will be the son's age?",
+			"graphic": "noone",
+			"answers": ["16", "20", "24", "28", "32"],
+			"answer": "20"
+		},
+		{
+			"number": 6,
+			"question": "The sum of ages of 5 children born at intervals of 3 years each is 50 years. Find out the age of the youngest child?",
+			"graphic": "noone",
+			"answers": ["2", "4", "6", "8", "12"],
+			"answer": "4"
+		},
+		{
+			"number": 7,
+			"question": "Mother is aged three times more than her son William. After 8 years, she would be two and a half times of William's age. After another 8 years, how many times would she be of William's age?",
+			"graphic": "noone",
+			"answers": ["2 times", "4 times", "6 times", "8 times", "10 times"],
+			"answer": "2 times"
+		},
+		{
+			"number": 8,
+			"question": "Liam is two years older than Noah who is twice as old as James. The total of the ages of Liam, Noah and James is 27 . How old is Noah?",
+			"graphic": "noone",
+			"answers": ["5", "7", "10", "13", "15"],
+			"answer": "10"
+		},
+		{
+			"number": 9,
+			"question": "Lucas is younger than Elijah by 7 years and their ages are in the respective ratio of 7:9. How old is Lucas?",
+			"graphic": "noone",
+			"answers": ["15.5", "23.5", "24.5", "25.5", "30.5"],
+			"answer": "24.5"
+		},
+		{
+			"number": 10,
+			"question": "Emma's present age is two-fifth of the age of her mother. After 8 years, Emma will be one-half of the age of her mother. What is the present age of the mother?",
+			"graphic": "noone",
+			"answers": ["30", "35", "40", "50", "55"],
+			"answer": "40"
+		}
+	]
+}
