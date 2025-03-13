@@ -100,8 +100,9 @@ switch uiState {
 									case "Math Quiz 2":
 									case "Math Quiz 3":
 									case "Math Quiz 4":
-									case "Expressions 1":
-									case "Equations 1":
+									case "Expressions":
+									case "Equations":
+									case "Linear Equations":
 										count ++
 										draw_set_color(c_lightning_yellow)
 										draw_set_font(fntQuestions)

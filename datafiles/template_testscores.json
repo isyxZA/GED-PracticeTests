@@ -61,12 +61,17 @@
 			"scores": [0, 0, 0]
 		},
 		{
-			"test": "Equations 1",
+			"test": "Equations",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
 		},
 		{
-			"test": "Expressions 1",
+			"test": "Linear Equations",
+			"dates": ["", "", ""],
+			"scores": [0, 0, 0]
+		},
+		{
+			"test": "Expressions",
 			"dates": ["", "", ""],
 			"scores": [0, 0, 0]
 		},

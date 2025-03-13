@@ -251,11 +251,11 @@ if global.canClick {
 						}
 					}
                     break
-				case "Expressions 1":
+				case "Expressions":
                     global.canClick = false
 					with oControl {
 						clear_test()
-						currentTest = "Expressions 1"
+						currentTest = "Expressions"
 						currentQuestionIndex = 0
 						currentQuestionText = ""
 						currentQuestionGraphic = noone
@@ -267,11 +267,27 @@ if global.canClick {
 						}
 					}
                     break
-				case "Equations 1":
+				case "Equations":
                     global.canClick = false
 					with oControl {
 						clear_test()
-						currentTest = "Equations 1"
+						currentTest = "Equations"
+						currentQuestionIndex = 0
+						currentQuestionText = ""
+						currentQuestionGraphic = noone
+						load_test(currentTest)
+						if questionData != noone {
+							setup_ui()
+							load_ui(uiLayout.test)
+							uiState = uiLayout.test
+						}
+					}
+                    break
+				case "Linear Equations":
+                    global.canClick = false
+					with oControl {
+						clear_test()
+						currentTest = "Linear Equations"
 						currentQuestionIndex = 0
 						currentQuestionText = ""
 						currentQuestionGraphic = noone

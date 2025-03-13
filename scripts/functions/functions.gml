@@ -169,7 +169,7 @@ function load_test(_testID){
 				questionData = json_parse(_string)
 			}
 			break
-		case "Expressions 1":
+		case "Expressions":
 			if file_exists("expressions_test_1.json") {
 				var _buffer = buffer_load("expressions_test_1.json")
 				var _string = buffer_read(_buffer, buffer_string)
@@ -177,9 +177,17 @@ function load_test(_testID){
 				questionData = json_parse(_string)
 			}
 			break
-		case "Equations 1":
+		case "Equations":
 			if file_exists("equations_test_1.json") {
 				var _buffer = buffer_load("equations_test_1.json")
+				var _string = buffer_read(_buffer, buffer_string)
+				buffer_delete(_buffer)
+				questionData = json_parse(_string)
+			}
+			break
+		case "Linear Equations":
+			if file_exists("linear_test_1.json") {
+				var _buffer = buffer_load("linear_test_1.json")
 				var _string = buffer_read(_buffer, buffer_string)
 				buffer_delete(_buffer)
 				questionData = json_parse(_string)
@@ -619,8 +627,9 @@ function load_ui(_layout) {
 			with oButtonRadio { instance_destroy() }
 			with oButtonUI { instance_destroy() }
 			// Spawn new buttons
-			spawn_button_menu(default_width * 0.2, default_height * 0.45, sButton, 1.25, 1, "Equations 1")
-			spawn_button_menu(default_width * 0.2, default_height * 0.55, sButton, 1.25, 1, "Expressions 1")
+			spawn_button_menu(default_width * 0.2, default_height * 0.4, sButton, 1.25, 1, "Equations")
+			spawn_button_menu(default_width * 0.2, default_height * 0.5, sButton, 1.25, 1, "Expressions")
+			spawn_button_menu(default_width * 0.2, default_height * 0.6, sButton, 1.25, 1, "Linear Equations")
 			
 			spawn_button_menu(default_width * 0.5, default_height * 0.35, sButton, 1.25, 1, "Math Quiz 1")
 			spawn_button_menu(default_width * 0.5, default_height * 0.45, sButton, 1.25, 1, "Math Quiz 2")
@@ -1073,6 +1082,22 @@ function find_graphic(_indentifier) {
 			return sExpressions_1_7
 		case "Expressions_1_8":
 			return sExpressions_1_8
+		case "Linear_1_1":
+			return sLinear_1_1
+		case "Linear_1_2":
+			return sLinear_1_2
+		case "Linear_1_3":
+			return sLinear_1_3
+		case "Linear_1_4":
+			return sLinear_1_4
+		case "Linear_1_5":
+			return sLinear_1_5
+		case "Linear_1_6":
+			return sLinear_1_6
+		case "Linear_1_7":
+			return sLinear_1_7
+		case "Linear_1_8":
+			return sLinear_1_8
 		// SCIENCE
 		case "Science_Quiz_1_1":
 			return sScienceQuiz_1_1
